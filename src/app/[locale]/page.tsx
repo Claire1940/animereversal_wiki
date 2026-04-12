@@ -27,8 +27,8 @@ const HOME_VIDEO_TITLE = 'Anime Reversal | Release Trailer'
 const EXTERNAL_LINKS = {
   gamePage: 'https://www.roblox.com/games/85535589075948/Anime-Reversal',
   robloxGroup: 'https://www.roblox.com/communities/414406594/XTS-Production',
-  discord: 'https://discord.gg/animereversal',
-  youtubeChannel: 'https://www.youtube.com/@Watchpixel',
+  discord: 'https://discord.com/invite/animereversal',
+  youtubeChannel: 'https://www.youtube.com/@starlesswatchpixel',
   trailer: 'https://www.youtube.com/watch?v=tGztrIV0TA4',
 } as const
 

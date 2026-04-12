@@ -122,22 +122,22 @@
       {
         "icon": "Gamepad2",
         "title": "Anime Reversal Summon Banners",
-        "description": "Banner value, pity planning, and pull timing"
+        "description": "Pull priorities, banner watchlist, and low-priority skips"
       },
       {
         "icon": "Eye",
         "title": "Anime Reversal Story Mode Guide",
-        "description": "Stage route, placements, and chapter progression"
+        "description": "Early to late story route with units, upgrades, and clear tips"
       },
       {
         "icon": "ArrowRight",
         "title": "Anime Reversal Infinite Mode",
-        "description": "Wave scaling, economy pacing, and endurance comps"
+        "description": "Wave plan with economy pacing, control timing, and boss pressure"
       },
       {
         "icon": "MessageCircle",
         "title": "Anime Reversal Community Links",
-        "description": "Official Discord, Roblox group, YouTube, and trailer"
+        "description": "Official hubs, trailer, and creator playlists for update tracking"
       }
     ]
   },
@@ -735,119 +735,287 @@
     },
     "lucidBlocksSteamDeckAndController": {
       "title": "Anime Reversal Summon Banners",
-      "displayType": "accordion",
-      "intro": "Banner guides should explain current value clearly: rate-up targets, pity planning, and who should skip or pull in Anime Reversal.",
-      "faqs": [
+      "displayType": "cardList",
+      "intro": "Anime Reversal summon value is built around Gems first and Trait Rerolls second. Pull for reliable ground carries before chasing niche picks, then reroll only on units that stay in your long-term lineup.",
+      "cards": [
         {
-          "question": "How should I evaluate an Anime Reversal banner?",
-          "answer": "Compare rate-up units against your current roster gaps, then decide whether the banner solves carry, support, or raid needs."
+          "name": "Anime Reversal Summon Currency Flow",
+          "tag": "System",
+          "icon": "Download",
+          "summary": "Spend Gems in the summon area first, then use Trait Rerolls at Mandra after your carry core is locked.",
+          "bullets": [
+            "Use UPDATE3 for 10,000 Gems and 300 Rerolls before major banner sessions.",
+            "Use TOKYO for 6,000 Gems and 100 Rerolls to extend pull windows.",
+            "Use 35KLIKES for 2,500 Gospel Pages and 200 Rerolls for upgrade pacing.",
+            "Secure one real carry with Gems before spending rerolls on traits."
+          ]
         },
         {
-          "question": "When should I save in Anime Reversal instead of pulling?",
-          "answer": "Save when the current banner does not improve your core progression lineup or when a major update banner is close."
+          "name": "Anime Reversal Best Early Banner Targets",
+          "tag": "Story Push",
+          "icon": "TrendingUp",
+          "summary": "Early story progression is strongest when banners improve wave clear and stable DPS without niche setup demands.",
+          "bullets": [
+            "Ruda (Fist) is a top ground DPS anchor with strong full-AOE value.",
+            "RedHair (Emperor) into RedHair (Awaken) is a long-term damage path.",
+            "Song Woo (Assassin) delivers reliable scaling in early and mid progression.",
+            "IceQueen (Empress) adds freeze control that stabilizes harder stages."
+          ]
         },
         {
-          "question": "How does Anime Reversal pity planning affect decisions?",
-          "answer": "Track pity progress before spending so each pull contributes toward a guaranteed high-value outcome."
+          "name": "Anime Reversal Best Long-Run Banner Targets",
+          "tag": "Boss and Infinite",
+          "icon": "Shield",
+          "summary": "After story stabilization, shift pulls toward boss pressure and long-run consistency for infinite and raid routes.",
+          "bullets": [
+            "Kirita (Dual) outperforms Kirita (Order) for sustained damage routes.",
+            "Igres (Elite) pairs with Song Woo for stronger boss-focused pressure.",
+            "Rio (Dancer) improves cleanup with bonus damage to low-HP enemies.",
+            "RedHair (Awaken) remains the best overall chase when evolution is available."
+          ]
         },
         {
-          "question": "Which Anime Reversal players benefit most from selective pulls?",
-          "answer": "New accounts and returning players gain the most by targeting banners that complete carry plus support synergy."
+          "name": "Anime Reversal Recent Banner Pool Watchlist",
+          "tag": "Patch Meta",
+          "icon": "Eye",
+          "summary": "Recent updates expanded the summon pool, so saving for patch-era banners is more valuable than random pull volume.",
+          "bullets": [
+            "Update 2.5 added Umbra Lord, Kafra, Haya, Aizo [Chrysails], Alphe, and Delty.",
+            "Update 3 added Gaju, Sokuna, and Yoji (Modula).",
+            "Patch banners are the best timing for Gems saved from code waves.",
+            "Review tier impact before spending into each new banner pool."
+          ]
         },
         {
-          "question": "How should Anime Reversal banner guides connect to tier lists?",
-          "answer": "Every banner recommendation should reference updated tier impact so pulls match the live meta."
+          "name": "Anime Reversal Low-Priority Pulls Right Now",
+          "tag": "Skip",
+          "icon": "X",
+          "summary": "Current live conditions favor ground damage and control, so hill-focused pulling is a low-value use of limited Gems.",
+          "bullets": [
+            "Do not center early pulls around Hill unit routes.",
+            "Jang-In and Goko are currently behind top ground options.",
+            "Spend limited Gems on wave clear, stun, freeze, and boss pressure first.",
+            "Add niche picks only after your core carry and support shell is complete."
+          ]
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
       "title": "Anime Reversal Story Mode Guide",
-      "displayType": "settingCards",
-      "intro": "Story mode guides should break each chapter into lineup targets, placement flow, and reward outcomes for steady Anime Reversal progression.",
-      "settings": [
+      "displayType": "stageList",
+      "intro": "Anime Reversal story progression is smoother when you climb in phases instead of forcing random summons. Use one farm slot, two ground carries, and one control slot to keep wave management clean.",
+      "stages": [
         {
-          "name": "Anime Reversal Chapter Entry Check",
-          "type": "Preparation",
-          "description": "Confirm your carry, support, and economy slots before starting a new chapter push."
+          "stage": "Anime Reversal Early Story",
+          "icon": "Home",
+          "goal": "Stabilize income and clear opening maps without overinvesting in weak pulls.",
+          "recommendedUnits": [
+            "SpeedCEO",
+            "Ruda (Fist)",
+            "Enjo (Golden)",
+            "Song Woo (Assassin)"
+          ],
+          "upgradeOrder": [
+            "Place SpeedCEO early for passive money generation.",
+            "Add one main ground DPS on your strongest lane.",
+            "Upgrade the first carry before placing extra low-value units.",
+            "Add second damage only when leaks start to appear."
+          ],
+          "clearTips": [
+            "Ground damage is the safest early investment path.",
+            "Do not burn early Gems chasing hill-heavy setups.",
+            "One upgraded carry outperforms several weak placements."
+          ]
         },
         {
-          "name": "Anime Reversal Opening Placements",
-          "type": "Wave Start",
-          "description": "Open with efficient ground DPS placements and delay utility spending until economy stabilizes."
+          "stage": "Anime Reversal Mid Story",
+          "icon": "ArrowRight",
+          "goal": "Push through scaling waves and replace filler units with stable control and carry slots.",
+          "recommendedUnits": [
+            "Ruda (Fist)",
+            "RedHair (Emperor)",
+            "IceQueen (Empress)",
+            "SpeedCEO"
+          ],
+          "upgradeOrder": [
+            "Keep one farm running while upgrades scale.",
+            "Cap your primary carry before branching into flex units.",
+            "Add IceQueen after damage baseline is stable.",
+            "Transition RedHair toward the Awaken route as early as possible."
+          ],
+          "clearTips": [
+            "IceQueen freeze windows increase effective DPS uptime.",
+            "RedHair (Emperor) is worth early investment because Awaken is top-tier.",
+            "Avoid spreading upgrades too thin across the roster."
+          ]
         },
         {
-          "name": "Anime Reversal Mid-Wave Control",
-          "type": "Wave Control",
-          "description": "Add freeze or stun supports during pressure spikes to protect core carry uptime."
+          "stage": "Anime Reversal Boss Story Maps",
+          "icon": "Star",
+          "goal": "Scale single-target pressure while keeping enough AOE to prevent lane collapse.",
+          "recommendedUnits": [
+            "Igres (Elite)",
+            "Song Woo (Assassin)",
+            "Ruda (Fist)",
+            "IceQueen (Empress)"
+          ],
+          "upgradeOrder": [
+            "Open with a proven wave-clear carry first.",
+            "Add Song Woo for scaling boss pressure.",
+            "Pair Igres when boss HP starts deciding clears.",
+            "Use IceQueen or RedHair control to extend boss exposure windows."
+          ],
+          "clearTips": [
+            "Igres and Song Woo are strongest when used together.",
+            "Boss maps still punish weak wave control, so keep one AOE carry active.",
+            "Freeze and stun increase output without increasing placement count."
+          ]
         },
         {
-          "name": "Anime Reversal Boss-Wave Setup",
-          "type": "Boss Route",
-          "description": "Shift upgrades into boss-focused units before final waves and preserve cooldown timing."
-        },
-        {
-          "name": "Anime Reversal Reward Routing",
-          "type": "Progression",
-          "description": "Use chapter rewards to feed your next summon, trait reroll, or evolution milestone."
-        },
-        {
-          "name": "Anime Reversal Story Re-clear Plan",
-          "type": "Optimization",
-          "description": "Re-clear chapters that deliver the best mix of gems, materials, and leveling speed."
+          "stage": "Anime Reversal Late Story Push",
+          "icon": "ClipboardCheck",
+          "goal": "Convert a stable roster into a chapter-finishing lineup for harder maps and update stages.",
+          "recommendedUnits": [
+            "RedHair (Awaken)",
+            "Ruda (Fist)",
+            "Kirita (Dual)",
+            "IceQueen (Empress)",
+            "SpeedCEO"
+          ],
+          "upgradeOrder": [
+            "Open with farm plus one carry anchor.",
+            "Bring RedHair online as your main control pivot.",
+            "Add Kirita (Dual) or Ruda for sustained boss damage.",
+            "Use remaining slots for proven supports, not novelty units."
+          ],
+          "clearTips": [
+            "RedHair (Awaken) is the most reliable late-story closer.",
+            "Kirita (Dual) is the stronger sustained Kirita route.",
+            "Later chapters reward tight core teams over experimental lineups."
+          ]
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
       "title": "Anime Reversal Infinite Mode",
-      "displayType": "timeline",
-      "intro": "Infinite mode planning is about scaling economy early, rotating cooldowns correctly, and keeping boss answers ready deep into wave progression.",
-      "entries": [
+      "displayType": "cardList",
+      "intro": "Anime Reversal Infinite Mode rewards scaling ground DPS, crowd control, and one economy slot that keeps upgrade timing ahead of wave pressure. Build carry first, control second, and boss pressure third.",
+      "cards": [
         {
-          "title": "Anime Reversal Infinite Mode Opening",
-          "type": "Early Waves",
-          "description": "Secure one carry plus one economy slot immediately so your upgrade curve stays ahead of wave scaling."
+          "name": "Anime Reversal Core Infinite Team",
+          "tag": "Meta Core",
+          "icon": "Settings",
+          "summary": "The most consistent long-run shell is one farm, two scaling carries, and one control anchor for stable early waves and late pressure.",
+          "bullets": [
+            "Use SpeedCEO for passive economy scaling.",
+            "Run Ruda (Fist) as the primary ground DPS anchor.",
+            "Use RedHair (Awaken) and IceQueen for stun and freeze control.",
+            "Add Igres plus Song Woo when boss damage becomes critical."
+          ]
         },
         {
-          "title": "Anime Reversal Infinite Mode Mid-Game",
-          "type": "Stability",
-          "description": "Layer freeze or stun support once wave density increases to preserve damage uptime."
+          "name": "Anime Reversal Wave 1-20 Setup",
+          "tag": "Early Waves",
+          "icon": "Clock",
+          "summary": "Early Infinite runs fail when players overplace too fast. Keep the opener efficient and push upgrades before adding filler units.",
+          "bullets": [
+            "Open with SpeedCEO plus one strong carry.",
+            "Upgrade your first carry before filling extra slots.",
+            "Use Ruda or Song Woo as the first reliable damage anchor.",
+            "Hold control units until leak pressure actually starts."
+          ]
         },
         {
-          "title": "Anime Reversal Infinite Mode Late Waves",
-          "type": "Endurance",
-          "description": "Shift gold into boss counters and full-AOE upgrades to avoid collapse in late-wave spikes."
+          "name": "Anime Reversal Wave 21-60 Stabilization",
+          "tag": "Mid Waves",
+          "icon": "Sparkles",
+          "summary": "Mid-wave stability depends on timing freeze and stun support correctly, then converting uptime into stronger carry scaling.",
+          "bullets": [
+            "Add IceQueen after your base damage profile is stable.",
+            "Bring RedHair online to stall heavier pressure lanes.",
+            "Prioritize upgrade timing over raw placement count.",
+            "Stack strongest damage on the lane with longest uptime."
+          ]
         },
         {
-          "title": "Anime Reversal Infinite Mode Reward Planning",
-          "type": "Efficiency",
-          "description": "Track wave breakpoints and stop when reward-per-minute drops below your raid or story alternatives."
+          "name": "Anime Reversal Wave 60+ Boss Plan",
+          "tag": "Late Waves",
+          "icon": "Hammer",
+          "summary": "Past comfort waves, boss burn and stall windows determine run depth. Duo synergy and evolved carries decide late success.",
+          "bullets": [
+            "Pair Igres with Song Woo for stronger boss melts.",
+            "Keep RedHair (Awaken) active for long stun windows.",
+            "Use Kirita (Dual) as a sustained late-wave swap when needed.",
+            "Avoid late upgrades on low-scaling side units."
+          ]
+        },
+        {
+          "name": "Anime Reversal Current Mistakes to Avoid",
+          "tag": "Common Traps",
+          "icon": "AlertTriangle",
+          "summary": "Infinite difficulty rises quickly when team structure is weak. Build around proven core roles before experimenting with niche units.",
+          "bullets": [
+            "Do not center your Infinite team around Hill unit routes yet.",
+            "Goko and Jang-In remain lower-value picks in current patches.",
+            "Add niche units only after carry, control, and boss shell is complete.",
+            "Test new additions like Gaju, Sokuna, and Yoji only after core stability."
+          ]
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
       "title": "Anime Reversal Community Links",
-      "displayType": "steps",
-      "intro": "Keep these Anime Reversal official links visible so players can get updates, codes, and event announcements without delay.",
-      "steps": [
+      "displayType": "linkGrid",
+      "intro": "These Anime Reversal hubs are the fastest way to track codes, patch notes, trailers, and update showcases. Start with the official game page, Discord, Roblox group, and official video channel.",
+      "links": [
         {
-          "title": "Join Anime Reversal Discord",
-          "description": "Use the official Discord for code drops, event alerts, and raid coordination with active players."
+          "label": "Anime Reversal Official Game Page",
+          "kind": "Official",
+          "icon": "Gamepad2",
+          "url": "https://www.roblox.com/games/85535589075948/Anime-Reversal",
+          "note": "Launch the game, verify update tags, and check live experience details."
         },
         {
-          "title": "Follow Anime Reversal on Roblox",
-          "description": "Track game updates directly on the official Roblox game page and watch for patch rollouts."
+          "label": "Anime Reversal XTS Production Roblox Group",
+          "kind": "Official",
+          "icon": "Users",
+          "url": "https://www.roblox.com/communities/414406594/XTS-Production",
+          "note": "Required for some code redemption flows and useful for ecosystem announcements."
         },
         {
-          "title": "Join the XTS Production Roblox Group",
-          "description": "Group membership supports code eligibility requirements and community coordination."
+          "label": "Anime Reversal Discord",
+          "kind": "Official",
+          "icon": "MessageCircle",
+          "url": "https://discord.com/invite/animereversal",
+          "note": "Best source for patch alerts, code drops, sneak peeks, and community help."
         },
         {
-          "title": "Watch Anime Reversal on Watchpixel YouTube",
-          "description": "Follow official trailers and update videos from the Watchpixel channel."
+          "label": "Anime Reversal Watchpixel YouTube Channel",
+          "kind": "Official Video",
+          "icon": "ExternalLink",
+          "url": "https://www.youtube.com/@starlesswatchpixel",
+          "note": "Primary video hub for trailers, update promos, and patch showcases."
         },
         {
-          "title": "Bookmark Anime Reversal release trailer",
-          "description": "Keep the trailer link available for quick reference in update and onboarding sections."
+          "label": "Anime Reversal Release Trailer",
+          "kind": "Official Video",
+          "icon": "BookOpen",
+          "url": "https://www.youtube.com/watch?v=tGztrIV0TA4",
+          "note": "Fastest single-link overview of the launch presentation."
+        },
+        {
+          "label": "Anime Reversal Guide Playlist",
+          "kind": "Creator Playlist",
+          "icon": "Copy",
+          "url": "https://www.youtube.com/playlist?list=PLA83E2DLYLDUpXM8QMYjE6Po-SZDALmkV",
+          "note": "Frequent creator coverage for secret units, raids, and update-era team routes."
+        },
+        {
+          "label": "Anime Reversal Beginner Guide Playlist",
+          "kind": "Creator Playlist",
+          "icon": "Keyboard",
+          "url": "https://www.youtube.com/playlist?list=PLv9P3xWa4czdSE0y9IRH3H4hIZK4PeSFM",
+          "note": "Practical onboarding videos for units, farming, story flow, and lobby systems."
         }
       ]
     }
