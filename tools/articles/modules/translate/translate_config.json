@@ -9,29 +9,21 @@
   "retry_attempts": 3,
   "retry_delay": 5,
 
-  "languages": ["ru", "pt", "de", "es", "ja", "ko", "fr"],
+  "languages": ["th", "pt", "es"],
   "default_language": "en",
   "output_dir": "content/",
 
   "game_names": {
-    "en": "Lucid Blocks",
-    "ru": "Lucid Blocks",
-    "pt": "Lucid Blocks",
-    "de": "Lucid Blocks",
-    "es": "Lucid Blocks",
-    "ja": "Lucid Blocks",
-    "ko": "Lucid Blocks",
-    "fr": "Lucid Blocks"
+    "en": "Anime Reversal Wiki",
+    "th": "การพลิกกลับอนิเมะ Wiki",
+    "pt": "Reversão de Anime Wiki",
+    "es": "Reversión de anime Wiki"
   },
 
   "lang_names": {
-    "ru": "Russian",
+    "th": "Thai",
     "pt": "Portuguese (Brazil)",
-    "de": "German",
-    "es": "Spanish (Latin America)",
-    "ja": "Japanese",
-    "ko": "Korean",
-    "fr": "French"
+    "es": "Spanish"
   },
 
   "batch_size": 20,
