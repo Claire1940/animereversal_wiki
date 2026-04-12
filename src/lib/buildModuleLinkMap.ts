@@ -26,34 +26,34 @@ const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
   lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
   lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
   lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
-  lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  lucidBlocksCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  lucidBlocksSteamDeckAndController: { field: 'cards', nameKey: 'name' },
+  lucidBlocksSettingsAndAccessibility: { field: 'stages', nameKey: 'stage' },
+  lucidBlocksUpdatesAndPatchNotes: { field: 'cards', nameKey: 'name' },
+  lucidBlocksCrashFixAndTroubleshooting: { field: 'links', nameKey: 'label' },
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  lucidBlocksBeginnerGuide: ['codes', 'update3', 'tokyo', 'rerolls', 'gems', 'expired'],
+  lucidBlocksApotheosisCrafting: ['tier list', 's tier', 'ground dps', 'control support', 'speedceo', 'meta'],
+  lucidBlocksToolsAndWeapons: ['beginner guide', 'early pulls', 'ground dps', 'farm slot', 'first evolution', 'checklist'],
+  lucidBlocksStorageAndInventory: ['units', 'redhair awaken', 'ruda fist', 'kirita dual', 'song woo', 'igres'],
+  lucidBlocksQualiaAndBaseBuilding: ['traits', 'mandra', 'elite', 'zodiac', 'spa booster', 'trait rerolls'],
+  lucidBlocksWorldRegions: ['evolutions', 'haki hat', 'traveller npc', 'ragnarok portals', 'hu tao', 'qin sha'],
+  lucidBlocksCreaturesAndEnemies: ['secret units', 'hu tao', 'yoji modula', 'qinsha emperor', 'quest chain', 'elite secret'],
+  lucidBlocksMobilityGear: ['raids', 'cid raid', 'jjk portal', 'ragnarok', 'stall control', 'economy opening'],
+  lucidBlocksFarmingAndGrowth: ['best units', 'ss unit', 'ground damage', 'redhair awaken', 'ruda fist', 'icequeen'],
+  lucidBlocksBestEarlyUnlocks: ['update notes', 'update 3', 'update 2.5', 'patch cycle', '2026-04-07', '2026-03-27'],
+  lucidBlocksAchievementTracker: ['trait rerolls', 'code funnel', 'mythic traits', 'fallback traits', 'unit value', 'reroll stock'],
+  lucidBlocksSingleplayerAndPlatformFAQ: ['gems guide', 'spending ladder', 'summons', 'redhair awaken', 'trait optimization', 'save gems'],
+  lucidBlocksSteamDeckAndController: ['summon banners', 'currency flow', 'early banner targets', 'long-run targets', 'watchlist', 'low-priority pulls'],
+  lucidBlocksSettingsAndAccessibility: ['story mode', 'early story', 'mid story', 'boss maps', 'late story push', 'farm slot'],
+  lucidBlocksUpdatesAndPatchNotes: ['infinite mode', 'wave 1-20', 'wave 21-60', 'wave 60+', 'economy slot', 'boss plan'],
+  lucidBlocksCrashFixAndTroubleshooting: ['community links', 'discord', 'roblox group', 'watchpixel', 'youtube', 'trailer'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['anime', 'reversal', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
@@ -77,9 +77,9 @@ function matchScore(queryText: string, article: ArticleWithType, extraKeywords?:
 
   let score = 0
 
-  // Exact phrase match in title (stripped of "Lucid Blocks")
-  const strippedQuery = normalizedQuery.replace(/lucid blocks?\s*/g, '').trim()
-  const strippedTitle = normalizedTitle.replace(/lucid blocks?\s*/g, '').trim()
+  // Exact phrase match in title (stripped of "Anime Reversal")
+  const strippedQuery = normalizedQuery.replace(/anime reversal\s*/g, '').trim()
+  const strippedTitle = normalizedTitle.replace(/anime reversal\s*/g, '').trim()
   if (strippedQuery.length > 3 && strippedTitle.includes(strippedQuery)) {
     score += 100
   }
