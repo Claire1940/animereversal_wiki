@@ -1,1314 +1,1314 @@
 {
   "seo": {
     "home": {
-      "title": "Anime Reversal Wiki - Codes, Units & Tier List",
-      "description": "Anime Reversal Wiki covers working codes, unit tier lists, traits, raids, evolutions, and progression guides for the Roblox anime tower defense game.",
-      "keywords": "Anime Reversal, Roblox, codes, units, tier list, traits, raids, evolutions, wiki",
-      "ogTitle": "Anime Reversal Wiki - Codes, Units & Tier List",
-      "ogDescription": "Anime Reversal Wiki covers working codes, unit tier lists, traits, raids, evolutions, and progression guides for the Roblox anime tower defense game.",
-      "twitterTitle": "Anime Reversal Wiki - Codes, Units & Tier List",
-      "twitterDescription": "Anime Reversal Wiki tracks active codes, best units, trait rerolls, raids, and update notes for Roblox players."
+      "title": "Anime Reversal Wiki - รหัส หน่วย และรายการระดับ",
+      "description": "Anime Reversal Wiki ครอบคลุมถึงรหัสการทำงาน รายการระดับหน่วย คุณลักษณะ การจู่โจม วิวัฒนาการ และคำแนะนำเกี่ยวกับความก้าวหน้าสำหรับเกมป้องกันป้อมอนิเมะ Roblox",
+      "keywords": "Anime Reversal, Roblox, รหัส, หน่วย, รายการระดับ, ลักษณะเฉพาะ, การจู่โจม, วิวัฒนาการ, วิกิ",
+      "ogTitle": "Anime Reversal Wiki - รหัส หน่วย และรายการระดับ",
+      "ogDescription": "Anime Reversal Wiki ครอบคลุมถึงรหัสการทำงาน รายการระดับหน่วย คุณลักษณะ การจู่โจม วิวัฒนาการ และคำแนะนำเกี่ยวกับความก้าวหน้าสำหรับเกมป้องกันป้อมอนิเมะ Roblox",
+      "twitterTitle": "Anime Reversal Wiki - รหัส หน่วย และรายการระดับ",
+      "twitterDescription": "Anime Reversal Wiki ติดตามโค้ดที่ใช้งานอยู่ หน่วยที่ดีที่สุด การสุ่มคุณสมบัติ การจู่โจม และบันทึกการอัปเดตสำหรับผู้เล่น Roblox"
     }
   },
   "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "units": "Units",
-    "items": "Items",
-    "traits": "Traits",
-    "evolution": "Evolution",
-    "resources": "Resources",
-    "script": "Script",
-    "tier": "Tier",
-    "tierList": "Tier List",
-    "updates": "Updates"
+    "codes": "รหัส",
+    "guide": "คู่มือ",
+    "units": "หน่วย",
+    "items": "รายการ",
+    "traits": "ลักษณะ",
+    "evolution": "วิวัฒนาการ",
+    "resources": "ทรัพยากร",
+    "script": "สคริปต์",
+    "tier": "ชั้น",
+    "tierList": "รายการระดับ",
+    "updates": "อัพเดท"
   },
   "common": {
-    "home": "Home",
-    "more": "More",
-    "playNow": "Play on Roblox",
-    "switchLanguage": "Switch Language",
-    "switchTheme": "Switch Theme",
-    "lightMode": "Light Mode",
-    "darkMode": "Dark Mode",
-    "notFound": "Page Not Found",
-    "notFoundDescription": "The page you are looking for does not exist.",
-    "backToHome": "Back to Home",
-    "relatedArticles": "Related Articles",
-    "readMore": "Read More",
-    "noArticlesYet": "No articles yet",
-    "moreWikis": "More Wikis",
-    "selectLanguage": "Select language"
+    "home": "บ้าน",
+    "more": "เพิ่มเติม",
+    "playNow": "เล่นบน Roblox",
+    "switchLanguage": "สลับภาษา",
+    "switchTheme": "สลับธีม",
+    "lightMode": "โหมดแสง",
+    "darkMode": "โหมดมืด",
+    "notFound": "ไม่พบเพจ",
+    "notFoundDescription": "หน้าที่คุณกำลังค้นหาไม่มีอยู่",
+    "backToHome": "กลับไปที่บ้าน",
+    "relatedArticles": "บทความที่เกี่ยวข้อง",
+    "readMore": "อ่านเพิ่มเติม",
+    "noArticlesYet": "ยังไม่มีบทความ",
+    "moreWikis": "วิกิเพิ่มเติม",
+    "selectLanguage": "เลือกภาษา"
   },
   "hero": {
-    "badge": "Roblox Anime Tower Defense",
+    "badge": "Roblox อะนิเมะทาวเวอร์กลาโหม",
     "title": "Anime Reversal Wiki",
-    "description": "Track active codes, unit tier lists, traits, evolutions, raids, and update notes for Roblox's fast-growing anime tower defense game.",
-    "getFreeCodesCTA": "Get Anime Reversal Codes",
-    "playOnSteamCTA": "Play Anime Reversal on Roblox",
+    "description": "ติดตามรหัสที่ใช้งานอยู่ รายการระดับยูนิต ลักษณะ วิวัฒนาการ การจู่โจม และบันทึกการอัปเดตสำหรับเกมป้องกันป้อมอนิเมะที่เติบโตอย่างรวดเร็วของ Roblox",
+    "getFreeCodesCTA": "รับรหัส Anime Reversal",
+    "playOnSteamCTA": "เล่น Anime Reversal บน Roblox",
     "stats": {
       "stat1": {
         "value": "4.5M+",
-        "label": "Total Visits"
+        "label": "การเข้าชมทั้งหมด"
       },
       "stat2": {
         "value": "1.9K+",
-        "label": "Players Online"
+        "label": "ผู้เล่นออนไลน์"
       },
       "stat3": {
         "value": "22.5K+",
-        "label": "Favorites"
+        "label": "รายการโปรด"
       },
       "stat4": {
         "value": "97.9%",
-        "label": "Rating"
+        "label": "เรตติ้ง"
       }
     }
   },
   "gameFeature": {
-    "title": "Anime Reversal Gameplay",
-    "description": "Watch the official trailer and follow the latest Anime Reversal codes, unit upgrades, raids, and patch shifts."
+    "title": "Anime Reversal การเล่นเกม",
+    "description": "ชมตัวอย่างอย่างเป็นทางการและติดตามโค้ด Anime Reversal ล่าสุด การอัพเกรดยูนิต การจู่โจม และการเปลี่ยนแปลงแพตช์"
   },
   "tools": {
     "title": "Anime Reversal",
-    "titleHighlight": "Module Navigation",
-    "subtitle": "Jump to every Anime Reversal homepage module",
+    "titleHighlight": "การนำทางโมดูล",
+    "subtitle": "ข้ามไปยังโมดูลหน้าแรกของ Anime Reversal ทุกโมดูล",
     "cards": [
       {
-        "icon": "Download",
-        "title": "Anime Reversal Codes",
-        "description": "Active codes, expired codes, rewards, and redeem steps"
+        "icon": "ดาวน์โหลด",
+        "title": "Anime Reversal รหัส",
+        "description": "รหัสที่ใช้งานอยู่ รหัสที่หมดอายุ รางวัล และขั้นตอนการแลก"
       },
       {
-        "icon": "TrendingUp",
-        "title": "Anime Reversal Tier List",
-        "description": "Meta tiers for S, A, B, and farm priorities"
+        "icon": "กำลังมาแรง",
+        "title": "Anime Reversal รายการระดับ",
+        "description": "Meta Tier สำหรับลำดับความสำคัญของ S, A, B และฟาร์ม"
       },
       {
-        "icon": "BookOpen",
-        "title": "Anime Reversal Beginner Guide",
-        "description": "First-session progression and resource priorities"
+        "icon": "หนังสือเปิด",
+        "title": "Anime Reversal คู่มือเริ่มต้น",
+        "description": "ความก้าวหน้าของเซสชันแรกและลำดับความสำคัญของทรัพยากร"
       },
       {
-        "icon": "Users",
-        "title": "Anime Reversal Units",
-        "description": "Unit roles, placements, and investment value"
+        "icon": "ผู้ใช้",
+        "title": "Anime Reversal หน่วย",
+        "description": "บทบาทของหน่วย ตำแหน่ง และมูลค่าการลงทุน"
       },
       {
-        "icon": "Sparkles",
-        "title": "Anime Reversal Traits Guide",
-        "description": "Mandra rerolls, carry pairings, and support trait priority"
+        "icon": "ประกายไฟ",
+        "title": "Anime Reversal คู่มือคุณลักษณะ",
+        "description": "Mandra สุ่มซ้ำ จับคู่คู่ และสนับสนุนคุณสมบัติตามลำดับความสำคัญ"
       },
       {
-        "icon": "Hammer",
-        "title": "Anime Reversal Evolutions",
-        "description": "RedHair, Hu Tao, and Ragnarok evolution route checklists"
+        "icon": "ค้อน",
+        "title": "Anime Reversal วิวัฒนาการ",
+        "description": "รายการตรวจสอบเส้นทางวิวัฒนาการ RedHair, Hu Tao และ Ragnarok"
       },
       {
-        "icon": "Star",
-        "title": "Anime Reversal Secret Units",
-        "description": "Secret unlock routes, prerequisites, and build priority"
+        "icon": "ดาว",
+        "title": "Anime Reversal หน่วยลับ",
+        "description": "เส้นทางการปลดล็อคความลับ ข้อกำหนดเบื้องต้น และลำดับความสำคัญในการสร้าง"
       },
       {
-        "icon": "Shield",
-        "title": "Anime Reversal Raids",
-        "description": "CID, JJK, and Ragnarok raid loops with wave priorities"
+        "icon": "โล่",
+        "title": "Anime Reversal การโจมตี",
+        "description": "CID, JJK และ Ragnarok raid วนซ้ำตามลำดับความสำคัญของคลื่น"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Anime Reversal Best Units",
-        "description": "Ranked unit shortlist with trait, role, and build notes"
+        "icon": "คลิปบอร์ดตรวจสอบ",
+        "title": "Anime Reversal หน่วยที่ดีที่สุด",
+        "description": "จัดอันดับตัวเลือกหน่วยที่มีลักษณะ บทบาท และบันทึกการสร้าง"
       },
       {
-        "icon": "Clock",
-        "title": "Anime Reversal Update Notes",
-        "description": "Patch timeline with release dates, code waves, and meta shifts"
+        "icon": "นาฬิกา",
+        "title": "Anime Reversal บันทึกการอัปเดต",
+        "description": "ไทม์ไลน์แพตช์พร้อมวันที่เผยแพร่ โค้ดเวฟ และการเปลี่ยนแปลงเมตา"
       },
       {
-        "icon": "Settings",
-        "title": "Anime Reversal Trait Rerolls",
-        "description": "Step-by-step reroll plan with target traits and stop rules"
+        "icon": "การตั้งค่า",
+        "title": "Anime Reversal การสุ่มคุณสมบัติ",
+        "description": "แผนการสุ่มซ้ำทีละขั้นตอนพร้อมคุณสมบัติเป้าหมายและกฎการหยุด"
       },
       {
-        "icon": "Package",
-        "title": "Anime Reversal Gems Guide",
-        "description": "Gem spending ladder for summons, evolutions, and rerolls"
+        "icon": "แพ็คเกจ",
+        "title": "Anime Reversal คู่มืออัญมณี",
+        "description": "บันไดการใช้อัญมณีสำหรับการอัญเชิญ วิวัฒนาการ และการสุ่มซ้ำ"
       },
       {
-        "icon": "Gamepad2",
-        "title": "Anime Reversal Summon Banners",
-        "description": "Pull priorities, banner watchlist, and low-priority skips"
+        "icon": "เกมแพด2",
+        "title": "Anime Reversal อัญเชิญแบนเนอร์",
+        "description": "ดึงลำดับความสำคัญ รายการเฝ้าดูแบนเนอร์ และการข้ามที่มีลำดับความสำคัญต่ำ"
       },
       {
-        "icon": "Eye",
-        "title": "Anime Reversal Story Mode Guide",
-        "description": "Early to late story route with units, upgrades, and clear tips"
+        "icon": "ตา",
+        "title": "Anime Reversal คู่มือโหมดเนื้อเรื่อง",
+        "description": "เส้นทางเนื้อเรื่องตั้งแต่ต้นถึงปลายพร้อมยูนิต การอัพเกรด และเคล็ดลับที่ชัดเจน"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Anime Reversal Infinite Mode",
-        "description": "Wave plan with economy pacing, control timing, and boss pressure"
+        "icon": "ลูกศรขวา",
+        "title": "Anime Reversal โหมดไม่มีที่สิ้นสุด",
+        "description": "แผนคลื่นที่มีการเว้นจังหวะแบบประหยัด จังหวะการควบคุม และความกดดันจากบอส"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Anime Reversal Community Links",
-        "description": "Official hubs, trailer, and creator playlists for update tracking"
+        "icon": "ข้อความวงกลม",
+        "title": "Anime Reversal ลิงก์ชุมชน",
+        "description": "ฮับอย่างเป็นทางการ ตัวอย่าง และเพลย์ลิสต์ของผู้สร้างสำหรับการติดตามการอัปเดต"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Anime Reversal Codes",
-      "displayType": "steps",
-      "intro": "Codes are the fastest way to scale early summons, rerolls, and upgrades in Anime Reversal. This module keeps active rewards first and separates expired promos clearly.",
+      "title": "Anime Reversal รหัส",
+      "displayType": "ขั้นตอน",
+      "intro": "รหัสเป็นวิธีที่เร็วที่สุดในการปรับขนาดการอัญเชิญล่วงหน้า การสุ่มซ้ำ และการอัปเกรดใน Anime Reversal โมดูลนี้จะเก็บรางวัลที่ใช้งานอยู่ก่อนและแยกโปรโมชันที่หมดอายุอย่างชัดเจน",
       "steps": [
         {
-          "title": "Redeem UPDATE3 for Anime Reversal resources",
-          "description": "Use UPDATE3 to claim 10,000 Gems and 300 Rerolls after you reach Level 2 and join the XTS Production group."
+          "title": "แลก UPDATE3 สำหรับทรัพยากร Anime Reversal",
+          "description": "ใช้ UPDATE3 เพื่อรับ 10,000 Gems และ 300 Rerolls หลังจากที่คุณไปถึงระดับ 2 และเข้าร่วมกลุ่ม XTS Production"
         },
         {
-          "title": "Redeem TOKYO for Anime Reversal summons",
-          "description": "TOKYO gives 6,000 Gems and 100 Rerolls, making it a strong boost before your first serious banner cycle."
+          "title": "แลก TOKYO เพื่อรับAnime Reversal",
+          "description": "โตเกียวมอบอัญมณี 6,000 เม็ดและรีโรล 100 ครั้ง ช่วยเพิ่มพลังอย่างแข็งแกร่งก่อนรอบแบนเนอร์จริงจังครั้งแรกของคุณ"
         },
         {
-          "title": "Redeem 3POIT5MVISITS for Anime Reversal materials",
-          "description": "3POIT5MVISITS grants 2,000 Gems, 150 Rerolls, and 2,000 Black Fire for early progression routes."
+          "title": "แลก 3POIT5MVISITS สำหรับวัสดุ Anime Reversal",
+          "description": "3POIT5MVISITS มอบ 2,000 Gems, 150 Rerolls และ 2,000 Black Fire สำหรับเส้นทางความก้าวหน้าในช่วงแรก"
         },
         {
-          "title": "Redeem SryForBug3 in Anime Reversal",
-          "description": "SryForBug3 gives 100 Rerolls and 700 Black Fire and is worth claiming before trait reroll sessions."
+          "title": "แลก SryForBug3 ใน Anime Reversal",
+          "description": "SryForBug3 ให้ 100 Rerolls และ 700 Black Fire และคุ้มค่าที่จะรับก่อนเซสชั่นการสุ่มคุณสมบัติ"
         },
         {
-          "title": "Redeem ATOMIC and RAID for Anime Reversal value",
-          "description": "ATOMIC and RAID are still useful reward codes for extra Gems and Rerolls while building your first raid roster."
+          "title": "แลก ATOMIC และ RAID เพื่อรับค่า Anime Reversal",
+          "description": "ATOMIC และ RAID ยังคงเป็นรหัสรางวัลที่มีประโยชน์สำหรับอัญมณีพิเศษและการสุ่มซ้ำในขณะที่สร้างบัญชีรายชื่อการโจมตีครั้งแรกของคุณ"
         },
         {
-          "title": "Track active versus expired Anime Reversal codes",
-          "description": "Keep 30KLIKES, 2MVISITS, 20KMembers, and RAGNAROK in the expired list so players avoid wasted redemption attempts."
+          "title": "ติดตามรหัส Anime Reversal ที่ใช้งานอยู่และหมดอายุ",
+          "description": "เก็บ 30KLIKES, 2MVISITS, 20KMembers และ RAGNAROK ไว้ในรายชื่อที่หมดอายุ เพื่อให้ผู้เล่นหลีกเลี่ยงการพยายามแลกรางวัลโดยเปล่าประโยชน์"
         }
       ],
       "quickTips": [
-        "Anime Reversal code redemption requires joining XTS Production and reaching Level 2.",
-        "Redeem active Anime Reversal codes before pulling on banners or rerolling traits.",
-        "Pin expired Anime Reversal codes in a separate block to keep the active list clean.",
-        "Check Anime Reversal updates first because new milestone codes often launch with patches."
+        "การแลกรหัส Anime Reversal จำเป็นต้องเข้าร่วม XTS Production และถึงระดับ 2",
+        "แลกรหัส Anime Reversal ที่ใช้งานอยู่ก่อนที่จะดึงแบนเนอร์หรือคุณลักษณะใหม่",
+        "พินหมดอายุรหัส Anime Reversal ในบล็อกแยกต่างหากเพื่อให้รายการที่ใช้งานอยู่สะอาด",
+        "ตรวจสอบการอัปเดต Anime Reversal ก่อน เนื่องจากรหัสเหตุการณ์สำคัญใหม่มักจะเปิดตัวพร้อมกับแพตช์"
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Anime Reversal Tier List",
-      "displayType": "cards",
-      "intro": "This Anime Reversal ranking focuses on progression value, not rarity alone. Ground DPS and control support remain the strongest core in the current patch.",
+      "title": "Anime Reversal รายการระดับ",
+      "displayType": "การ์ด",
+      "intro": "การจัดอันดับ Anime Reversal นี้มุ่งเน้นไปที่คุณค่าของความก้าวหน้า ไม่ใช่ความหายากเพียงอย่างเดียว Ground DPS และการสนับสนุนการควบคุมยังคงเป็นคอร์ที่แข็งแกร่งที่สุดในแพตช์ปัจจุบัน",
       "cards": [
         {
-          "name": "Anime Reversal S Tier Core Units",
-          "description": "RedHair (Awaken), Ruda (Fist), Kirita (Dual), IceQueen (Empress), Igres (Elite), Song Woo (Assassin), and Rio (Dancer) anchor the strongest lineups."
+          "name": "Anime Reversal หน่วยหลักระดับ S",
+          "description": "RedHair (Awaken), Ruda (กำปั้น), Kirita (Dual), IceQueen (Empress), Igres (Elite), Song Woo (Assassin) และ Rio (Dancer) ถือเป็นรายชื่อผู้เล่นที่แข็งแกร่งที่สุด"
         },
         {
-          "name": "Anime Reversal A Tier Flexible Picks",
-          "description": "Kirita (Order), FireFist (Captain), Bacchi (Rockstar), Enjo (Golden), and Ame (Curse) remain strong when your S tier slots are incomplete."
+          "name": "Anime Reversal ตัวเลือกที่ยืดหยุ่นในระดับชั้น",
+          "description": "Kirita (Order), FireFist (กัปตัน), Bacchi (Rockstar), Enjo (Golden) และ Ame (Curse) จะยังคงแข็งแกร่งเมื่อช่องระดับ S ของคุณไม่สมบูรณ์"
         },
         {
-          "name": "Anime Reversal B Tier Early Fillers",
-          "description": "Cha-In (Sword Dancer) and Jang-In (Flame Master) can carry early progression but are best replaced in late content."
+          "name": "Anime Reversal ตัวเติมระดับ B ระดับเริ่มต้น",
+          "description": "Cha-In (Sword Dancer) และ Jang-In (Flame Master) สามารถดำเนินการได้ในช่วงแรกๆ แต่ควรแทนที่ด้วยเนื้อหาช่วงท้ายๆ"
         },
         {
-          "name": "Anime Reversal Farm Slot Priority",
-          "description": "SpeedCEO keeps your economy scaling and should hold the dedicated farm slot in most long runs."
+          "name": "Anime Reversal ลำดับความสำคัญของสล็อตฟาร์ม",
+          "description": "SpeedCEO ช่วยปรับขนาดเศรษฐกิจของคุณและควรรักษาช่องฟาร์มไว้โดยเฉพาะในระยะยาว"
         }
       ],
       "milestones": [
-        "Prioritize Anime Reversal ground DPS first",
-        "Add Anime Reversal freeze or stun support second",
-        "Keep one Anime Reversal economy unit active",
-        "Review Anime Reversal tiers after every major update"
+        "จัดลำดับความสำคัญ Anime Reversal DPS บนพื้นดินก่อน",
+        "เพิ่ม Anime Reversal หยุดหรือทำให้มึนงงสนับสนุนวินาที",
+        "ให้หน่วยเศรษฐกิจ Anime Reversal หนึ่งหน่วยใช้งานอยู่",
+        "ตรวจสอบระดับ Anime Reversal หลังจากการอัปเดตหลักทุกครั้ง"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Anime Reversal Beginner Guide",
+      "title": "Anime Reversal คู่มือเริ่มต้น",
       "displayType": "itemCards",
-      "intro": "A focused opening route saves Gems, rerolls, and materials. This Anime Reversal checklist keeps your first sessions efficient and avoids weak early investments.",
+      "intro": "เส้นทางการเปิดที่เน้นจะบันทึกอัญมณี การสุ่มซ้ำ และวัสดุ รายการตรวจสอบ Anime Reversal นี้ช่วยให้เซสชั่นแรกของคุณมีประสิทธิภาพ และหลีกเลี่ยงการลงทุนในช่วงแรกๆ ที่อ่อนแอ",
       "items": [
         {
-          "name": "Anime Reversal Beginner Step 1: Claim free resources",
-          "type": "Step 1",
-          "description": "Join XTS Production, hit Level 2, and redeem active codes before spending on summons or rerolls."
+          "name": "Anime Reversal เริ่มต้น ขั้นตอนที่ 1: อ้างสิทธิ์ทรัพยากรฟรี",
+          "type": "ขั้นตอนที่ 1",
+          "description": "เข้าร่วม XTS Production เข้าสู่ระดับ 2 และแลกรหัสที่ใช้งานอยู่ก่อนที่จะใช้จ่ายในการอัญเชิญหรือสุ่มซ้ำ"
         },
         {
-          "name": "Anime Reversal Beginner Step 2: Build around ground DPS",
-          "type": "Step 2",
-          "description": "Ground damage remains the safest opening investment because it fits the strongest current wave clear patterns."
+          "name": "Anime Reversal ขั้นตอนเริ่มต้น 2: สร้าง DPS บนพื้นดิน",
+          "type": "ขั้นตอนที่ 2",
+          "description": "ความเสียหายภาคพื้นดินยังคงเป็นการลงทุนในการเปิดที่ปลอดภัยที่สุด เนื่องจากเหมาะสมกับรูปแบบการเคลียร์คลื่นที่แรงที่สุด"
         },
         {
-          "name": "Anime Reversal Beginner Step 3: Keep strong early pulls",
-          "type": "Step 3",
-          "description": "Prioritize Ruda (Fist), RedHair (Emperor), and Song Woo (Assassin) when they appear early."
+          "name": "Anime Reversal ขั้นตอนเริ่มต้น 3: พยายามดึงให้แข็งแกร่งตั้งแต่เนิ่นๆ",
+          "type": "ขั้นตอนที่ 3",
+          "description": "จัดลำดับความสำคัญของ Ruda (กำปั้น), RedHair (จักรพรรดิ) และ Song Woo (Assassin) เมื่อปรากฏตัวตั้งแต่เนิ่นๆ"
         },
         {
-          "name": "Anime Reversal Beginner Step 4: Add control support",
-          "type": "Step 4",
-          "description": "After your first DPS core, add freeze or stun support to stabilize harder wave sets and bosses."
+          "name": "Anime Reversal ขั้นตอนเริ่มต้น 4: เพิ่มการสนับสนุนการควบคุม",
+          "type": "ขั้นตอนที่ 4",
+          "description": "หลังจากคอร์ DPS แรกของคุณ ให้เพิ่มการรองรับการแช่แข็งหรือสตันเพื่อรักษาเสถียรภาพของชุดเวฟและบอสที่ยากขึ้น"
         },
         {
-          "name": "Anime Reversal Beginner Step 5: Reserve one farm slot",
-          "type": "Step 5",
-          "description": "SpeedCEO remains a long-term economy engine and helps your upgrades hit earlier breakpoints."
+          "name": "Anime Reversal เริ่มต้นขั้นตอนที่ 5: จองหนึ่งช่องฟาร์ม",
+          "type": "ขั้นตอนที่ 5",
+          "description": "SpeedCEO ยังคงเป็นกลไกทางเศรษฐกิจในระยะยาว และช่วยให้การอัปเกรดของคุณถึงจุดพักก่อนหน้า"
         },
         {
-          "name": "Anime Reversal Beginner Step 6: Plan first evolution",
-          "type": "Step 6",
-          "description": "RedHair (Emperor) into RedHair (Awaken) is a high-value early project with strong stun control impact."
+          "name": "Anime Reversal เริ่มต้นขั้นตอนที่ 6: วางแผนวิวัฒนาการครั้งแรก",
+          "type": "ขั้นตอนที่ 6",
+          "description": "RedHair (Emperor) สู่ RedHair (Awaken) เป็นโปรเจ็กต์มูลค่าสูงในช่วงแรกๆ ที่มีผลกระทบต่อการควบคุมอาการมึนงงอย่างมาก"
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Anime Reversal Units",
-      "displayType": "solutionCards",
-      "intro": "The Anime Reversal unit module should answer one question quickly: which unit deserves your next resources for story, raids, and long runs.",
+      "title": "Anime Reversal หน่วย",
+      "displayType": "การ์ดโซลูชั่น",
+      "intro": "โมดูลหน่วย Anime Reversal ควรตอบคำถามหนึ่งข้ออย่างรวดเร็ว: ยูนิตใดสมควรได้รับทรัพยากรถัดไปของคุณสำหรับเรื่องราว การจู่โจม และการวิ่งระยะไกล",
       "solutions": [
         {
-          "name": "RedHair (Awaken)",
-          "role": "Support DPS / Stun",
-          "description": "Top-tier control plus AOE damage, ideal for raids and long-wave pressure in Anime Reversal."
+          "name": "ผมแดง (ตื่นแล้ว)",
+          "role": "รองรับ DPS / สตัน",
+          "description": "การควบคุมระดับสูงสุดบวกกับความเสียหายแบบ AOE เหมาะสำหรับการจู่โจมและความกดดันคลื่นยาวใน Anime Reversal"
         },
         {
-          "name": "Ruda (Fist)",
-          "role": "Main DPS",
-          "description": "Reliable full-AOE scaling DPS and one of the best early-to-late investments in Anime Reversal."
+          "name": "รุดา (กำปั้น)",
+          "role": "พลังโจมตีหลัก",
+          "description": "DPS การปรับขนาด AOE เต็มรูปแบบที่เชื่อถือได้ และเป็นหนึ่งในการลงทุนตั้งแต่ต้นถึงปลายที่ดีที่สุดใน Anime Reversal"
         },
         {
-          "name": "Kirita (Dual)",
-          "role": "Burst DPS",
-          "description": "Strong sustained burst profile for bosses and dense waves in Anime Reversal."
+          "name": "คิริตะ (คู่)",
+          "role": "ระเบิด DPS",
+          "description": "โปรไฟล์การระเบิดต่อเนื่องที่แข็งแกร่งสำหรับบอสและคลื่นหนาแน่นใน Anime Reversal"
         },
         {
-          "name": "IceQueen (Empress)",
-          "role": "Freeze Support",
-          "description": "Wave control specialist that improves total team uptime against high-pressure rounds."
+          "name": "ไอซ์ควีน (จักรพรรดินี)",
+          "role": "ตรึงการสนับสนุน",
+          "description": "ผู้เชี่ยวชาญด้านการควบคุมคลื่นที่ปรับปรุงเวลาทำงานโดยรวมของทีมในการรับมือกับรอบที่มีแรงกดดันสูง"
         },
         {
-          "name": "Song Woo (Assassin)",
-          "role": "Scaling DPS",
-          "description": "Excellent long-run scaling and strong synergy with Igres in Anime Reversal boss content."
+          "name": "ซงวู (นักฆ่า)",
+          "role": "การปรับขนาด DPS",
+          "description": "การปรับขนาดระยะยาวที่ยอดเยี่ยมและการทำงานร่วมกันอย่างแข็งแกร่งกับ Igres ในเนื้อหาบอส Anime Reversal"
         },
         {
-          "name": "Igres (Elite)",
-          "role": "Boss DPS",
-          "description": "High burst damage profile for raid bosses and hard story checkpoints."
+          "name": "อิเกรส (อีลีท)",
+          "role": "บอส ดีพีเอส",
+          "description": "โปรไฟล์ความเสียหายแบบระเบิดสูงสำหรับบอสจู่โจมและจุดตรวจเรื่องยาก"
         },
         {
-          "name": "RedHair (Emperor)",
-          "role": "Evolution Base",
-          "description": "Great interim AOE unit and the core base for the RedHair (Awaken) evolution route."
+          "name": "ผมแดง (จักรพรรดิ์)",
+          "role": "ฐานวิวัฒนาการ",
+          "description": "หน่วย AOE ชั่วคราวที่ยอดเยี่ยมและเป็นฐานหลักสำหรับเส้นทางวิวัฒนาการ RedHair (Awaken)"
         },
         {
-          "name": "SpeedCEO",
-          "role": "Economy",
-          "description": "Dedicated farming slot that keeps Anime Reversal teams scaling through long stages."
+          "name": "สปีดซีอีโอ",
+          "role": "เศรษฐกิจ",
+          "description": "ช่องทำฟาร์มเฉพาะที่ช่วยให้ทีม Anime Reversal ขยายขนาดผ่านด่านอันยาวนาน"
         }
       ],
       "managementTips": [
-        "Build one Anime Reversal carry and one control unit before chasing niche picks.",
-        "Treat SpeedCEO as a permanent Anime Reversal economy slot in long runs.",
-        "Invest in evolvable Anime Reversal units to protect long-term resources.",
-        "Update Anime Reversal unit priorities after every patch and banner shift."
+        "สร้าง Anime Reversal หนึ่งตัวและหน่วยควบคุมหนึ่งตัวก่อนที่จะไล่ตามตัวเลือกเฉพาะ",
+        "ถือว่า SpeedCEO เป็นสล็อตเศรษฐกิจ Anime Reversal แบบถาวรในระยะยาว",
+        "ลงทุนในหน่วย Anime Reversal ที่พัฒนาได้เพื่อปกป้องทรัพยากรระยะยาว",
+        "อัปเดตลำดับความสำคัญของหน่วย Anime Reversal หลังจากการเปลี่ยนแปลงแพตช์และแบนเนอร์ทุกครั้ง"
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Anime Reversal Traits Guide",
-      "displayType": "tableCards",
-      "intro": "In Anime Reversal, traits are changed through the Mandra (Traits) NPC in the Upgrades area, and Trait Rerolls are one of the highest-value code rewards. Current pairings should match each unit's scaling style instead of chasing random rerolls.",
+      "title": "Anime Reversal คู่มือคุณลักษณะ",
+      "displayType": "ตารางการ์ด",
+      "intro": "ใน Anime Reversal ลักษณะจะถูกเปลี่ยนผ่าน Mandra (ลักษณะ) NPC ในพื้นที่อัปเกรด และการสุ่มลักษณะเป็นหนึ่งในรางวัลโค้ดที่มีมูลค่าสูงสุด การจับคู่ปัจจุบันควรตรงกับสไตล์การปรับขนาดของแต่ละยูนิต แทนที่จะไล่สุ่มสุ่ม",
       "cards": [
         {
-          "name": "Anime Reversal Trait Setup: Ruda (Fist)",
-          "role": "Ground DPS",
-          "bestTrait": "Elite",
-          "rerollPriority": "Very High",
-          "rerollStation": "Mandra (Traits) NPC",
-          "description": "Ruda (Fist) is one of the strongest Ground carries with Full AOE scaling, so Elite is the cleanest high-impact trait target."
+          "name": "Anime Reversal การตั้งค่าลักษณะ: Ruda (กำปั้น)",
+          "role": "กราวด์ DPS",
+          "bestTrait": "อีลิท",
+          "rerollPriority": "สูงมาก",
+          "rerollStation": "Mandra (ลักษณะ) NPC",
+          "description": "Ruda (กำปั้น) เป็นหนึ่งในพื้นที่ที่แข็งแกร่งที่สุดที่มีการขยาย AOE เต็มรูปแบบ ดังนั้น Elite จึงเป็นเป้าหมายที่มีลักษณะผลกระทบสูงที่สะอาดที่สุด"
         },
         {
-          "name": "Anime Reversal Trait Setup: RedHair (Emperor/Awaken)",
-          "role": "AOE Carry",
-          "bestTrait": "Elite",
-          "rerollPriority": "Very High",
-          "rerollStation": "Mandra (Traits) NPC",
-          "description": "The RedHair line stays relevant from progression into late-game clears, and Awaken adds reliable stun, so damage-first rolling has top value."
+          "name": "Anime Reversal การตั้งค่าลักษณะ: ผมสีแดง (จักรพรรดิ/ปลุกพลัง)",
+          "role": "AOE แครี่",
+          "bestTrait": "อีลิท",
+          "rerollPriority": "สูงมาก",
+          "rerollStation": "Mandra (ลักษณะ) NPC",
+          "description": "กลุ่ม RedHair ยังคงมีความเกี่ยวข้องตั้งแต่การผ่านไปจนถึงการเคลียร์ช่วงท้ายเกม และ Awaken จะเพิ่มสตันที่เชื่อถือได้ ดังนั้นการทอยที่สร้างความเสียหายก่อนจึงมีมูลค่าสูงสุด"
         },
         {
-          "name": "Anime Reversal Trait Setup: Kirita (Order)",
-          "role": "Boss DPS",
-          "bestTrait": "Zodiac",
-          "rerollPriority": "High",
-          "rerollStation": "Mandra (Traits) NPC",
-          "description": "Kirita (Order) prefers a crit-and-sustain pairing, and Zodiac is the most practical route for keeping the Order branch competitive."
+          "name": "Anime Reversal การตั้งค่าลักษณะ: คิริตะ (คำสั่ง)",
+          "role": "บอส ดีพีเอส",
+          "bestTrait": "จักรราศี",
+          "rerollPriority": "สูง",
+          "rerollStation": "Mandra (ลักษณะ) NPC",
+          "description": "คิริตะ (ออร์เดอร์) ชอบการจับคู่แบบคริติคอลและยั่งยืน และราศีเป็นแนวทางที่เป็นประโยชน์มากที่สุดในการรักษาสาขาออร์เดอร์ให้แข่งขันได้"
         },
         {
-          "name": "Anime Reversal Trait Setup: IceQueen (Empress)",
-          "role": "Freeze Support",
-          "bestTrait": "SPA Booster",
-          "rerollPriority": "High",
-          "rerollStation": "Mandra (Traits) NPC",
-          "description": "IceQueen provides control uptime, so lower SPA creates more value than raw damage traits on support-focused runs."
+          "name": "Anime Reversal การตั้งค่าลักษณะ: IceQueen (จักรพรรดินี)",
+          "role": "ตรึงการสนับสนุน",
+          "bestTrait": "สปาบูสเตอร์",
+          "rerollPriority": "สูง",
+          "rerollStation": "Mandra (ลักษณะ) NPC",
+          "description": "IceQueen ให้เวลาในการควบคุม ดังนั้น SPA ที่ต่ำกว่าจะสร้างมูลค่าได้มากกว่าลักษณะความเสียหายดิบจากการวิ่งที่เน้นการสนับสนุน"
         },
         {
-          "name": "Anime Reversal Trait Setup: FireFist (Captain)",
-          "role": "Burn DPS",
-          "bestTrait": "Doom",
-          "rerollPriority": "Medium",
-          "rerollStation": "Mandra (Traits) NPC",
-          "description": "FireFist scales best in packed wave pressure where Burn keeps ticking, and Doom is the trait that pushes that lane-clearing profile."
+          "name": "Anime Reversal การตั้งค่าลักษณะ: FireFist (กัปตัน)",
+          "role": "เบิร์น DPS",
+          "bestTrait": "ดูม",
+          "rerollPriority": "ปานกลาง",
+          "rerollStation": "Mandra (ลักษณะ) NPC",
+          "description": "FireFist จะปรับขนาดได้ดีที่สุดตามแรงดันคลื่นที่อัดแน่น โดยที่ Burn ยังคงดำเนินต่อไป และ Doom ก็เป็นคุณลักษณะที่ผลักดันโปรไฟล์การเคลียร์เลน"
         },
         {
-          "name": "Anime Reversal Trait Setup: Bacchi (Rockstar)",
-          "role": "AOE DPS",
-          "bestTrait": "Luna or Silence",
-          "rerollPriority": "Medium",
-          "rerollStation": "Mandra (Traits) NPC",
-          "description": "Bacchi is guaranteed through the battle pass, and lower SPA helps passive cycling, making Luna or Silence better than random stat rolls."
+          "name": "Anime Reversal การตั้งค่าลักษณะ: Bacchi (Rockstar)",
+          "role": "ความเสียหายแบบ AOE",
+          "bestTrait": "ลูน่าหรือความเงียบ",
+          "rerollPriority": "ปานกลาง",
+          "rerollStation": "Mandra (ลักษณะ) NPC",
+          "description": "รับประกัน Bacchi ผ่านการต่อสู้ และ SPA ที่ต่ำกว่าจะช่วยให้การปั่นจักรยานแบบพาสซีฟ ทำให้ Luna หรือ Silence ดีกว่าการทอยสถิติแบบสุ่ม"
         }
       ],
       "highlights": [
-        "Anime Reversal trait rerolls come from code rewards and should be saved for long-term carries.",
-        "Anime Reversal damage traits should be prioritized on Ground DPS anchors first.",
-        "Anime Reversal freeze and stun supports gain more from SPA-focused trait rolling.",
-        "Anime Reversal Mandra reroll sessions should use a fixed budget by unit priority."
+        "Anime Reversal การสุ่มคุณสมบัตินั้นมาจากรางวัลโค้ด และควรเก็บไว้เพื่อการพกพาในระยะยาว",
+        "Anime Reversal คุณลักษณะความเสียหายควรได้รับการจัดลำดับความสำคัญบนจุดยึด DPS ภาคพื้นดินก่อน",
+        "Anime Reversal การหยุดนิ่งและการทำให้มึนงงได้รับมากขึ้นจากการกลิ้งลักษณะที่เน้นไปที่ SPA",
+        "Anime Reversal เซสชันการสุ่มซ้ำของ Mandra ควรใช้งบประมาณคงที่ตามลำดับความสำคัญของหน่วย"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Anime Reversal Evolutions",
-      "displayType": "timelineCards",
-      "intro": "Anime Reversal evolutions use a mix of materials, timed NPC windows, quest chains, and portal farming. The best routes are the ones that unlock real gameplay spikes such as stun control, boss pressure, or elite secret progression.",
+      "title": "Anime Reversal วิวัฒนาการ",
+      "displayType": "ไทม์ไลน์การ์ด",
+      "intro": "Anime Reversal วิวัฒนาการใช้การผสมผสานระหว่างวัสดุ หน้าต่าง NPC แบบกำหนดเวลา ห่วงโซ่ภารกิจ และการทำฟาร์มพอร์ทัล เส้นทางที่ดีที่สุดคือเส้นทางที่จะปลดล็อกการเล่นเกมที่แท้จริง เช่น การควบคุมสตัน การกดดันของบอส หรือความก้าวหน้าลับระดับสูง",
       "regions": [
         {
-          "name": "Anime Reversal Evolution Route: RedHair to RedHair (Awaken)",
-          "type": "Timed NPC Evolution",
-          "targetForm": "RedHair (Awaken)",
-          "materials": "Haki Hat EVO item, 10,000 Gems, 10 Rerolls, and 15,000 Gold",
-          "trigger": "The RedHair NPC appears in the lobby once every hour for 5 minutes, and Traveller NPC provides spawn hints.",
+          "name": "Anime Reversal เส้นทางวิวัฒนาการ: ผมสีแดงถึงผมสีแดง (ตื่นขึ้น)",
+          "type": "วิวัฒนาการ NPC แบบกำหนดเวลา",
+          "targetForm": "ผมแดง (ตื่นแล้ว)",
+          "materials": "ไอเทม Haki Hat EVO, อัญมณี 10,000 ชิ้น, สุ่มซ้ำ 10 ครั้ง และทอง 15,000 ชิ้น",
+          "trigger": "NPC RedHair จะปรากฏตัวที่ล็อบบี้ทุกๆ ชั่วโมงเป็นเวลา 5 นาที และ NPC นักท่องเที่ยวจะให้คำแนะนำการวางไข่",
           "steps": [
-            "Build RedHair into RedHair (Emperor) first.",
-            "Check Traveller NPC for the active RedHair spawn hint.",
-            "Find the RedHair NPC during the hourly lobby window.",
-            "Buy the Haki Hat EVO item and complete the evolution."
+            "สร้าง RedHair ให้เป็น RedHair (Emperor) ก่อน",
+            "ตรวจสอบ Traveler NPC เพื่อดูคำแนะนำการวางไข่ RedHair ที่ใช้งานอยู่",
+            "ค้นหา RedHair NPC ระหว่างหน้าต่างล็อบบี้รายชั่วโมง",
+            "ซื้อไอเท็ม Haki Hat EVO และผ่านวิวัฒนาการ"
           ],
-          "description": "RedHair (Awaken) adds reliable stun on top of strong full-AOE damage, making it one of the highest-value upgrades."
+          "description": "RedHair (Awaken) เพิ่มการสตันที่เชื่อถือได้ นอกเหนือจากความเสียหายแบบ AOE เต็มรูปแบบ ทำให้เป็นหนึ่งในการอัพเกรดที่มีมูลค่าสูงสุด"
         },
         {
-          "name": "Anime Reversal Evolution Route: Hu Tao Secret Path",
-          "type": "Quest Chain Evolution",
-          "targetForm": "Hu Tao Funeral Parlor Elite into Doom Evolved Hu Tao",
-          "materials": "Secret quest line completion",
-          "trigger": "Finish the full Hu Tao secret quest route before advancing to the evolved Doom branch.",
+          "name": "Anime Reversal เส้นทางวิวัฒนาการ: เส้นทางลับ Hu Tao",
+          "type": "วิวัฒนาการของเควสต์เชน",
+          "targetForm": "สถานประกอบพิธีศพ Hu Tao Elite เข้าสู่ Doom Evolved Hu Tao",
+          "materials": "เสร็จสิ้นภารกิจลับ",
+          "trigger": "จบเส้นทางภารกิจลับ Hu Tao ให้เสร็จสิ้นก่อนที่จะก้าวไปสู่สาขา Doom ที่พัฒนาแล้ว",
           "steps": [
-            "Start the Anime Reversal Hu Tao secret unlock route.",
-            "Complete the full quest chain tied to the secret line.",
-            "Claim Hu Tao Funeral Parlor Elite.",
-            "Advance the route into Doom Evolved Hu Tao for late-game scaling."
+            "เริ่มเส้นทางปลดล็อคความลับ Anime Reversal Hu Tao",
+            "สำเร็จภารกิจต่อเนื่องที่เชื่อมโยงกับสายลับ",
+            "อ้างสิทธิ์สถานรับเลี้ยงศพ Hu Tao Elite",
+            "บุกเบิกเส้นทางสู่ Doom Evolved Hu Tao เพื่อขยายช่วงท้ายเกม"
           ],
-          "description": "This evolution line is a high-interest quest grind because it moves from secret unlock into a separate evolved showcase form."
+          "description": "สายวิวัฒนาการนี้เป็นภารกิจที่มีความสนใจสูง เพราะมันย้ายจากการปลดล็อคความลับไปสู่รูปแบบการแสดงที่พัฒนาแยกต่างหาก"
         },
         {
-          "name": "Anime Reversal Evolution Route: QinSha, Saka, and Hadas",
-          "type": "Portal Farm Evolution",
-          "targetForm": "0.1% Elite Secret variants",
-          "materials": "Ragnarok portals, premium tickets, and Qin Sha NPC trade route",
-          "trigger": "Push higher Ragnarok portal tiers, then convert progression through the Qin Sha NPC trade path.",
+          "name": "Anime Reversal เส้นทางวิวัฒนาการ: QinSha, Saka และ Hadas",
+          "type": "วิวัฒนาการฟาร์มพอร์ทัล",
+          "targetForm": "ตัวแปรลับสุดยอด 0.1%",
+          "materials": "พอร์ทัล Ragnarok ตั๋วพรีเมียม และเส้นทางการค้าของ NPC Qin Sha",
+          "trigger": "ผลักดันระดับพอร์ทัล Ragnarok ให้สูงขึ้น จากนั้นแปลงความก้าวหน้าผ่านเส้นทางการค้าของ NPC ของ Qin Sha",
           "steps": [
-            "Farm Ragnarok portals consistently in loops.",
-            "Push into higher-tier portal runs for premium ticket flow.",
-            "Locate the Qin Sha NPC trade route tied to portal progression.",
-            "Convert the farm route into elite secret evolution value."
+            "พอร์ทัลฟาร์มแร็กนาร็อคจะวนซ้ำอย่างต่อเนื่อง",
+            "ผลักดันเข้าสู่พอร์ทัลระดับสูงกว่าเพื่อรับโฟลว์ตั๋วพรีเมียม",
+            "ค้นหาเส้นทางการค้าของ Qin Sha NPC ที่เชื่อมโยงกับความก้าวหน้าของพอร์ทัล",
+            "แปลงเส้นทางฟาร์มให้เป็นค่าวิวัฒนาการลับชั้นยอด"
           ],
-          "description": "These units become significantly stronger endgame targets once their elite secret evolution routes are online."
+          "description": "หน่วยเหล่านี้กลายเป็นเป้าหมายตอนจบเกมที่แข็งแกร่งขึ้นอย่างมากเมื่อเส้นทางวิวัฒนาการลับชั้นยอดของพวกเขาออนไลน์แล้ว"
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Anime Reversal Secret Units",
-      "displayType": "secretCards",
-      "intro": "Anime Reversal secret units combine RNG, quests, portals, and evolution routes. The highest-interest targets are the units that become core meta carries or unlock long quest-to-evolution chains.",
+      "title": "Anime Reversal หน่วยลับ",
+      "displayType": "บัตรลับ",
+      "intro": "Anime Reversal หน่วยลับรวม RNG, ภารกิจ, พอร์ทัล และเส้นทางวิวัฒนาการ เป้าหมายที่มีความสนใจสูงสุดคือยูนิตที่กลายเป็นเมตาดาต้าหลักหรือปลดล็อคสายโซ่การสืบเสาะสู่วิวัฒนาการอันยาวนาน",
       "creatures": [
         {
-          "name": "RedHair (Awaken)",
-          "role": "Secret EVO",
-          "obtainMethod": "Start from RedHair, evolve into Emperor, then use the Haki Hat route from the timed lobby NPC.",
-          "prerequisites": "RedHair (Emperor), RedHair NPC spawn, and Haki Hat EVO item",
-          "currentRole": "Best overall unit",
-          "worthBuilding": "Top priority",
-          "description": "RedHair (Awaken) is the most important Anime Reversal secret target because it combines full-AOE pressure with reliable stun."
+          "name": "ผมแดง (ตื่นแล้ว)",
+          "role": "อีโวลับ",
+          "obtainMethod": "เริ่มจาก RedHair พัฒนาเป็น Emperor จากนั้นใช้เส้นทาง Haki Hat จาก NPC ล็อบบี้ที่กำหนดเวลาไว้",
+          "prerequisites": "RedHair (Emperor), RedHair NPC วางไข่ และไอเท็ม Haki Hat EVO",
+          "currentRole": "หน่วยโดยรวมที่ดีที่สุด",
+          "worthBuilding": "ลำดับความสำคัญสูงสุด",
+          "description": "RedHair (Awaken) เป็นเป้าหมายลับที่สำคัญที่สุด Anime Reversal เพราะมันรวมแรงกดดันแบบ AOE เต็มรูปแบบเข้ากับการทำให้มึนงงที่เชื่อถือได้"
         },
         {
-          "name": "Hu Tao Funeral Parlor Elite",
-          "role": "Secret / Elite Route",
-          "obtainMethod": "Complete the full Hu Tao quest path, then push toward the evolved Doom showcase branch.",
-          "prerequisites": "Hu Tao secret quest completion",
-          "currentRole": "Late-game secret DPS chase",
-          "worthBuilding": "High priority",
-          "description": "Hu Tao is one of the most searched Anime Reversal secrets because the unlock is quest-based and extends into an evolved endgame route."
+          "name": "สถานประกอบพิธีศพ Hu Tao Elite",
+          "role": "เส้นทางลับ / ยอด",
+          "obtainMethod": "ทำเส้นทางภารกิจ Hu Tao ให้สำเร็จ จากนั้นมุ่งหน้าสู่สาขาแสดง Doom ที่พัฒนาแล้ว",
+          "prerequisites": "ภารกิจลับหูเต่าสำเร็จ",
+          "currentRole": "การไล่ล่า DPS ลับในช่วงท้ายเกม",
+          "worthBuilding": "มีลำดับความสำคัญสูง",
+          "description": "Hu Tao เป็นหนึ่งในความลับ Anime Reversal ที่ถูกค้นหามากที่สุด เนื่องจากการปลดล็อคเป็นไปตามภารกิจและขยายไปสู่เส้นทางจบเกมที่พัฒนาแล้ว"
         },
         {
-          "name": "Yoji (Modula)",
-          "role": "Secret Update Target",
-          "obtainMethod": "Chase current JJK-era update routes and secret progression content.",
-          "prerequisites": "Endgame update progression",
-          "currentRole": "Current update chase unit",
-          "worthBuilding": "High priority",
-          "description": "Yoji (Modula) remains a headline Anime Reversal update target with strong showcase value for current-cycle players."
+          "name": "โยจิ (โมดูล่า)",
+          "role": "เป้าหมายการอัพเดตความลับ",
+          "obtainMethod": "ติดตามเส้นทางการอัพเดตยุค JJK ในปัจจุบันและเนื้อหาความก้าวหน้าที่เป็นความลับ",
+          "prerequisites": "ความคืบหน้าการอัพเดต Endgame",
+          "currentRole": "หน่วยไล่ล่าอัพเดตปัจจุบัน",
+          "worthBuilding": "มีลำดับความสำคัญสูง",
+          "description": "Yoji (Modula) ยังคงเป็นหัวข้อข่าว Anime Reversal อัปเดตเป้าหมายโดยมีมูลค่าการแสดงที่แข็งแกร่งสำหรับผู้เล่นในรอบปัจจุบัน"
         },
         {
-          "name": "QinSha (Emperor)",
-          "role": "Secret",
-          "obtainMethod": "Farm Ragnarok portals, then use the Qin Sha NPC route linked to premium-ticket progression.",
-          "prerequisites": "Portal farming plus secret NPC trade path",
-          "currentRole": "A-tier secret option",
-          "worthBuilding": "Strong side chase",
-          "description": "QinSha is a portal-linked Anime Reversal secret with a clear endgame farm target instead of a basic summon-only unlock."
+          "name": "ฉินซา (จักรพรรดิ์)",
+          "role": "ความลับ",
+          "obtainMethod": "พอร์ทัลฟาร์ม Ragnarok จากนั้นใช้เส้นทาง Qin Sha NPC ที่เชื่อมโยงกับความก้าวหน้าของตั๋วพรีเมียม",
+          "prerequisites": "การทำฟาร์มพอร์ทัลพร้อมเส้นทางการค้า NPC ลับ",
+          "currentRole": "ตัวเลือกลับระดับ A",
+          "worthBuilding": "การไล่ล่าด้านข้างที่แข็งแกร่ง",
+          "description": "QinSha เป็นความลับ Anime Reversal ที่เชื่อมโยงกับพอร์ทัล โดยมีเป้าหมายฟาร์มท้ายเกมที่ชัดเจน แทนที่จะปลดล็อคแบบซัมมอนพื้นฐานเท่านั้น"
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Anime Reversal Raids",
-      "displayType": "raidCards",
-      "intro": "Anime Reversal raid and portal content is a roster check centered on CID Raid, JJK Portal, and Ragnarok portal farming. The most consistent clears still use economy opening, Ground DPS pressure, and one stall-control slot.",
+      "title": "Anime Reversal การโจมตี",
+      "displayType": "บัตรจู่โจม",
+      "intro": "Anime Reversal เนื้อหาการจู่โจมและพอร์ทัลเป็นการตรวจสอบบัญชีรายชื่อที่มีศูนย์กลางอยู่ที่ CID Raid, JJK Portal และการทำฟาร์มพอร์ทัล Ragnarok การเคลียร์ที่สอดคล้องกันมากที่สุดยังคงใช้ช่องเปิดแบบประหยัด แรงดัน DPS กราวด์ และช่องควบคุมแผงลอยหนึ่งช่อง",
       "items": [
         {
-          "name": "Anime Reversal CID Raid Strategy",
-          "type": "CID Raid",
-          "soloPossible": "Yes",
-          "chaseTarget": "CID raid progression and consistent clear route",
-          "minimumCore": "1 farm unit, 2 meta Ground DPS units, and 1 freeze or stun support",
+          "name": "Anime Reversal กลยุทธ์การโจมตี CID",
+          "type": "การโจมตี CID",
+          "soloPossible": "ใช่",
+          "chaseTarget": "ความก้าวหน้าของการโจมตี CID และเส้นทางที่ชัดเจนสม่ำเสมอ",
+          "minimumCore": "หน่วยฟาร์ม 1 หน่วย, หน่วย DPS เมต้ากราวด์ 2 หน่วย และการสนับสนุนการแช่แข็งหรือสตัน 1 รายการ",
           "bestUnits": [
-            "RedHair (Awaken)",
-            "Ruda (Fist)",
-            "IceQueen (Empress)",
-            "SpeedCEO"
+            "ผมแดง (ตื่นแล้ว)",
+            "รุดา (กำปั้น)",
+            "ไอซ์ควีน (จักรพรรดินี)",
+            "สปีดซีอีโอ"
           ],
           "wavePriorities": [
-            "Open with economy first so your damage curve is stable before heavy boss waves.",
-            "Get one full-AOE Ground carry online early.",
-            "Add stall support before the boss reaches the main lane."
+            "เปิดแบบประหยัดก่อน เพื่อให้เส้นโค้งความเสียหายของคุณคงที่ก่อนคลื่นบอสหนัก",
+            "รับ AOE Ground แบบเต็มหนึ่งครั้งทางออนไลน์ก่อนเวลา",
+            "เพิ่มการสนับสนุนแผงลอยก่อนที่เจ้านายจะไปถึงเลนหลัก"
           ],
-          "description": "RedHair stun plus IceQueen freeze is the easiest control loop for stable Anime Reversal CID clears."
+          "description": "RedHair stun บวกกับ IceQueen freeze เป็นลูปควบคุมที่ง่ายที่สุดสำหรับการเคลียร์ CID ที่เสถียร Anime Reversal"
         },
         {
-          "name": "Anime Reversal JJK Portal Strategy",
-          "type": "JJK Portal",
-          "soloPossible": "Yes",
-          "chaseTarget": "Update 3 JJK roster routes including Gaju, Sokuna, and Yoji (Modula)",
-          "minimumCore": "Economy plus one wave-clear carry and one boss-delete pairing",
+          "name": "Anime Reversal กลยุทธ์พอร์ทัล JJK",
+          "type": "เจเจเคพอร์ทัล",
+          "soloPossible": "ใช่",
+          "chaseTarget": "อัปเดต 3 เส้นทางบัญชีรายชื่อ JJK รวมถึง Gaju, Sokuna และ Yoji (Modula)",
+          "minimumCore": "เศรษฐกิจบวกกับการพกพาแบบเคลียร์คลื่นหนึ่งรายการและการจับคู่การลบบอสหนึ่งรายการ",
           "bestUnits": [
-            "Igres (Elite)",
-            "Song Woo (Assassin)",
-            "RedHair (Awaken)",
-            "SpeedCEO"
+            "อิเกรส (อีลีท)",
+            "ซงวู (นักฆ่า)",
+            "ผมแดง (ตื่นแล้ว)",
+            "สปีดซีอีโอ"
           ],
           "wavePriorities": [
-            "Stabilize lanes first, then pivot upgrades into boss damage.",
-            "Use Song Woo and Igres together for high boss pressure.",
-            "Keep one control slot active to prevent portal overruns."
+            "รักษาเสถียรภาพของเลนก่อน จากนั้นจึงอัปเกรดเป็นความเสียหายของบอส",
+            "ใช้ Song Woo และ Igres ร่วมกันเพื่อกดดันบอสระดับสูง",
+            "ให้ช่องควบคุมหนึ่งช่องทำงานอยู่เพื่อป้องกันการโอเวอร์รันพอร์ทัล"
           ],
-          "description": "JJK Portal is the clearest current Anime Reversal route for players chasing the newest update-cycle secrets."
+          "description": "JJK Portal เป็นเส้นทาง Anime Reversal ในปัจจุบันที่ชัดเจนที่สุดสำหรับผู้เล่นที่ไล่ตามความลับรอบการอัปเดตใหม่ล่าสุด"
         },
         {
-          "name": "Anime Reversal Ragnarok Tier 8 Strategy",
-          "type": "Ragnarok Tier 8 Portals",
-          "soloPossible": "Yes",
-          "chaseTarget": "QinSha route, premium tickets, and secret NPC trade progression",
-          "minimumCore": "High-end Ground DPS lineup with one support control slot",
+          "name": "Anime Reversal กลยุทธ์ Ragnarok ระดับ 8",
+          "type": "พอร์ทัล Ragnarok ระดับ 8",
+          "soloPossible": "ใช่",
+          "chaseTarget": "เส้นทาง QinSha ตั๋วพรีเมียม และความก้าวหน้าทางการค้าของ NPC ลับ",
+          "minimumCore": "กลุ่มผลิตภัณฑ์ DPS ภาคพื้นดินระดับไฮเอนด์พร้อมช่องควบคุมที่รองรับหนึ่งช่อง",
           "bestUnits": [
-            "Ruda (Fist)",
-            "RedHair (Awaken)",
-            "Igres (Elite)",
-            "Song Woo (Assassin)"
+            "รุดา (กำปั้น)",
+            "ผมแดง (ตื่นแล้ว)",
+            "อิเกรส (อีลีท)",
+            "ซงวู (นักฆ่า)"
           ],
           "wavePriorities": [
-            "Build stable wave clear before late-portal spikes begin.",
-            "Preserve boss damage for the harder end sections.",
-            "Farm this mode in loops when targeting QinSha and elite secret routes."
+            "สร้างคลื่นที่มั่นคงให้ชัดเจนก่อนที่จะเริ่มการขัดขวางพอร์ทัลช่วงท้าย",
+            "รักษาความเสียหายของบอสไว้สำหรับส่วนท้ายที่ยากกว่า",
+            "ฟาร์มโหมดนี้เป็นลูปเมื่อกำหนดเป้าหมาย QinSha และเส้นทางลับชั้นยอด"
           ],
-          "description": "Ragnarok Tier 5+ routes are important because they feed the Anime Reversal secret NPC progression tied to QinSha."
+          "description": "เส้นทาง Ragnarok ระดับ 5+ มีความสำคัญเนื่องจากเส้นทางเหล่านี้ขับเคลื่อนความก้าวหน้าของ NPC ลับ Anime Reversal ที่เชื่อมโยงกับ QinSha"
         }
       ],
       "unlockMilestones": [
-        "Build an Anime Reversal raid core with economy, Ground DPS, and one control slot.",
-        "Clear Anime Reversal CID Raid with stable economy pacing.",
-        "Farm Anime Reversal JJK Portal for current update chase units.",
-        "Loop Anime Reversal Ragnarok portals for QinSha and elite secret progression."
+        "สร้างแกนจู่โจม Anime Reversal พร้อมระบบประหยัด, DPS ภาคพื้นดิน และช่องควบคุมหนึ่งช่อง",
+        "เคลียร์ Anime Reversal CID Raid ด้วยอัตราการประหยัดที่มั่นคง",
+        "ฟาร์ม Anime Reversal พอร์ทัล JJK สำหรับหน่วยไล่ล่าอัปเดตปัจจุบัน",
+        "วนซ้ำ Anime Reversal พอร์ทัล Ragnarok สำหรับ QinSha และความก้าวหน้าลับชั้นยอด"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Anime Reversal Best Units",
-      "displayType": "mixedCards",
-      "intro": "Anime Reversal currently rewards raw ground damage more than hill play in the live meta. The safest roster path is one elite carry, one control unit, and one farm slot, then scaling into high-value evolution routes.",
+      "title": "Anime Reversal หน่วยที่ดีที่สุด",
+      "displayType": "ผสมการ์ด",
+      "intro": "Anime Reversal ในปัจจุบันให้รางวัลความเสียหายบนพื้นดินมากกว่าการเล่นบนเนินเขาในเมตาดาต้าสด เส้นทางบัญชีรายชื่อที่ปลอดภัยที่สุดคือการถือพาหนะชั้นยอดหนึ่งหน่วย หน่วยควบคุมหนึ่งหน่วย และช่องฟาร์มหนึ่งช่อง จากนั้นจึงขยายไปสู่เส้นทางวิวัฒนาการที่มีมูลค่าสูง",
       "sections": [
         {
-          "name": "Anime Reversal SS Unit: RedHair (Awaken)",
-          "description": "Role: Support DPS and stun control. Meta value: Massive full-AOE damage plus reliable stun that improves team uptime. Best trait: Elite. Best use: Story, raids, late-wave control, and boss pressure. Build note: If you own RedHair (Emperor), this is the top evolution target."
+          "name": "Anime Reversal หน่วย SS: ผมสีแดง (ตื่นขึ้น)",
+          "description": "บทบาท: รองรับ DPS และการควบคุมสตัน มูลค่าเมตา: ความเสียหายมหาศาลแบบ AOE เต็มรูปแบบ บวกกับสตันที่เชื่อถือได้ซึ่งช่วยเพิ่มเวลาทำงานของทีม ลักษณะที่ดีที่สุด: Elite การใช้งานที่ดีที่สุด: เนื้อเรื่อง การจู่โจม การควบคุมช่วงท้ายเกม และการกดดันจากบอส หมายเหตุการสร้าง: หากคุณเป็นเจ้าของ RedHair (Emperor) นี่คือเป้าหมายการพัฒนาขั้นสูงสุด"
         },
         {
-          "name": "Anime Reversal SS Unit: Ruda (Fist)",
-          "description": "Role: Ground DPS carry. Meta value: Best pure ground attacker with full-AOE coverage, high DPS, and a self-buff passive that scales in long runs. Best trait: Elite. Best use: Main carry and wave clear. Build note: Best first hyper-carry if you do not have Awakened RedHair."
+          "name": "Anime Reversal หน่วย SS: Ruda (หมัด)",
+          "description": "บทบาท: พกพา DPS ภาคพื้นดิน มูลค่าเมตา: ผู้โจมตีภาคพื้นดินที่ดีที่สุดที่มีการครอบคลุม AOE เต็มรูปแบบ, DPS สูง และพาสซีฟบัฟตัวเองที่จะขยายขนาดในระยะยาว ลักษณะที่ดีที่สุด: Elite การใช้งานที่ดีที่สุด: การพกพาหลักและคลื่นที่ชัดเจน หมายเหตุบิลด์: ควรไฮเปอร์แครี่เป็นอันดับแรก หากคุณไม่มี Awakened RedHair"
         },
         {
-          "name": "Anime Reversal SS Unit: Kirita (Dual)",
-          "description": "Role: Ground DPS carry. Meta value: More reliable passive than Kirita (Order), with stronger sustained and boss damage for most accounts. Best trait: Elite. Best use: Boss pressure and second carry slot. Build note: Choose Dual by default unless your materials already lock an Order route."
+          "name": "Anime Reversal หน่วย SS: คิริตะ (คู่)",
+          "description": "บทบาท: พกพา DPS ภาคพื้นดิน มูลค่าเมตา: พาสซีฟที่เชื่อถือได้มากกว่าคิริตะ (ออร์เดอร์) พร้อมการคงอยู่ที่แข็งแกร่งกว่าและความเสียหายจากบอสสำหรับบัญชีส่วนใหญ่ ลักษณะที่ดีที่สุด: Elite การใช้งานที่ดีที่สุด: การกดดันของบอสและช่องพกพาที่สอง หมายเหตุการสร้าง: เลือก Dual เป็นค่าเริ่มต้น เว้นแต่ว่าวัสดุของคุณจะล็อคเส้นทางการสั่งซื้ออยู่แล้ว"
         },
         {
-          "name": "Anime Reversal S Unit: IceQueen (Empress)",
-          "description": "Role: Support and freeze control. Meta value: One of the strongest control picks because freeze raises total team uptime even without top personal DPS. Best trait: Luna. Best use: Wave stall and safer clears. Build note: Fast-SPA traits increase freeze value."
+          "name": "Anime Reversal หน่วย S: IceQueen (จักรพรรดินี)",
+          "description": "บทบาท: การสนับสนุนและการควบคุมการหยุดนิ่ง มูลค่า Meta: หนึ่งในตัวเลือกการควบคุมที่แข็งแกร่งที่สุด เนื่องจากการหยุดนิ่งจะเพิ่มเวลาทำงานของทีมทั้งหมด แม้ว่าจะไม่มี DPS ส่วนตัวระดับสูงก็ตาม นิสัยที่ดีที่สุด: ลูน่า การใช้งานที่ดีที่สุด: แผงลอยคลื่นและปลอดภัยยิ่งขึ้น หมายเหตุการสร้าง: คุณลักษณะ Fast-SPA จะเพิ่มค่าการแช่แข็ง"
         },
         {
-          "name": "Anime Reversal S Unit: RedHair (Emperor)",
-          "description": "Role: Ground DPS and evolution bridge. Meta value: Strong AOE profile and direct path into RedHair (Awaken). Best trait: Elite. Best use: Mid-game carry and evolution setup. Build note: Value spikes once you commit to Awaken."
+          "name": "Anime Reversal หน่วย S: ผมสีแดง (จักรพรรดิ)",
+          "description": "บทบาท: DPS ภาคพื้นดินและสะพานวิวัฒนาการ มูลค่าเมตา: โปรไฟล์ AOE ที่แข็งแกร่งและเส้นทางตรงสู่ RedHair (Awaken) ลักษณะที่ดีที่สุด: Elite การใช้งานที่ดีที่สุด: การพกพาในช่วงกลางเกมและการตั้งค่าวิวัฒนาการ หมายเหตุการสร้าง: มูลค่าจะเพิ่มขึ้นอย่างรวดเร็วเมื่อคุณยอมรับการปลุกพลัง"
         },
         {
-          "name": "Anime Reversal S Unit: SpeedCEO",
-          "description": "Role: Economy farm slot. Meta value: Best background money engine in the current patch and core support for long runs. Best trait: Golden. Best use: Story progression and economy pacing. Build note: Income traits outperform combat traits on this slot."
+          "name": "Anime Reversal หน่วย S: SpeedCEO",
+          "description": "บทบาท: สล็อตฟาร์มเศรษฐกิจ มูลค่าเมตา: เอ็นจิ้นเงินพื้นหลังที่ดีที่สุดในแพตช์ปัจจุบันและการสนับสนุนหลักสำหรับการวิ่งระยะยาว ลักษณะที่ดีที่สุด: สีทอง การใช้งานที่ดีที่สุด: ความก้าวหน้าของเรื่องราวและจังหวะทางเศรษฐกิจ หมายเหตุการสร้าง: ลักษณะรายได้มีประสิทธิภาพเหนือกว่าลักษณะการต่อสู้ในช่องนี้"
         }
       ],
       "growthMilestones": [
-        "Build one Anime Reversal elite carry first, then pair one control unit.",
-        "Keep one Anime Reversal farm slot active so upgrades stay on curve.",
-        "Prioritize Anime Reversal evolution targets over spreading into mid-tier duplicates.",
-        "Re-check Anime Reversal best-unit priorities after each major update."
+        "สร้าง Anime Reversal ชนชั้นสูงถือหนึ่งอันก่อน จากนั้นจึงจับคู่ชุดควบคุมหนึ่งชุด",
+        "เปิดช่องฟาร์ม Anime Reversal หนึ่งช่องไว้ เพื่อให้การอัพเกรดคงอยู่ตลอดเวลา",
+        "จัดลำดับความสำคัญของเป้าหมายวิวัฒนาการ Anime Reversal มากกว่าการแพร่กระจายไปสู่การทำซ้ำระดับกลาง",
+        "ตรวจสอบลำดับความสำคัญของหน่วยที่ดีที่สุด Anime Reversal อีกครั้งหลังการอัปเดตหลักแต่ละครั้ง"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Anime Reversal Update Notes",
-      "displayType": "priorityCards",
-      "intro": "Anime Reversal has moved through clear patch eras, with Update 2.5 and Update 3 as the most important recent milestones. Each patch cycle usually changes units, code waves, and spending priorities, so update tracking must connect directly to roster decisions.",
+      "title": "Anime Reversal บันทึกการอัปเดต",
+      "displayType": "บัตรลำดับความสำคัญ",
+      "intro": "Anime Reversal ได้ผ่านยุคของแพตช์ที่ชัดเจน โดยอัปเดต 2.5 และอัปเดต 3 เป็นเหตุการณ์สำคัญล่าสุด แต่ละรอบแพตช์มักจะเปลี่ยนหน่วย คลื่นโค้ด และลำดับความสำคัญการใช้จ่าย ดังนั้นการติดตามการอัปเดตจะต้องเชื่อมโยงโดยตรงกับการตัดสินใจรายชื่อ",
       "priorities": [
         {
-          "name": "Anime Reversal Update 3 (2026-04-07)",
-          "priority": "Current",
-          "description": "Headline: JJK-flavored patch with Gaju, Sokuna, and Yoji (Modula). Code wave: UPDATE3, TOKYO, 3POIT5MVISITS, and SryForBug3. Meta impact: Players reranked top-end units immediately around the new roster."
+          "name": "Anime Reversal อัปเดต 3 (2026-04-07)",
+          "priority": "ปัจจุบัน",
+          "description": "หัวข้อเรื่อง: แผ่นแปะรส JJK พร้อม Gaju, Sokuna และ Yoji (Modula) คลื่นโค้ด: UPDATE3, TOKYO, 3POIT5MVISITS และ SryForBug3 ผลกระทบของเมตา: ผู้เล่นจะจัดอันดับยูนิตระดับบนสุดทันทีรอบๆ บัญชีรายชื่อใหม่"
         },
         {
-          "name": "Anime Reversal Update 2.5 (2026-03-27)",
-          "priority": "Major",
-          "description": "Headline: Mid-season patch with Umbra Lord, Kafra, Haya, Aizo [Chrysails], Alphe, and Delty. Code wave: UPDATE2.5, ILOVEKAFRA, ATOMIC, and RAID. Meta impact: High-volume progression patch for gems and reroll usage."
+          "name": "Anime Reversal อัปเดต 2.5 (2026-03-27)",
+          "priority": "เมเจอร์",
+          "description": "หัวข้อข่าว: แพตช์กลางฤดูกาลกับ Umbra Lord, Kafra, Haya, Aizo [Chrysails], Alphe และ Delty โค้ดเวฟ: UPDATE2.5, ILOVEKAFRA, ATOMIC และ RAID ผลกระทบเมตา: แพตช์ความก้าวหน้าปริมาณมากสำหรับการใช้อัญมณีและการสุ่มซ้ำ"
         },
         {
-          "name": "Anime Reversal Launch to Early Patch Cycle (2025-10-17)",
-          "priority": "Foundation",
-          "description": "Headline: Release period that established summon, evolve, and reroll loops. Key early codes: AnimeReversal, MrRhino, JetozaCH, ZerozKingner, and RIKTIME. Meta impact: Built first viable summon pools before power spikes in 2.5 and 3."
+          "name": "Anime Reversal เปิดตัวสู่รอบแพทช์ล่วงหน้า (2025-10-17)",
+          "priority": "มูลนิธิ",
+          "description": "หัวข้อเรื่อง: ระยะเวลาวางจำหน่ายที่สร้างการอัญเชิญ วิวัฒนาการ และสุ่มลูป รหัสเริ่มต้นที่สำคัญ: AnimeReversal, MrRhino, JetozaCH, ZerozKingner และ RIKTIME ผลกระทบของเมตา: สร้างแหล่งอัญเชิญที่ใช้งานได้ครั้งแรกก่อนที่พลังจะพุ่งสูงขึ้นใน 2.5 และ 3"
         },
         {
-          "name": "Anime Reversal Update Workflow: Sync codes with patch notes",
-          "priority": "Workflow",
-          "description": "Every Anime Reversal patch card should include active code waves and redemption value so the codes module and update module stay aligned."
+          "name": "Anime Reversal อัปเดตเวิร์กโฟลว์: ซิงค์รหัสกับบันทึกการแก้ไข",
+          "priority": "ขั้นตอนการทำงาน",
+          "description": "การ์ดแพทช์ Anime Reversal ทุกใบควรมีคลื่นรหัสที่ใช้งานอยู่และมูลค่าการไถ่ถอน เพื่อให้โมดูลรหัสและโมดูลอัปเดตยังคงสอดคล้องกัน"
         },
         {
-          "name": "Anime Reversal Update Workflow: Re-rank roster priorities",
-          "priority": "Workflow",
-          "description": "After each major patch, update best-unit rankings, reroll targets, and gem priorities before spending on banners or traits."
+          "name": "Anime Reversal อัปเดตเวิร์กโฟลว์: จัดลำดับความสำคัญของบัญชีรายชื่อใหม่",
+          "priority": "ขั้นตอนการทำงาน",
+          "description": "หลังจากแต่ละแพตช์หลัก ให้อัปเดตอันดับหน่วยที่ดีที่สุด สุ่มเป้าหมายใหม่ และลำดับความสำคัญของอัญมณี ก่อนที่จะใช้จ่ายกับแบนเนอร์หรือคุณลักษณะ"
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Anime Reversal Trait Rerolls",
-      "displayType": "achievementGrid",
-      "intro": "Trait rerolls are one of the most valuable Anime Reversal resources, so efficient planning is critical. Build a stable carry core first, reserve mythic trait pushes for top units, and use fallback traits to avoid burning your entire reroll stock.",
+      "title": "Anime Reversal การสุ่มคุณสมบัติ",
+      "displayType": "AchievementGrid",
+      "intro": "การสุ่มคุณลักษณะใหม่เป็นหนึ่งในทรัพยากร Anime Reversal ที่มีคุณค่ามากที่สุด ดังนั้นการวางแผนที่มีประสิทธิภาพจึงเป็นสิ่งสำคัญ สร้างแกนพกพาที่มั่นคงก่อน สำรองคุณลักษณะพิเศษในตำนานไว้สำหรับยูนิตระดับบน และใช้คุณลักษณะทางเลือกเพื่อหลีกเลี่ยงการเผาสต็อกซ้ำทั้งหมดของคุณ",
       "groups": [
         {
-          "name": "Anime Reversal Trait Rerolls Step 1: Unlock the code funnel first",
+          "name": "Anime Reversal การสุ่มคุณลักษณะ ขั้นตอนที่ 1: ปลดล็อกช่องทางโค้ดก่อน",
           "achievements": [
             {
-              "title": "Set up Anime Reversal reroll stock before hard rolling",
-              "description": "Join XTS Production, reach Level 2, and redeem all active codes before starting serious trait rerolls."
+              "title": "ตั้งค่า Anime Reversal สุ่มสต็อกใหม่ก่อนที่จะทำการรีดอย่างหนัก",
+              "description": "เข้าร่วม XTS Production ไปถึงระดับ 2 และแลกรหัสที่ใช้งานอยู่ทั้งหมดก่อนที่จะเริ่มการสุ่มคุณสมบัติที่จริงจัง"
             },
             {
-              "title": "Anime Reversal reroll source: UPDATE3",
-              "description": "UPDATE3 gives 300 rerolls and should be redeemed before any major trait session."
+              "title": "Anime Reversal แหล่งที่มาของการสุ่มซ้ำ: UPDATE3",
+              "description": "UPDATE3 ให้การสุ่มซ้ำ 300 ครั้ง และควรแลกก่อนเซสชั่นคุณสมบัติหลักใดๆ"
             },
             {
-              "title": "Anime Reversal reroll source: TOKYO",
-              "description": "TOKYO gives 100 rerolls and is a key early stockpile code."
+              "title": "Anime Reversal แหล่งที่มาของการสุ่มซ้ำ: โตเกียว",
+              "description": "TOKYO ให้การสุ่มซ้ำ 100 ครั้งและเป็นรหัสคลังสต๊อกที่สำคัญในช่วงแรกๆ"
             },
             {
-              "title": "Anime Reversal reroll sources: 35KLIKES, ATOMIC, RAID",
-              "description": "35KLIKES gives 200 rerolls, ATOMIC gives 200 rerolls, and RAID gives 80 rerolls."
+              "title": "Anime Reversal แหล่งที่มาของการสุ่มซ้ำ: 35KLIKES, ATOMIC, RAID",
+              "description": "35KLIKES ให้การสุ่มซ้ำ 200 ครั้ง ATOMIC ให้การสุ่มซ้ำ 200 ครั้ง และ RAID ให้การสุ่มซ้ำ 80 ครั้ง"
             }
           ]
         },
         {
-          "name": "Anime Reversal Trait Rerolls Step 2: Chase only top-end traits",
+          "name": "Anime Reversal การสุ่มคุณสมบัติ ขั้นตอนที่ 2: ไล่ล่าเฉพาะคุณสมบัติระดับบนสุด",
           "achievements": [
             {
-              "title": "Anime Reversal mythic trait target: Elite (0.1%)",
-              "description": "Elite is the top all-around DPS trait for core carry units."
+              "title": "Anime Reversal เป้าหมายลักษณะในตำนาน: Elite (0.1%)",
+              "description": "Elite เป็นคุณสมบัติ DPS อันดับต้นๆ สำหรับยูนิตพกพาหลัก"
             },
             {
-              "title": "Anime Reversal mythic trait target: Doom (0.15%)",
-              "description": "Doom adds strong damage pressure and works well for damage-focused endgame units."
+              "title": "Anime Reversal เป้าหมายลักษณะในตำนาน: การลงโทษ (0.15%)",
+              "description": "Doom เพิ่มแรงกดดันในการสร้างความเสียหายอย่างรุนแรง และทำงานได้ดีกับยูนิตท้ายเกมที่เน้นความเสียหาย"
             },
             {
-              "title": "Anime Reversal mythic trait target: Luna (0.2%)",
-              "description": "Luna improves damage, SPA, and range, and is strong on control-oriented supports."
+              "title": "Anime Reversal เป้าหมายลักษณะในตำนาน: ลูน่า (0.2%)",
+              "description": "Luna ปรับปรุงความเสียหาย SPA และระยะ และแข็งแกร่งในการสนับสนุนที่เน้นการควบคุม"
             },
             {
-              "title": "Anime Reversal mythic trait targets: Zodiac (0.25%) and Silencer (0.3%)",
-              "description": "Zodiac and Silencer remain strong endgame outcomes when Elite is not available."
+              "title": "Anime Reversal เป้าหมายลักษณะในตำนาน: ราศี (0.25%) และตัวเก็บเสียง (0.3%)",
+              "description": "Zodiac และ Silencer ยังคงเป็นผลลัพธ์หลังจบเกมที่แข็งแกร่งเมื่อ Elite ไม่พร้อมใช้งาน"
             }
           ]
         },
         {
-          "name": "Anime Reversal Trait Rerolls Step 3: Prioritize reroll targets by unit value",
+          "name": "Anime Reversal การสุ่มคุณลักษณะ ขั้นตอนที่ 3: จัดลำดับความสำคัญเป้าหมายการสุ่มซ้ำตามมูลค่าหน่วย",
           "achievements": [
             {
-              "title": "Anime Reversal Priority 1: RedHair (Awaken) and RedHair (Emperor)",
-              "description": "Aim for Elite first because these units drive high-value control and DPS scaling."
+              "title": "Anime Reversal ลำดับความสำคัญ 1: ผมสีแดง (ตื่นขึ้น) และผมสีแดง (จักรพรรดิ)",
+              "description": "ตั้งเป้าไปที่ Elite ก่อน เพราะยูนิตเหล่านี้จะขับเคลื่อนการควบคุมที่มีมูลค่าสูงและการปรับสเกล DPS"
             },
             {
-              "title": "Anime Reversal Priority 2: Ruda (Fist)",
-              "description": "Ruda should also target Elite as a main ground carry."
+              "title": "Anime Reversal ลำดับความสำคัญ 2: Ruda (กำปั้น)",
+              "description": "Ruda ควรกำหนดเป้าหมายไปที่ Elite ให้เป็นพาหนะภาคพื้นดินหลัก"
             },
             {
-              "title": "Anime Reversal Priority 3: Kirita (Dual)",
-              "description": "Kirita (Dual) scales best with Elite for sustained boss and wave damage."
+              "title": "Anime Reversal ลำดับความสำคัญ 3: คิริตะ (คู่)",
+              "description": "Kirita (Dual) จะปรับขนาดได้ดีที่สุดด้วย Elite สำหรับความเสียหายต่อบอสและคลื่นต่อเนื่อง"
             },
             {
-              "title": "Anime Reversal Priority 4 and 5: Kirita (Order) and IceQueen (Empress)",
-              "description": "Kirita (Order) prefers Zodiac, while IceQueen benefits most from Luna or other fast-SPA options."
+              "title": "Anime Reversalลำดับความสำคัญ 4 และ 5: คิริตะ (ออร์เดอร์) และไอซ์ควีน (จักรพรรดินี)",
+              "description": "คิริตะ (ออร์เดอร์) ชอบราศี ในขณะที่ไอซ์ควีนจะได้รับประโยชน์สูงสุดจากลูน่าหรือตัวเลือกสปาด่วนอื่นๆ"
             }
           ]
         },
         {
-          "name": "Anime Reversal Trait Rerolls Step 4: Use efficient fallback traits",
+          "name": "Anime Reversal การสุ่มลักษณะ ขั้นตอนที่ 4: ใช้ลักษณะทางเลือกที่มีประสิทธิภาพ",
           "achievements": [
             {
-              "title": "Anime Reversal fallback trait: Golden",
-              "description": "Golden is the best value fallback on SpeedCEO because economy scaling matters more than combat stats."
+              "title": "Anime Reversal ลักษณะทางเลือก: สีทอง",
+              "description": "Golden เป็นตัวเลือกสำรองที่คุ้มค่าที่สุดสำหรับ SpeedCEO เนื่องจากขนาดเศรษฐกิจมีความสำคัญมากกว่าสถิติการต่อสู้"
             },
             {
-              "title": "Anime Reversal fallback trait: Sniper",
-              "description": "Sniper is a strong coverage trait for lower-range units."
+              "title": "Anime Reversal ลักษณะทางเลือก: Sniper",
+              "description": "Sniper เป็นคุณลักษณะการครอบคลุมที่แข็งแกร่งสำหรับยูนิตที่มีระยะต่ำกว่า"
             },
             {
-              "title": "Anime Reversal fallback trait: Superior",
-              "description": "Superior is a workable temporary damage trait on early ground carries."
+              "title": "Anime Reversal ลักษณะทางเลือก: เหนือกว่า",
+              "description": "Superior เป็นลักษณะความเสียหายชั่วคราวที่สามารถใช้งานได้ในช่วงแรกๆ"
             },
             {
-              "title": "Anime Reversal fallback trait: Range",
-              "description": "Range is a good stopgap trait when you need immediate consistency before a premium roll."
+              "title": "Anime Reversal ลักษณะทางเลือก: ช่วง",
+              "description": "ช่วงเป็นลักษณะการหยุดที่ดีเมื่อคุณต้องการความสม่ำเสมอในทันทีก่อนที่จะม้วนแบบพรีเมี่ยม"
             }
           ]
         },
         {
-          "name": "Anime Reversal Trait Rerolls Step 5: Stop on value and move on",
+          "name": "Anime Reversal การสุ่มคุณลักษณะ ขั้นตอนที่ 5: หยุดที่คุณค่าและเดินหน้าต่อไป",
           "achievements": [
             {
-              "title": "Anime Reversal hard stop rule",
-              "description": "Hard stop on Elite for top carries and preserve stock for the next unit."
+              "title": "Anime Reversal กฎหยุดยาก",
+              "description": "หยุดอย่างหนักบน Elite เพื่อการพกพาชั้นนำและรักษาสต็อกไว้สำหรับยูนิตถัดไป"
             },
             {
-              "title": "Anime Reversal soft stop rule",
-              "description": "Soft stop on Luna, Doom, Zodiac, or Silencer for endgame-ready units."
+              "title": "Anime Reversal กฎการหยุดแบบนุ่มนวล",
+              "description": "หยุดอย่างนุ่มนวลบน Luna, Doom, Zodiac หรือ Silencer สำหรับยูนิตที่พร้อมจบเกม"
             },
             {
-              "title": "Anime Reversal economy slot rule",
-              "description": "Keep Golden on SpeedCEO instead of over-rolling economy slots."
+              "title": "Anime Reversal กฎสล็อตเศรษฐกิจ",
+              "description": "เก็บ Golden ไว้บน SpeedCEO แทนสล็อตเศรษฐกิจที่หมุนวนมากเกินไป"
             },
             {
-              "title": "Anime Reversal meta allocation rule",
-              "description": "Avoid spending mythic reroll targets on hill-focused units in the current no-flying meta."
+              "title": "Anime Reversal กฎการจัดสรรเมตา",
+              "description": "หลีกเลี่ยงการใช้เป้าหมายการสุ่มซ้ำในตำนานกับยูนิตที่เน้นเนินเขาในเมตาที่ไม่มีการบินในปัจจุบัน"
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Anime Reversal Gems Guide",
-      "displayType": "accordion",
-      "intro": "This Anime Reversal gems guide follows a practical spending ladder: secure a real roster core first, reserve gems for high-impact evolution routes second, then optimize traits after your lineup is stable.",
+      "title": "Anime Reversal คู่มืออัญมณี",
+      "displayType": "หีบเพลง",
+      "intro": "คู่มืออัญมณี Anime Reversal นี้เป็นไปตามบันไดการใช้จ่ายที่ใช้งานได้จริง: รักษาแกนบัญชีรายชื่อจริงก่อน จองอัญมณีสำหรับเส้นทางวิวัฒนาการที่มีผลกระทบสูง ลำดับที่สอง จากนั้นปรับลักษณะนิสัยให้เหมาะสมหลังจากที่ผู้เล่นตัวจริงของคุณมีเสถียรภาพ",
       "faqs": [
         {
-          "question": "What is the top Anime Reversal gems priority for early accounts?",
-          "answer": "Spend Anime Reversal gems on summons until you lock one carry, one support or control unit, and one economy slot. Strong early targets include Ruda (Fist), the RedHair line, Kirita, IceQueen, Song Woo, and SpeedCEO."
+          "question": "ลำดับความสำคัญของอัญมณี Anime Reversal อันดับแรกสำหรับบัญชีระยะเริ่มต้นคืออะไร?",
+          "answer": "ใช้อัญมณี Anime Reversal ในการอัญเชิญจนกว่าคุณจะล็อคกระเป๋าพกพาหนึ่งช่อง หน่วยสนับสนุนหรือควบคุมหนึ่งช่อง และช่องประหยัดหนึ่งช่อง เป้าหมายในช่วงแรกที่แข็งแกร่ง ได้แก่ Ruda (Fist), กลุ่มผลิตภัณฑ์ RedHair, Kirita, IceQueen, Song Woo และ SpeedCEO"
         },
         {
-          "question": "When should Anime Reversal gems be reserved for RedHair (Awaken)?",
-          "answer": "If you own RedHair (Emperor), reserve Anime Reversal gems for the Haki Hat evolution route before impulse pulls. The key cost package is 10,000 Gems, 10 Rerolls, and 15,000 Gold."
+          "question": "เมื่อใดจึงควรสงวนอัญมณี Anime Reversal สำหรับ RedHair (Awaken)?",
+          "answer": "หากคุณเป็นเจ้าของ RedHair (Emperor) โปรดจองอัญมณี Anime Reversal สำหรับเส้นทางวิวัฒนาการ Haki Hat ก่อนที่จะดึงแรงกระตุ้น แพ็คเกจราคาหลักคือ 10,000 อัญมณี 10 สุ่ม และ 15,000 ทอง"
         },
         {
-          "question": "When should Anime Reversal gems shift from summons to trait optimization?",
-          "answer": "Start heavy Anime Reversal trait optimization only after your core roster is stable. Premium trait rolls are most efficient on proven units, not temporary fillers."
+          "question": "เมื่อใดที่อัญมณี Anime Reversal ควรเปลี่ยนจากการอัญเชิญเป็นการเพิ่มประสิทธิภาพคุณสมบัติ?",
+          "answer": "เริ่มการเพิ่มประสิทธิภาพคุณลักษณะ Anime Reversal แบบหนักๆ หลังจากที่บัญชีรายชื่อหลักของคุณมีเสถียรภาพแล้วเท่านั้น โรลม้วนลักษณะพิเศษมีประสิทธิภาพมากที่สุดกับยูนิตที่ผ่านการพิสูจน์แล้ว ไม่ใช่ฟิลเลอร์ชั่วคราว"
         },
         {
-          "question": "Which Anime Reversal gem purchases are low priority?",
-          "answer": "Convenience spending is low priority in Anime Reversal. Extra comfort buys should wait until your main six-unit lineup is already strong."
+          "question": "การซื้ออัญมณี Anime Reversal ใดที่มีลำดับความสำคัญต่ำ",
+          "answer": "การใช้จ่ายเพื่อความสะดวกสบายมีความสำคัญต่ำใน Anime Reversal การซื้อเพื่อความสะดวกสบายเป็นพิเศษควรรอจนกว่าผู้เล่นตัวจริงหกยูนิตหลักของคุณจะแข็งแกร่งอยู่แล้ว"
         },
         {
-          "question": "What should Anime Reversal players skip while saving gems?",
-          "answer": "Skip hill-heavy investments, weak mid-tier duplicates, and early mythic-trait gambling before your evolution plan and carry core are complete."
+          "question": "ผู้เล่น Anime Reversal ควรข้ามอะไรไปในขณะที่บันทึกอัญมณี?",
+          "answer": "ข้ามการลงทุนที่หนักหน่วงบนเนินเขา การทำซ้ำระดับกลางที่อ่อนแอ และการพนันลักษณะเทพนิยายในช่วงต้นก่อนที่แผนวิวัฒนาการและพกพาแกนหลักของคุณจะเสร็จสมบูรณ์"
         },
         {
-          "question": "What is a simple Anime Reversal gems spending ladder?",
-          "answer": "Use this Anime Reversal order: core summons first, RedHair Awaken reserve second, trait optimization third, and convenience spending last."
+          "question": "บันไดการใช้จ่ายอัญมณี Anime Reversal ธรรมดาคืออะไร?",
+          "answer": "ใช้คำสั่ง Anime Reversal นี้: เรียกแกนหลักก่อน, สำรอง RedHair Awaken เป็นอันดับสอง, เพิ่มประสิทธิภาพลักษณะนิสัย ที่สาม และใช้จ่ายสะดวกเป็นอันดับสุดท้าย"
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Anime Reversal Summon Banners",
-      "displayType": "cardList",
-      "intro": "Anime Reversal summon value is built around Gems first and Trait Rerolls second. Pull for reliable ground carries before chasing niche picks, then reroll only on units that stay in your long-term lineup.",
+      "title": "Anime Reversal อัญเชิญแบนเนอร์",
+      "displayType": "รายการการ์ด",
+      "intro": "Anime Reversal ค่าการอัญเชิญจะถูกสร้างขึ้นจากอัญมณีเป็นอันดับแรก และสุ่มคุณสมบัติเป็นลำดับที่สอง ดึงผู้เล่นภาคพื้นดินที่เชื่อถือได้ก่อนที่จะไล่ตามตัวเลือกเฉพาะ จากนั้นสุ่มใหม่เฉพาะยูนิตที่อยู่ในกลุ่มผู้เล่นตัวจริงระยะยาวของคุณ",
       "cards": [
         {
-          "name": "Anime Reversal Summon Currency Flow",
-          "tag": "System",
-          "icon": "Download",
-          "summary": "Spend Gems in the summon area first, then use Trait Rerolls at Mandra after your carry core is locked.",
+          "name": "Anime Reversal เรียกกระแสสกุลเงิน",
+          "tag": "ระบบ",
+          "icon": "ดาวน์โหลด",
+          "summary": "ใช้อัญมณีในพื้นที่อัญเชิญก่อน จากนั้นใช้การสุ่มคุณสมบัติที่ Mandra หลังจากที่แกนพกพาของคุณถูกล็อค",
           "bullets": [
-            "Use UPDATE3 for 10,000 Gems and 300 Rerolls before major banner sessions.",
-            "Use TOKYO for 6,000 Gems and 100 Rerolls to extend pull windows.",
-            "Use 35KLIKES for 2,500 Gospel Pages and 200 Rerolls for upgrade pacing.",
-            "Secure one real carry with Gems before spending rerolls on traits."
+            "ใช้ UPDATE3 เพื่อ 10,000 Gems และ 300 Rerolls ก่อนเซสชันแบนเนอร์หลัก",
+            "ใช้ TOKYO เพื่อรับ 6,000 Gems และ 100 Rerolls เพื่อขยายหน้าต่างการดึง",
+            "ใช้ 35KLIKES สำหรับ 2,500 Gospel Pages และ 200 Rerolls เพื่ออัพเกรดจังหวะ",
+            "เก็บอัญมณีจริงไว้หนึ่งชิ้นก่อนที่จะใช้การสุ่มคุณสมบัติใหม่"
           ]
         },
         {
-          "name": "Anime Reversal Best Early Banner Targets",
-          "tag": "Story Push",
-          "icon": "TrendingUp",
-          "summary": "Early story progression is strongest when banners improve wave clear and stable DPS without niche setup demands.",
+          "name": "Anime Reversal เป้าหมายแบนเนอร์ในช่วงต้นที่ดีที่สุด",
+          "tag": "เรื่องราวผลักดัน",
+          "icon": "กำลังมาแรง",
+          "summary": "ความก้าวหน้าของเรื่องราวในช่วงแรกจะแข็งแกร่งที่สุดเมื่อแบนเนอร์ปรับปรุง DPS ที่ชัดเจนและเสถียรโดยไม่ต้องมีข้อกำหนดในการตั้งค่าเฉพาะ",
           "bullets": [
-            "Ruda (Fist) is a top ground DPS anchor with strong full-AOE value.",
-            "RedHair (Emperor) into RedHair (Awaken) is a long-term damage path.",
-            "Song Woo (Assassin) delivers reliable scaling in early and mid progression.",
-            "IceQueen (Empress) adds freeze control that stabilizes harder stages."
+            "Ruda (กำปั้น) เป็นจุดยึด DPS บนพื้นดินที่มีค่า AOE เต็มที่แข็งแกร่ง",
+            "RedHair (จักรพรรดิ) เข้าสู่ RedHair (Awaken) เป็นเส้นทางความเสียหายระยะยาว",
+            "Song Woo (Assassin) มอบสเกลที่เชื่อถือได้ในช่วงต้นและกลางของความก้าวหน้า",
+            "IceQueen (Empress) เพิ่มการควบคุมการแช่แข็งที่ทำให้ด่านยากขึ้น"
           ]
         },
         {
-          "name": "Anime Reversal Best Long-Run Banner Targets",
-          "tag": "Boss and Infinite",
-          "icon": "Shield",
-          "summary": "After story stabilization, shift pulls toward boss pressure and long-run consistency for infinite and raid routes.",
+          "name": "Anime Reversal เป้าหมายแบนเนอร์ระยะยาวที่ดีที่สุด",
+          "tag": "บอสและอนันต์",
+          "icon": "โล่",
+          "summary": "หลังจากการรักษาเสถียรภาพของเรื่องราวแล้ว การเปลี่ยนแปลงจะดึงไปสู่ความกดดันของบอสและความสม่ำเสมอในระยะยาวสำหรับเส้นทางที่ไม่มีที่สิ้นสุดและการโจมตี",
           "bullets": [
-            "Kirita (Dual) outperforms Kirita (Order) for sustained damage routes.",
-            "Igres (Elite) pairs with Song Woo for stronger boss-focused pressure.",
-            "Rio (Dancer) improves cleanup with bonus damage to low-HP enemies.",
-            "RedHair (Awaken) remains the best overall chase when evolution is available."
+            "คิริตะ (คู่) มีประสิทธิภาพเหนือกว่าคิริตะ (ออร์เดอร์) สำหรับเส้นทางที่สร้างความเสียหายแบบยั่งยืน",
+            "อิเกรส (อีลีต) จับคู่กับซงอูเพื่อสร้างแรงกดดันที่เน้นหัวหน้าเป็นหลัก",
+            "Rio (Dancer) ปรับปรุงการทำความสะอาดด้วยโบนัสความเสียหายต่อศัตรูที่มี HP ต่ำ",
+            "RedHair (Awaken) ยังคงเป็นการไล่ล่าโดยรวมที่ดีที่สุดเมื่อมีการวิวัฒนาการ"
           ]
         },
         {
-          "name": "Anime Reversal Recent Banner Pool Watchlist",
-          "tag": "Patch Meta",
-          "icon": "Eye",
-          "summary": "Recent updates expanded the summon pool, so saving for patch-era banners is more valuable than random pull volume.",
+          "name": "Anime Reversal รายการเฝ้าดูแบนเนอร์พูลล่าสุด",
+          "tag": "แพทช์เมตา",
+          "icon": "ตา",
+          "summary": "การอัปเดตล่าสุดได้ขยายขอบเขตการอัญเชิญ ดังนั้นการบันทึกสำหรับแบนเนอร์ในยุคแพตช์จึงมีค่ามากกว่าปริมาณการสุ่มแบบสุ่ม",
           "bullets": [
-            "Update 2.5 added Umbra Lord, Kafra, Haya, Aizo [Chrysails], Alphe, and Delty.",
-            "Update 3 added Gaju, Sokuna, and Yoji (Modula).",
-            "Patch banners are the best timing for Gems saved from code waves.",
-            "Review tier impact before spending into each new banner pool."
+            "อัปเดต 2.5 เพิ่ม Umbra Lord, Kafra, Haya, Aizo [Chrysails], Alphe และ Delty",
+            "อัปเดต 3 เพิ่ม Gaju, Sokuna และ Yoji (Modula)",
+            "แบนเนอร์แพทช์เป็นเวลาที่ดีที่สุดสำหรับอัญมณีที่บันทึกไว้จากโค้ดเวฟ",
+            "ตรวจสอบผลกระทบของระดับก่อนใช้จ่ายในกลุ่มแบนเนอร์ใหม่แต่ละกลุ่ม"
           ]
         },
         {
-          "name": "Anime Reversal Low-Priority Pulls Right Now",
-          "tag": "Skip",
-          "icon": "X",
-          "summary": "Current live conditions favor ground damage and control, so hill-focused pulling is a low-value use of limited Gems.",
+          "name": "Anime Reversal การดึงลำดับความสำคัญต่ำในขณะนี้",
+          "tag": "ข้าม",
+          "icon": "เอ็กซ์",
+          "summary": "สภาพปัจจุบันเอื้ออำนวยต่อความเสียหายภาคพื้นดินและการควบคุม ดังนั้นการดึงโดยเน้นที่เนินเขาจึงเป็นการใช้เจมจำกัดที่มีมูลค่าต่ำ",
           "bullets": [
-            "Do not center early pulls around Hill unit routes.",
-            "Jang-In and Goko are currently behind top ground options.",
-            "Spend limited Gems on wave clear, stun, freeze, and boss pressure first.",
-            "Add niche picks only after your core carry and support shell is complete."
+            "อย่าดึงศูนย์กลางในช่วงต้นของเส้นทาง Hill unit",
+            "ปัจจุบันจางอินและโกโคอยู่เบื้องหลังตัวเลือกระดับสูง",
+            "ใช้อัญมณีจำนวนจำกัดในการเคลียร์คลื่น สตัน แช่แข็ง และกดดันบอสก่อน",
+            "เพิ่มตัวเลือกเฉพาะเฉพาะหลังจากที่แกนหลักและส่วนรองรับของคุณเสร็จสมบูรณ์แล้วเท่านั้น"
           ]
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Anime Reversal Story Mode Guide",
-      "displayType": "stageList",
-      "intro": "Anime Reversal story progression is smoother when you climb in phases instead of forcing random summons. Use one farm slot, two ground carries, and one control slot to keep wave management clean.",
+      "title": "Anime Reversal คู่มือโหมดเนื้อเรื่อง",
+      "displayType": "เวทีรายการ",
+      "intro": "Anime Reversal ความคืบหน้าของเรื่องราวจะราบรื่นขึ้นเมื่อคุณไต่ระดับขึ้นเรื่อยๆ แทนที่จะบังคับให้สุ่มสุ่ม ใช้ช่องฟาร์มหนึ่งช่อง ช่องบรรทุกภาคพื้นดินสองช่อง และช่องควบคุมหนึ่งช่องเพื่อรักษาการจัดการคลื่นให้สะอาด",
       "stages": [
         {
-          "stage": "Anime Reversal Early Story",
-          "icon": "Home",
-          "goal": "Stabilize income and clear opening maps without overinvesting in weak pulls.",
+          "stage": "Anime Reversal เรื่องแรก",
+          "icon": "บ้าน",
+          "goal": "รักษาเสถียรภาพของรายได้และเปิดแผนที่ที่ชัดเจนโดยไม่ต้องลงทุนมากเกินไปกับปัจจัยที่อ่อนแอ",
           "recommendedUnits": [
-            "SpeedCEO",
-            "Ruda (Fist)",
-            "Enjo (Golden)",
-            "Song Woo (Assassin)"
+            "สปีดซีอีโอ",
+            "รุดา (กำปั้น)",
+            "เอ็นโจ (สีทอง)",
+            "ซงวู (นักฆ่า)"
           ],
           "upgradeOrder": [
-            "Place SpeedCEO early for passive money generation.",
-            "Add one main ground DPS on your strongest lane.",
-            "Upgrade the first carry before placing extra low-value units.",
-            "Add second damage only when leaks start to appear."
+            "วาง SpeedCEO ก่อนกำหนดเพื่อสร้างเงินแบบพาสซีฟ",
+            "เพิ่ม DPS บนพื้นดินหลักหนึ่งรายการบนเลนที่แข็งแกร่งที่สุดของคุณ",
+            "อัปเกรดการพกพาครั้งแรกก่อนที่จะวางยูนิตที่มีมูลค่าต่ำเป็นพิเศษ",
+            "เพิ่มความเสียหายครั้งที่สองเฉพาะเมื่อรอยรั่วเริ่มปรากฏขึ้น"
           ],
           "clearTips": [
-            "Ground damage is the safest early investment path.",
-            "Do not burn early Gems chasing hill-heavy setups.",
-            "One upgraded carry outperforms several weak placements."
+            "ความเสียหายภาคพื้นดินเป็นเส้นทางการลงทุนระยะแรกที่ปลอดภัยที่สุด",
+            "อย่าเผาอัญมณีตั้งแต่แรกเพื่อไล่ตามการตั้งค่าบนเนินเขาที่หนักหน่วง",
+            "การพกพาที่อัปเกรดหนึ่งรายการมีประสิทธิภาพเหนือกว่าตำแหน่งที่อ่อนแอหลายตำแหน่ง"
           ]
         },
         {
-          "stage": "Anime Reversal Mid Story",
-          "icon": "ArrowRight",
-          "goal": "Push through scaling waves and replace filler units with stable control and carry slots.",
+          "stage": "Anime Reversal เรื่องกลางๆ",
+          "icon": "ลูกศรขวา",
+          "goal": "ผลักดันผ่านคลื่นขนาดและเปลี่ยนหน่วยตัวเติมด้วยการควบคุมที่มั่นคงและช่องสำหรับพกพา",
           "recommendedUnits": [
-            "Ruda (Fist)",
-            "RedHair (Emperor)",
-            "IceQueen (Empress)",
-            "SpeedCEO"
+            "รุดา (กำปั้น)",
+            "ผมแดง (จักรพรรดิ์)",
+            "ไอซ์ควีน (จักรพรรดินี)",
+            "สปีดซีอีโอ"
           ],
           "upgradeOrder": [
-            "Keep one farm running while upgrades scale.",
-            "Cap your primary carry before branching into flex units.",
-            "Add IceQueen after damage baseline is stable.",
-            "Transition RedHair toward the Awaken route as early as possible."
+            "ให้ฟาร์มแห่งหนึ่งทำงานต่อไปในขณะที่อัปเกรดขนาด",
+            "ปิดการพกพาหลักของคุณก่อนที่จะแยกออกเป็นหน่วยดิ้น",
+            "เพิ่ม IceQueen หลังจากความเสียหายพื้นฐานคงที่",
+            "เปลี่ยน RedHair ไปสู่เส้นทาง Awaken ให้เร็วที่สุด"
           ],
           "clearTips": [
-            "IceQueen freeze windows increase effective DPS uptime.",
-            "RedHair (Emperor) is worth early investment because Awaken is top-tier.",
-            "Avoid spreading upgrades too thin across the roster."
+            "หน้าต่างค้าง IceQueen ช่วยเพิ่มเวลาทำงาน DPS ที่มีประสิทธิภาพ",
+            "RedHair (Emperor) คุ้มค่ากับการลงทุนตั้งแต่เนิ่นๆ เพราะ Awaken นั้นเป็นเกมระดับบนสุด",
+            "หลีกเลี่ยงการเผยแพร่การอัปเกรดที่น้อยเกินไปทั่วทั้งบัญชีรายชื่อ"
           ]
         },
         {
-          "stage": "Anime Reversal Boss Story Maps",
-          "icon": "Star",
-          "goal": "Scale single-target pressure while keeping enough AOE to prevent lane collapse.",
+          "stage": "Anime Reversal แผนที่เรื่องราวของบอส",
+          "icon": "ดาว",
+          "goal": "ปรับขนาดแรงกดดันเป้าหมายเดียวในขณะที่รักษา AOE ให้เพียงพอเพื่อป้องกันการพังทลายของเลน",
           "recommendedUnits": [
-            "Igres (Elite)",
-            "Song Woo (Assassin)",
-            "Ruda (Fist)",
-            "IceQueen (Empress)"
+            "อิเกรส (อีลีท)",
+            "ซงวู (นักฆ่า)",
+            "รุดา (กำปั้น)",
+            "ไอซ์ควีน (จักรพรรดินี)"
           ],
           "upgradeOrder": [
-            "Open with a proven wave-clear carry first.",
-            "Add Song Woo for scaling boss pressure.",
-            "Pair Igres when boss HP starts deciding clears.",
-            "Use IceQueen or RedHair control to extend boss exposure windows."
+            "เปิดด้วยการพกพาที่เคลียร์คลื่นที่พิสูจน์แล้วก่อน",
+            "เพิ่มซงวูเพื่อขยายความกดดันของบอส",
+            "จับคู่ Igres เมื่อ HP ของบอสเริ่มตัดสินใจเคลียร์",
+            "ใช้การควบคุม IceQueen หรือ RedHair เพื่อขยายหน้าต่างเปิดรับบอส"
           ],
           "clearTips": [
-            "Igres and Song Woo are strongest when used together.",
-            "Boss maps still punish weak wave control, so keep one AOE carry active.",
-            "Freeze and stun increase output without increasing placement count."
+            "อิเกรสและซงวูจะแข็งแกร่งที่สุดเมื่อใช้ร่วมกัน",
+            "แผนที่บอสยังคงลงโทษการควบคุมคลื่นที่อ่อนแอ ดังนั้นให้ใช้งาน AOE ไว้หนึ่งอัน",
+            "ตรึงและทำให้มึนงงเพิ่มเอาต์พุตโดยไม่เพิ่มจำนวนตำแหน่ง"
           ]
         },
         {
-          "stage": "Anime Reversal Late Story Push",
-          "icon": "ClipboardCheck",
-          "goal": "Convert a stable roster into a chapter-finishing lineup for harder maps and update stages.",
+          "stage": "Anime Reversal ดันเรื่องช้า",
+          "icon": "คลิปบอร์ดตรวจสอบ",
+          "goal": "แปลงรายชื่อที่มีเสถียรภาพให้เป็นรายชื่อผู้เล่นจนจบบทสำหรับแผนที่ที่ยากขึ้นและขั้นตอนการอัพเดต",
           "recommendedUnits": [
-            "RedHair (Awaken)",
-            "Ruda (Fist)",
-            "Kirita (Dual)",
-            "IceQueen (Empress)",
-            "SpeedCEO"
+            "ผมแดง (ตื่นแล้ว)",
+            "รุดา (กำปั้น)",
+            "คิริตะ (คู่)",
+            "ไอซ์ควีน (จักรพรรดินี)",
+            "สปีดซีอีโอ"
           ],
           "upgradeOrder": [
-            "Open with farm plus one carry anchor.",
-            "Bring RedHair online as your main control pivot.",
-            "Add Kirita (Dual) or Ruda for sustained boss damage.",
-            "Use remaining slots for proven supports, not novelty units."
+            "เปิดพร้อมฟาร์มบวกสมอถือหนึ่งอัน",
+            "นำ RedHair ออนไลน์มาเป็นจุดควบคุมหลักของคุณ",
+            "เพิ่ม Kirita (Dual) หรือ Ruda เพื่อสร้างความเสียหายให้กับบอสอย่างต่อเนื่อง",
+            "ใช้ช่องที่เหลือเพื่อรองรับการรองรับที่ได้รับการพิสูจน์แล้ว ไม่ใช่ยูนิตแปลกใหม่"
           ],
           "clearTips": [
-            "RedHair (Awaken) is the most reliable late-story closer.",
-            "Kirita (Dual) is the stronger sustained Kirita route.",
-            "Later chapters reward tight core teams over experimental lineups."
+            "RedHair (Awaken) เป็นเรื่องราวช่วงปลายที่น่าเชื่อถือที่สุด",
+            "คิริตะ (คู่) เป็นเส้นทางคิริตะที่ยั่งยืนกว่า",
+            "บทต่อๆ ไปจะให้รางวัลแก่ทีมหลักที่แน่นแฟ้นมากกว่าผู้เล่นตัวจริงแบบทดลอง"
           ]
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Anime Reversal Infinite Mode",
-      "displayType": "cardList",
-      "intro": "Anime Reversal Infinite Mode rewards scaling ground DPS, crowd control, and one economy slot that keeps upgrade timing ahead of wave pressure. Build carry first, control second, and boss pressure third.",
+      "title": "Anime Reversal โหมดไม่มีที่สิ้นสุด",
+      "displayType": "รายการการ์ด",
+      "intro": "Anime Reversal โหมดไม่มีที่สิ้นสุดให้รางวัลในการขยาย DPS ภาคพื้นดิน การควบคุมฝูงชน และช่องประหยัดหนึ่งช่องที่รักษาจังหวะการอัปเกรดไว้ก่อนแรงกดดันของคลื่น สร้างแครี่ก่อน ควบคุมอันดับสอง และกดดันบอสอันดับสาม",
       "cards": [
         {
-          "name": "Anime Reversal Core Infinite Team",
-          "tag": "Meta Core",
-          "icon": "Settings",
-          "summary": "The most consistent long-run shell is one farm, two scaling carries, and one control anchor for stable early waves and late pressure.",
+          "name": "Anime Reversal Core Infinite ทีม",
+          "tag": "เมตาคอร์",
+          "icon": "การตั้งค่า",
+          "summary": "เชลล์ระยะยาวที่สอดคล้องกันมากที่สุดคือหนึ่งฟาร์ม ตัวขนสเกลสองตัว และพุกควบคุมหนึ่งตัวสำหรับคลื่นในช่วงแรกและแรงกดดันในช่วงท้ายที่เสถียร",
           "bullets": [
-            "Use SpeedCEO for passive economy scaling.",
-            "Run Ruda (Fist) as the primary ground DPS anchor.",
-            "Use RedHair (Awaken) and IceQueen for stun and freeze control.",
-            "Add Igres plus Song Woo when boss damage becomes critical."
+            "ใช้ SpeedCEO เพื่อขยายขนาดเศรษฐกิจเชิงรับ",
+            "เรียกใช้ Ruda (หมัด) เป็นจุดยึด DPS บนพื้นดินหลัก",
+            "ใช้ RedHair (Awaken) และ IceQueen เพื่อควบคุมอาการมึนงงและแช่แข็ง",
+            "เพิ่ม Igres และ Song Woo เมื่อความเสียหายของบอสกลายเป็นระดับคริติคอล"
           ]
         },
         {
-          "name": "Anime Reversal Wave 1-20 Setup",
-          "tag": "Early Waves",
-          "icon": "Clock",
-          "summary": "Early Infinite runs fail when players overplace too fast. Keep the opener efficient and push upgrades before adding filler units.",
+          "name": "Anime Reversal การตั้งค่าเวฟ 1-20",
+          "tag": "คลื่นลูกแรก",
+          "icon": "นาฬิกา",
+          "summary": "การวิ่งในช่วง Early Infinite จะล้มเหลวเมื่อผู้เล่นโอเวอร์โอเวอร์เร็วเกินไป รักษาประสิทธิภาพของที่เปิดไว้และผลักดันการอัพเกรดก่อนที่จะเพิ่มหน่วยตัวเติม",
           "bullets": [
-            "Open with SpeedCEO plus one strong carry.",
-            "Upgrade your first carry before filling extra slots.",
-            "Use Ruda or Song Woo as the first reliable damage anchor.",
-            "Hold control units until leak pressure actually starts."
+            "เปิดด้วย SpeedCEO บวกหนึ่งการพกพาที่แข็งแกร่ง",
+            "อัปเกรดการพกพาครั้งแรกของคุณก่อนที่จะเติมช่องพิเศษ",
+            "ใช้ Ruda หรือ Song Woo เป็นจุดยึดที่สร้างความเสียหายที่เชื่อถือได้ตัวแรก",
+            "จับชุดควบคุมไว้จนกว่าแรงดันรั่วจะเริ่มขึ้นจริง"
           ]
         },
         {
-          "name": "Anime Reversal Wave 21-60 Stabilization",
-          "tag": "Mid Waves",
-          "icon": "Sparkles",
-          "summary": "Mid-wave stability depends on timing freeze and stun support correctly, then converting uptime into stronger carry scaling.",
+          "name": "Anime Reversal คลื่น 21-60 ความเสถียร",
+          "tag": "คลื่นกลาง",
+          "icon": "ประกายไฟ",
+          "summary": "ความเสถียรของคลื่นกลางขึ้นอยู่กับการหยุดจังหวะและการสนับสนุนการทำให้มึนงงอย่างถูกต้อง จากนั้นจึงเปลี่ยนเวลาทำงานเป็นอัตราขยายที่แข็งแกร่งขึ้น",
           "bullets": [
-            "Add IceQueen after your base damage profile is stable.",
-            "Bring RedHair online to stall heavier pressure lanes.",
-            "Prioritize upgrade timing over raw placement count.",
-            "Stack strongest damage on the lane with longest uptime."
+            "เพิ่ม IceQueen หลังจากที่โปรไฟล์ความเสียหายพื้นฐานของคุณคงที่",
+            "นำ RedHair ออนไลน์มาเพื่อหยุดยั้งความกดดันที่หนักกว่า",
+            "จัดลำดับความสำคัญของเวลาในการอัปเกรดมากกว่าจำนวนตำแหน่งดิบ",
+            "ซ้อนความเสียหายที่แข็งแกร่งที่สุดบนเลนด้วยเวลาทำงานที่ยาวนานที่สุด"
           ]
         },
         {
-          "name": "Anime Reversal Wave 60+ Boss Plan",
-          "tag": "Late Waves",
-          "icon": "Hammer",
-          "summary": "Past comfort waves, boss burn and stall windows determine run depth. Duo synergy and evolved carries decide late success.",
+          "name": "Anime Reversal แผนบอส Wave 60+",
+          "tag": "คลื่นปลาย",
+          "icon": "ค้อน",
+          "summary": "คลื่นแห่งความสบายที่ผ่านมา การเผาไหม้ของเจ้านาย และหน้าต่างแผงลอยเป็นตัวกำหนดความลึกของการวิ่ง การทำงานร่วมกันของ Duo และการดำเนินการที่พัฒนาแล้วตัดสินความสำเร็จล่าช้า",
           "bullets": [
-            "Pair Igres with Song Woo for stronger boss melts.",
-            "Keep RedHair (Awaken) active for long stun windows.",
-            "Use Kirita (Dual) as a sustained late-wave swap when needed.",
-            "Avoid late upgrades on low-scaling side units."
+            "จับคู่อิเกรสกับซงวูเพื่อให้บอสแข็งแกร่งขึ้นละลาย",
+            "เปิด RedHair (Awaken) ไว้ตลอดช่วงระยะเวลาสตันที่ยาวนาน",
+            "ใช้ Kirita (Dual) เป็นตัวสลับคลื่นช่วงปลายเมื่อจำเป็น",
+            "หลีกเลี่ยงการอัปเกรดล่าช้าในยูนิตด้านข้างที่มีขนาดต่ำ"
           ]
         },
         {
-          "name": "Anime Reversal Current Mistakes to Avoid",
-          "tag": "Common Traps",
+          "name": "Anime Reversal ข้อผิดพลาดในปัจจุบันที่ควรหลีกเลี่ยง",
+          "tag": "กับดักทั่วไป",
           "icon": "AlertTriangle",
-          "summary": "Infinite difficulty rises quickly when team structure is weak. Build around proven core roles before experimenting with niche units.",
+          "summary": "ความยากไม่มีที่สิ้นสุดจะเพิ่มขึ้นอย่างรวดเร็วเมื่อโครงสร้างทีมอ่อนแอ สร้างบทบาทหลักที่ได้รับการพิสูจน์แล้วก่อนที่จะทดลองกับหน่วยเฉพาะ",
           "bullets": [
-            "Do not center your Infinite team around Hill unit routes yet.",
-            "Goko and Jang-In remain lower-value picks in current patches.",
-            "Add niche units only after carry, control, and boss shell is complete.",
-            "Test new additions like Gaju, Sokuna, and Yoji only after core stability."
+            "อย่าให้ทีม Infinite ของคุณอยู่ตรงกลางเส้นทาง Hill unit",
+            "Goko และ Jang-In ยังคงเป็นตัวเลือกที่มีมูลค่าต่ำกว่าในแพตช์ปัจจุบัน",
+            "เพิ่มยูนิตเฉพาะหลังจากการพกพา การควบคุม และบอสเชลล์เสร็จสิ้นแล้วเท่านั้น",
+            "ทดสอบส่วนเพิ่มเติมใหม่ๆ เช่น Gaju, Sokuna และ Yoji หลังจากความเสถียรของแกนหลักเท่านั้น"
           ]
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Anime Reversal Community Links",
+      "title": "Anime Reversal ลิงก์ชุมชน",
       "displayType": "linkGrid",
-      "intro": "These Anime Reversal hubs are the fastest way to track codes, patch notes, trailers, and update showcases. Start with the official game page, Discord, Roblox group, and official video channel.",
+      "intro": "ฮับ Anime Reversal เหล่านี้เป็นวิธีที่เร็วที่สุดในการติดตามโค้ด บันทึกการแก้ไข ตัวอย่าง และการนำเสนอการอัปเดต เริ่มต้นด้วยหน้าเกมอย่างเป็นทางการ กลุ่ม Discord กลุ่ม Roblox และช่องวิดีโออย่างเป็นทางการ",
       "links": [
         {
-          "label": "Anime Reversal Official Game Page",
-          "kind": "Official",
-          "icon": "Gamepad2",
+          "label": "Anime Reversal หน้าเกมอย่างเป็นทางการ",
+          "kind": "เป็นทางการ",
+          "icon": "เกมแพด2",
           "url": "https://www.roblox.com/games/85535589075948/Anime-Reversal",
-          "note": "Launch the game, verify update tags, and check live experience details."
+          "note": "เปิดเกม ตรวจสอบแท็กอัปเดต และตรวจสอบรายละเอียดประสบการณ์สด"
         },
         {
-          "label": "Anime Reversal XTS Production Roblox Group",
-          "kind": "Official",
-          "icon": "Users",
+          "label": "Anime Reversal XTS Production Roblox กลุ่ม",
+          "kind": "เป็นทางการ",
+          "icon": "ผู้ใช้",
           "url": "https://www.roblox.com/communities/414406594/XTS-Production",
-          "note": "Required for some code redemption flows and useful for ecosystem announcements."
+          "note": "จำเป็นสำหรับขั้นตอนการแลกรหัสบางส่วนและมีประโยชน์สำหรับการประกาศเกี่ยวกับระบบนิเวศ"
         },
         {
           "label": "Anime Reversal Discord",
-          "kind": "Official",
-          "icon": "MessageCircle",
+          "kind": "เป็นทางการ",
+          "icon": "ข้อความวงกลม",
           "url": "https://discord.com/invite/animereversal",
-          "note": "Best source for patch alerts, code drops, sneak peeks, and community help."
+          "note": "แหล่งที่ดีที่สุดสำหรับการแจ้งเตือนแพตช์ การปล่อยโค้ด การแอบดู และความช่วยเหลือจากชุมชน"
         },
         {
-          "label": "Anime Reversal Watchpixel YouTube Channel",
-          "kind": "Official Video",
-          "icon": "ExternalLink",
+          "label": "Anime Reversal Watchpixel YouTube ช่อง",
+          "kind": "วิดีโออย่างเป็นทางการ",
+          "icon": "ลิงค์ภายนอก",
           "url": "https://www.youtube.com/@starlesswatchpixel",
-          "note": "Primary video hub for trailers, update promos, and patch showcases."
+          "note": "ศูนย์กลางวิดีโอหลักสำหรับตัวอย่าง อัปเดตโปรโมชัน และการนำเสนอแพตช์"
         },
         {
-          "label": "Anime Reversal Release Trailer",
-          "kind": "Official Video",
-          "icon": "BookOpen",
+          "label": "Anime Reversal ตัวอย่างการวางจำหน่าย",
+          "kind": "วิดีโออย่างเป็นทางการ",
+          "icon": "หนังสือเปิด",
           "url": "https://www.youtube.com/watch?v=tGztrIV0TA4",
-          "note": "Fastest single-link overview of the launch presentation."
+          "note": "ภาพรวมลิงก์เดียวที่เร็วที่สุดของการนำเสนอการเปิดตัว"
         },
         {
-          "label": "Anime Reversal Guide Playlist",
-          "kind": "Creator Playlist",
-          "icon": "Copy",
+          "label": "Anime Reversal เพลย์ลิสต์แนะนำ",
+          "kind": "เพลย์ลิสต์ของผู้สร้าง",
+          "icon": "คัดลอก",
           "url": "https://www.youtube.com/playlist?list=PLA83E2DLYLDUpXM8QMYjE6Po-SZDALmkV",
-          "note": "Frequent creator coverage for secret units, raids, and update-era team routes."
+          "note": "ผู้สร้างรายงานข่าวเกี่ยวกับหน่วยลับ การบุก และเส้นทางของทีมในยุคอัปเดตเป็นประจำ"
         },
         {
-          "label": "Anime Reversal Beginner Guide Playlist",
-          "kind": "Creator Playlist",
-          "icon": "Keyboard",
+          "label": "Anime Reversal เพลย์ลิสต์คู่มือเริ่มต้น",
+          "kind": "เพลย์ลิสต์ของผู้สร้าง",
+          "icon": "คีย์บอร์ด",
           "url": "https://www.youtube.com/playlist?list=PLv9P3xWa4czdSE0y9IRH3H4hIZK4PeSFM",
-          "note": "Practical onboarding videos for units, farming, story flow, and lobby systems."
+          "note": "วิดีโอแนะนำการใช้งานจริงสำหรับยูนิต การทำฟาร์ม ลำดับเรื่องราว และระบบล็อบบี้"
         }
       ]
     }
   },
   "faq": {
-    "title": "Anime Reversal FAQ",
-    "titleHighlight": "Answers",
-    "subtitle": "Everything you need to know about Anime Reversal",
+    "title": "Anime Reversal คำถามที่พบบ่อย",
+    "titleHighlight": "คำตอบ",
+    "subtitle": "ทุกสิ่งที่คุณจำเป็นต้องรู้เกี่ยวกับ Anime Reversal",
     "questions": [
       {
-        "question": "What is Anime Reversal and why is it popular?",
-        "answer": "Anime Reversal is a Roblox anime tower defense game focused on unit progression, trait optimization, evolutions, and raid clears."
+        "question": "Anime Reversal คืออะไร และเหตุใดจึงเป็นที่นิยม",
+        "answer": "Anime Reversalเป็นเกมป้องกันป้อมอนิเมะ Roblox ที่เน้นไปที่ความก้าวหน้าของยูนิต การเพิ่มประสิทธิภาพลักษณะ วิวัฒนาการ และการเคลียร์การโจมตี"
       },
       {
-        "question": "Where can I get active Anime Reversal codes?",
-        "answer": "Use the Anime Reversal codes module for active and expired code tracking, then redeem codes after meeting level and group requirements."
+        "question": "ฉันจะรับรหัส Anime Reversal ที่ใช้งานได้ที่ไหน",
+        "answer": "ใช้โมดูลรหัส Anime Reversal สำหรับการติดตามรหัสที่ใช้งานอยู่และหมดอายุ จากนั้นแลกรหัสหลังจากตรงตามข้อกำหนดระดับและกลุ่ม"
       },
       {
-        "question": "Which Anime Reversal units should I build first?",
-        "answer": "Start with one carry DPS, then add one control support and one economy unit for consistent progression."
+        "question": "ฉันควรสร้างหน่วย Anime Reversal ใดก่อน",
+        "answer": "เริ่มต้นด้วย DPS แบบพกพาหนึ่งชุด จากนั้นเพิ่มอุปกรณ์ควบคุมหนึ่งชุดและหน่วยประหยัดหนึ่งหน่วยเพื่อความก้าวหน้าที่สม่ำเสมอ"
       },
       {
-        "question": "How should I spend Anime Reversal rerolls and gems?",
-        "answer": "Prioritize stable summon milestones first, then reroll high-value traits on your long-term core units."
+        "question": "ฉันควรใช้ Anime Reversal การสุ่มซ้ำและอัญมณีอย่างไร",
+        "answer": "จัดลำดับความสำคัญของการซัมม่อนที่มั่นคงก่อน จากนั้นจึงสุ่มคุณสมบัติที่มีมูลค่าสูงให้กับยูนิตหลักในระยะยาวของคุณ"
       },
       {
-        "question": "What does the Anime Reversal tier list prioritize?",
-        "answer": "The tier list prioritizes practical performance in story, raids, and long-wave modes instead of rarity alone."
+        "question": "รายการระดับ Anime Reversal จัดลำดับความสำคัญอะไร",
+        "answer": "รายการระดับจะจัดลำดับความสำคัญของการปฏิบัติงานจริงในโหมดเนื้อเรื่อง การจู่โจม และโหมดคลื่นยาว แทนที่จะเป็นระดับความหายากเพียงอย่างเดียว"
       },
       {
-        "question": "Where are official Anime Reversal community links?",
-        "answer": "Use the Anime Reversal Community Links module for Discord, Roblox group, YouTube channel, and trailer access."
+        "question": "ลิงก์ชุมชน Anime Reversal อย่างเป็นทางการอยู่ที่ไหน",
+        "answer": "ใช้โมดูลลิงก์ชุมชน Anime Reversal สำหรับกลุ่ม Discord, Roblox ช่อง YouTube และการเข้าถึงตัวอย่าง"
       }
     ]
   },
   "cta": {
-    "title": "Ready to Improve Your Anime Reversal Team?",
-    "description": "Join the official Anime Reversal Discord for code drops, patch alerts, and raid strategy updates.",
-    "joinCommunity": "Join Anime Reversal Discord",
-    "joinGame": "Play Anime Reversal on Roblox"
+    "title": "พร้อมที่จะปรับปรุงทีม Anime Reversal ของคุณแล้วหรือยัง?",
+    "description": "เข้าร่วม Anime Reversal Discord อย่างเป็นทางการเพื่อรับโค้ดที่ลดลง การแจ้งเตือนแพตช์ และการอัปเดตกลยุทธ์การโจมตี",
+    "joinCommunity": "เข้าร่วม Anime Reversal Discord",
+    "joinGame": "เล่น Anime Reversal บน Roblox"
   },
   "footer": {
     "title": "Anime Reversal Wiki",
-    "description": "Your complete resource hub for Anime Reversal codes, units, traits, raids, evolutions, and update tracking.",
-    "resources": "Resources",
-    "community": "Community",
-    "legal": "Legal",
+    "description": "ศูนย์กลางทรัพยากรที่สมบูรณ์ของคุณสำหรับรหัส Anime Reversal หน่วย คุณลักษณะ การจู่โจม วิวัฒนาการ และการติดตามการอัปเดต",
+    "resources": "ทรัพยากร",
+    "community": "ชุมชน",
+    "legal": "กฎหมาย",
     "discord": "Anime Reversal Discord",
     "twitter": "Watchpixel YouTube",
-    "steamCommunity": "XTS Production Roblox Group",
-    "steamStore": "Anime Reversal on Roblox",
-    "about": "About",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Anime Reversal Wiki. Not affiliated with Roblox, XTS Production, or Watchpixel.",
-    "disclaimer": "Unofficial fan-made resource website."
+    "steamCommunity": "XTS Production Roblox กลุ่ม",
+    "steamStore": "Anime Reversal บน Roblox",
+    "about": "เกี่ยวกับ",
+    "privacy": "นโยบายความเป็นส่วนตัว",
+    "terms": "ข้อกำหนดในการให้บริการ",
+    "copyrightNotice": "ลิขสิทธิ์",
+    "copyright": "© 2026 Anime Reversal Wiki. ไม่เกี่ยวข้องกับ Roblox, XTS Production หรือ Watchpixel",
+    "disclaimer": "เว็บไซต์ทรัพยากรที่แฟนสร้างอย่างไม่เป็นทางการ"
   },
   "pages": {
     "codes": {
-      "title": "Anime Reversal Codes",
-      "description": "Latest Anime Reversal codes for gems, stat chips, rerolls, and limited event rewards.",
-      "metaTitle": "Anime Reversal Codes - Free Gems, Chips, and Rerolls",
-      "metaDescription": "Redeem active Anime Reversal codes for free gems, stat chips, and rerolls. Updated with the latest working code entries.",
-      "categoryLabel": "REDEEM CODES",
-      "whatIs": "What are Anime Reversal codes?",
-      "whatIsDescription": "Anime Reversal codes are limited-time redemption strings that grant extra gems, chips, and reroll resources to speed up account progression.",
-      "why": "Why check Anime Reversal codes regularly?",
+      "title": "Anime Reversal รหัส",
+      "description": "รหัส Anime Reversal ล่าสุดสำหรับอัญมณี ชิปสถิติ การสุ่มซ้ำ และรางวัลกิจกรรมแบบจำกัด",
+      "metaTitle": "Anime Reversal รหัส - อัญมณี ชิป และการสุ่มซ้ำฟรี",
+      "metaDescription": "แลกรหัส Anime Reversal ที่ใช้งานอยู่เพื่อรับอัญมณีฟรี ชิปสถิติ และการสุ่มซ้ำ อัปเดตด้วยรายการรหัสการทำงานล่าสุด",
+      "categoryLabel": "แลกรหัส",
+      "whatIs": "รหัส Anime Reversal คืออะไร",
+      "whatIsDescription": "รหัส Anime Reversal คือสตริงการแลกรางวัลแบบจำกัดเวลาที่มอบอัญมณี ชิป และทรัพยากรการสุ่มซ้ำเพิ่มเติมเพื่อเร่งความก้าวหน้าของบัญชี",
+      "why": "เหตุใดจึงต้องตรวจสอบรหัส Anime Reversal เป็นประจำ",
       "whySteps": {
-        "step1Title": "Claim Free Currency",
-        "step1Description": "Get Anime Reversal gems and chips without spending your farming sessions.",
-        "step2Title": "Boost Team Growth",
-        "step2Description": "Use Anime Reversal reroll rewards to improve traits and raise core unit value.",
-        "step3Title": "Catch Time-Limited Drops",
-        "step3Description": "Redeem Anime Reversal codes before they expire during patch and event cycles."
+        "step1Title": "รับสกุลเงินฟรี",
+        "step1Description": "รับอัญมณีและชิป Anime Reversal โดยไม่ต้องเสียเวลาทำฟาร์ม",
+        "step2Title": "เพิ่มการเติบโตของทีม",
+        "step2Description": "ใช้ Anime Reversal สุ่มรางวัลซ้ำเพื่อปรับปรุงคุณสมบัติและเพิ่มมูลค่าหน่วยหลัก",
+        "step3Title": "จับหยดแบบจำกัดเวลา",
+        "step3Description": "แลกรหัส Anime Reversal ก่อนที่จะหมดอายุในระหว่างรอบแพทช์และรอบกิจกรรม"
       },
-      "featured": "Featured & Essential",
-      "all": "All Codes"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "รหัสทั้งหมด"
     },
     "guide": {
-      "title": "Anime Reversal Guide",
-      "description": "Complete Anime Reversal guide coverage for beginner setup, progression routes, and mode strategy.",
-      "metaTitle": "Anime Reversal Guide - Beginner to Advanced Strategy",
-      "metaDescription": "Learn Anime Reversal systems with practical guide content for leveling, summoning, farming loops, and combat planning.",
-      "categoryLabel": "GAME GUIDE",
-      "whatIs": "What is the Anime Reversal guide section?",
-      "whatIsDescription": "The Anime Reversal guide section collects walkthroughs that explain progression order, map pacing, and efficient team building for each stage of play.",
-      "why": "Why read Anime Reversal guides?",
+      "title": "Anime Reversal คำแนะนำ",
+      "description": "ครอบคลุมคำแนะนำ Anime Reversal ให้สมบูรณ์สำหรับการตั้งค่าเริ่มต้น เส้นทางความก้าวหน้า และกลยุทธ์โหมด",
+      "metaTitle": "Anime Reversal คำแนะนำ - เริ่มต้นถึงกลยุทธ์ขั้นสูง",
+      "metaDescription": "เรียนรู้ระบบ Anime Reversal พร้อมเนื้อหาคำแนะนำที่ใช้งานได้จริงสำหรับการปรับระดับ การอัญเชิญ การทำฟาร์ม และการวางแผนการต่อสู้",
+      "categoryLabel": "คู่มือเกม",
+      "whatIs": "ส่วนคำแนะนำ Anime Reversal คืออะไร",
+      "whatIsDescription": "ส่วนคำแนะนำ Anime Reversal รวบรวมคำแนะนำที่อธิบายลำดับความก้าวหน้า อัตราความเร็วของแผนที่ และการสร้างทีมที่มีประสิทธิภาพสำหรับการเล่นแต่ละขั้นตอน",
+      "why": "ทำไมต้องอ่านคำแนะนำ Anime Reversal",
       "whySteps": {
-        "step1Title": "Start With Clear Priorities",
-        "step1Description": "Follow Anime Reversal beginner checklists to avoid early resource waste.",
-        "step2Title": "Improve Match Consistency",
-        "step2Description": "Use Anime Reversal guide routes to stabilize clears in story and challenge content.",
-        "step3Title": "Scale Into Endgame",
-        "step3Description": "Apply Anime Reversal advanced patterns for better farming uptime and stronger comps."
+        "step1Title": "เริ่มต้นด้วยการจัดลำดับความสำคัญที่ชัดเจน",
+        "step1Description": "ปฏิบัติตามรายการตรวจสอบ Anime Reversal สำหรับผู้เริ่มต้น เพื่อหลีกเลี่ยงการสูญเสียทรัพยากรตั้งแต่เนิ่นๆ",
+        "step2Title": "ปรับปรุงความสม่ำเสมอของการแข่งขัน",
+        "step2Description": "ใช้เส้นทางนำทาง Anime Reversal เพื่อรักษาความชัดเจนในเรื่องราวและเนื้อหาที่ท้าทาย",
+        "step3Title": "ขยายขนาดเข้าสู่ Endgame",
+        "step3Description": "ใช้รูปแบบขั้นสูง Anime Reversal เพื่อเวลาการทำฟาร์มที่ดีขึ้นและคอมพ์ที่แข็งแกร่งขึ้น"
       },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "คำแนะนำทั้งหมด"
     },
     "units": {
-      "title": "Anime Reversal Units",
-      "description": "Anime Reversal unit breakdowns with role analysis, placement notes, trait synergy, and investment value.",
-      "metaTitle": "Anime Reversal Units - Roles, Builds, and Priorities",
-      "metaDescription": "Browse Anime Reversal units by role and performance to plan summon targets, upgrades, and long-term team slots.",
-      "categoryLabel": "UNIT INDEX",
-      "whatIs": "What are Anime Reversal unit pages?",
-      "whatIsDescription": "Anime Reversal unit pages explain what each character does, where it fits in a lineup, and when it is worth your upgrade materials.",
-      "why": "Why compare Anime Reversal units?",
+      "title": "Anime Reversal หน่วย",
+      "description": "Anime Reversal การแยกย่อยหน่วยด้วยการวิเคราะห์บทบาท บันทึกตำแหน่ง การทำงานร่วมกันของคุณลักษณะ และมูลค่าการลงทุน",
+      "metaTitle": "Anime Reversal หน่วย - บทบาท โครงสร้าง และลำดับความสำคัญ",
+      "metaDescription": "เรียกดูหน่วย Anime Reversal ตามบทบาทและประสิทธิภาพ เพื่อวางแผนการอัญเชิญเป้าหมาย การอัพเกรด และช่องของทีมระยะยาว",
+      "categoryLabel": "ดัชนีหน่วย",
+      "whatIs": "หน้าหน่วย Anime Reversal คืออะไร",
+      "whatIsDescription": "หน้าหน่วย Anime Reversal อธิบายว่าตัวละครแต่ละตัวทำหน้าที่อะไร ตำแหน่งที่เหมาะกับผู้เล่นตัวจริง และเมื่อใดจึงจะคุ้มค่ากับวัสดุการอัพเกรดของคุณ",
+      "why": "ทำไมต้องเปรียบเทียบหน่วยAnime Reversal?",
       "whySteps": {
-        "step1Title": "Pick Better Summon Targets",
-        "step1Description": "Use Anime Reversal unit evaluations to focus pulls on high-impact picks.",
-        "step2Title": "Build Cleaner Team Roles",
-        "step2Description": "Match Anime Reversal units to carry, support, and economy slots with fewer overlaps.",
-        "step3Title": "Spend Materials Smarter",
-        "step3Description": "Prioritize Anime Reversal units with better scaling across multiple modes."
+        "step1Title": "เลือกเป้าหมายการอัญเชิญที่ดีกว่า",
+        "step1Description": "ใช้การประเมินหน่วย Anime Reversal เพื่อเน้นไปที่การเลือกที่มีผลกระทบสูง",
+        "step2Title": "สร้างบทบาทของทีมที่สะอาดขึ้น",
+        "step2Description": "จับคู่หน่วย Anime Reversal เพื่อพกพา สนับสนุน และช่องประหยัดที่มีการทับซ้อนกันน้อยลง",
+        "step3Title": "ใช้วัสดุอย่างชาญฉลาดยิ่งขึ้น",
+        "step3Description": "จัดลำดับความสำคัญของหน่วย Anime Reversal ด้วยการปรับขนาดที่ดีขึ้นในหลายโหมด"
       },
-      "featured": "Featured & Essential",
-      "all": "All Units"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "ทุกหน่วย"
     },
     "items": {
-      "title": "Anime Reversal Items",
-      "description": "Anime Reversal item references for currencies, upgrade materials, drops, and usage priorities.",
-      "metaTitle": "Anime Reversal Items - Materials, Drops, and Usage Guide",
-      "metaDescription": "Track Anime Reversal item sources and usage plans, including reroll resources, event drops, and upgrade materials.",
-      "categoryLabel": "ITEM DATABASE",
-      "whatIs": "What are Anime Reversal item guides?",
-      "whatIsDescription": "Anime Reversal item guides map where each material comes from and when to spend it for the highest long-term account value.",
-      "why": "Why use Anime Reversal item references?",
+      "title": "Anime Reversal รายการ",
+      "description": "Anime Reversal การอ้างอิงรายการสำหรับสกุลเงิน วัสดุอัปเกรด การดรอป และลำดับความสำคัญในการใช้งาน",
+      "metaTitle": "Anime Reversal รายการ - วัสดุ การดรอป และคู่มือการใช้งาน",
+      "metaDescription": "ติดตามแหล่งที่มาของรายการ Anime Reversal และแผนการใช้งาน รวมถึงทรัพยากรการสุ่มซ้ำ กิจกรรมดรอป และวัสดุอัปเกรด",
+      "categoryLabel": "ฐานข้อมูลรายการ",
+      "whatIs": "คำแนะนำรายการ Anime Reversal คืออะไร",
+      "whatIsDescription": "Anime Reversal แผนผังรายการว่าแต่ละวัสดุมาจากไหนและควรใช้เมื่อใดเพื่อให้มีมูลค่าบัญชีระยะยาวสูงสุด",
+      "why": "เหตุใดจึงต้องใช้การอ้างอิงรายการ Anime Reversal",
       "whySteps": {
-        "step1Title": "Find Sources Faster",
-        "step1Description": "Locate Anime Reversal item drop routes and event sources without trial-and-error.",
-        "step2Title": "Avoid Wasteful Spending",
-        "step2Description": "Use Anime Reversal usage priorities to save rare materials for top upgrades.",
-        "step3Title": "Support Progression Plans",
-        "step3Description": "Align Anime Reversal item farming with your current team and evolution goals."
+        "step1Title": "ค้นหาแหล่งที่มาได้เร็วขึ้น",
+        "step1Description": "ค้นหาเส้นทางดรอปรายการ Anime Reversal และแหล่งที่มาของเหตุการณ์โดยไม่ต้องลองผิดลองถูก",
+        "step2Title": "หลีกเลี่ยงการใช้จ่ายอย่างสิ้นเปลือง",
+        "step2Description": "ใช้ลำดับความสำคัญการใช้งาน Anime Reversal เพื่อบันทึกวัสดุหายากสำหรับการอัพเกรดระดับสูง",
+        "step3Title": "สนับสนุนแผนความก้าวหน้า",
+        "step3Description": "จัดแนวการทำฟาร์มไอเท็ม Anime Reversal ให้สอดคล้องกับเป้าหมายทีมปัจจุบันและวิวัฒนาการของคุณ"
       },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "รายการทั้งหมด"
     },
     "traits": {
-      "title": "Anime Reversal Traits",
-      "description": "Anime Reversal trait guides covering reroll strategy, best trait combinations, and role-based priorities.",
-      "metaTitle": "Anime Reversal Traits - Best Rolls and Reroll Strategy",
-      "metaDescription": "Optimize Anime Reversal trait outcomes with reroll plans, unit pairing advice, and trait value comparisons.",
-      "categoryLabel": "TRAIT SYSTEM",
-      "whatIs": "What are Anime Reversal traits?",
-      "whatIsDescription": "Anime Reversal traits are stat and effect modifiers that change how units perform in damage, utility, and scaling scenarios.",
-      "why": "Why optimize Anime Reversal traits?",
+      "title": "Anime Reversal ลักษณะ",
+      "description": "Anime Reversal คำแนะนำเกี่ยวกับคุณสมบัติที่ครอบคลุมกลยุทธ์การสุ่มซ้ำ การผสมผสานคุณสมบัติที่ดีที่สุด และลำดับความสำคัญตามบทบาท",
+      "metaTitle": "Anime Reversal ลักษณะ - กลยุทธ์การสุ่มและสุ่มซ้ำที่ดีที่สุด",
+      "metaDescription": "ปรับผลลัพธ์ลักษณะ Anime Reversal ให้เหมาะสมด้วยแผนการสุ่มซ้ำ คำแนะนำในการจับคู่หน่วย และการเปรียบเทียบค่าลักษณะ",
+      "categoryLabel": "ระบบลักษณะเฉพาะ",
+      "whatIs": "ลักษณะ Anime Reversal คืออะไร",
+      "whatIsDescription": "ลักษณะ Anime Reversal คือตัวปรับค่าสถิติและเอฟเฟกต์ที่เปลี่ยนวิธีการทำงานของหน่วยในสถานการณ์ที่สร้างความเสียหาย ประโยชน์ใช้สอย และขยายขนาด",
+      "why": "เหตุใดจึงปรับลักษณะ Anime Reversal ให้เหมาะสม",
       "whySteps": {
-        "step1Title": "Increase Unit Output",
-        "step1Description": "Use Anime Reversal trait pairing to raise damage and utility on your core lineup.",
-        "step2Title": "Spend Rerolls Intelligently",
-        "step2Description": "Follow Anime Reversal reroll thresholds so rare resources are used on the right units.",
-        "step3Title": "Adapt to Team Needs",
-        "step3Description": "Adjust Anime Reversal trait priorities by mode, enemy type, and comp role."
+        "step1Title": "เพิ่มหน่วยเอาต์พุต",
+        "step1Description": "ใช้การจับคู่คุณลักษณะ Anime Reversal เพื่อเพิ่มความเสียหายและอรรถประโยชน์ให้กับกลุ่มผลิตภัณฑ์หลักของคุณ",
+        "step2Title": "ใช้จ่าย Rerolls อย่างชาญฉลาด",
+        "step2Description": "ปฏิบัติตาม Anime Reversal เกณฑ์การสุ่มซ้ำเพื่อใช้ทรัพยากรที่หายากกับหน่วยที่ถูกต้อง",
+        "step3Title": "ปรับให้เข้ากับความต้องการของทีม",
+        "step3Description": "ปรับลำดับความสำคัญของคุณลักษณะ Anime Reversal ตามโหมด ประเภทของศัตรู และบทบาทคอมพ์"
       },
-      "featured": "Featured & Essential",
-      "all": "All Traits"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "ลักษณะทั้งหมด"
     },
     "evolution": {
-      "title": "Anime Reversal Evolution",
-      "description": "Anime Reversal evolution routes with material checklists, breakpoints, and upgrade sequencing.",
-      "metaTitle": "Anime Reversal Evolution - Materials and Upgrade Paths",
-      "metaDescription": "Plan Anime Reversal evolutions efficiently with clear requirements, milestone priorities, and progression checkpoints.",
-      "categoryLabel": "EVOLUTION PATHS",
-      "whatIs": "What is Anime Reversal evolution?",
-      "whatIsDescription": "Anime Reversal evolution upgrades key units into stronger forms, adding better scaling and improved performance in high-pressure content.",
-      "why": "Why plan Anime Reversal evolutions carefully?",
+      "title": "Anime Reversal วิวัฒนาการ",
+      "description": "Anime Reversal เส้นทางวิวัฒนาการพร้อมรายการตรวจสอบวัสดุ จุดพัก และลำดับการอัพเกรด",
+      "metaTitle": "Anime Reversalวิวัฒนาการ - วัสดุและเส้นทางการอัพเกรด",
+      "metaDescription": "แผน Anime Reversal วิวัฒนาการอย่างมีประสิทธิภาพโดยมีข้อกำหนดที่ชัดเจน ลำดับความสำคัญของเหตุการณ์สำคัญ และจุดตรวจสอบความก้าวหน้า",
+      "categoryLabel": "เส้นทางวิวัฒนาการ",
+      "whatIs": "วิวัฒนาการAnime Reversalคืออะไร?",
+      "whatIsDescription": "Anime Reversal วิวัฒนาการอัปเกรดหน่วยสำคัญให้อยู่ในรูปแบบที่แข็งแกร่งยิ่งขึ้น เพิ่มการปรับขนาดที่ดีขึ้น และปรับปรุงประสิทธิภาพในเนื้อหาที่มีแรงกดดันสูง",
+      "why": "เหตุใดจึงต้องวางแผน Anime Reversal วิวัฒนาการอย่างรอบคอบ?",
       "whySteps": {
-        "step1Title": "Track Material Costs",
-        "step1Description": "Prepare Anime Reversal evolution materials before each major upgrade milestone.",
-        "step2Title": "Prioritize Core Units",
-        "step2Description": "Focus Anime Reversal evolution resources on units that carry multiple game modes.",
-        "step3Title": "Improve Progression Speed",
-        "step3Description": "Sequence Anime Reversal evolutions to avoid stalls between farming and challenge content."
+        "step1Title": "ติดตามต้นทุนวัสดุ",
+        "step1Description": "เตรียมเอกสารวิวัฒนาการ Anime Reversal ก่อนก้าวสำคัญในการอัพเกรดแต่ละครั้ง",
+        "step2Title": "จัดลำดับความสำคัญของหน่วยหลัก",
+        "step2Description": "มุ่งเน้นทรัพยากรวิวัฒนาการ Anime Reversal ไปที่หน่วยที่มีโหมดเกมหลายโหมด",
+        "step3Title": "ปรับปรุงความเร็วความก้าวหน้า",
+        "step3Description": "ลำดับAnime Reversalวิวัฒนาการเพื่อหลีกเลี่ยงแผงกั้นระหว่างการทำฟาร์มและเนื้อหาที่ท้าทาย"
       },
-      "featured": "Featured & Essential",
-      "all": "All Evolution Guides"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "คู่มือวิวัฒนาการทั้งหมด"
     },
     "resources": {
-      "title": "Anime Reversal Resources",
-      "description": "Anime Reversal resource links for official channels, patch references, and community hubs.",
-      "metaTitle": "Anime Reversal Resources - Links, Channels, and References",
-      "metaDescription": "Access Anime Reversal resources including official community links, update references, and useful player hubs.",
-      "categoryLabel": "RESOURCE HUB",
-      "whatIs": "What are Anime Reversal resources?",
-      "whatIsDescription": "Anime Reversal resources collect trusted links and references that help players track announcements, patch notes, and community events.",
-      "why": "Why use Anime Reversal resources?",
+      "title": "Anime Reversal ทรัพยากร",
+      "description": "Anime Reversal ลิงก์แหล่งข้อมูลสำหรับช่องทางอย่างเป็นทางการ ข้อมูลอ้างอิงแพตช์ และศูนย์กลางชุมชน",
+      "metaTitle": "Anime Reversal แหล่งข้อมูล - ลิงก์ ช่องทาง และข้อมูลอ้างอิง",
+      "metaDescription": "เข้าถึงแหล่งข้อมูล Anime Reversal รวมถึงลิงก์ชุมชนอย่างเป็นทางการ ข้อมูลอ้างอิงการอัปเดต และศูนย์รวมผู้เล่นที่เป็นประโยชน์",
+      "categoryLabel": "ศูนย์กลางทรัพยากร",
+      "whatIs": "ทรัพยากร Anime Reversal คืออะไร",
+      "whatIsDescription": "ทรัพยากร Anime Reversal รวบรวมลิงก์และข้อมูลอ้างอิงที่เชื่อถือได้ ซึ่งช่วยให้ผู้เล่นติดตามประกาศ บันทึกแพทช์ และกิจกรรมชุมชน",
+      "why": "เหตุใดจึงต้องใช้ทรัพยากร Anime Reversal",
       "whySteps": {
-        "step1Title": "Reach Official Channels",
-        "step1Description": "Open Anime Reversal links for Discord, Roblox, and other core platforms quickly.",
-        "step2Title": "Track New Content",
-        "step2Description": "Use Anime Reversal resource updates to keep your farming and team plans current.",
-        "step3Title": "Share Useful References",
-        "step3Description": "Pass Anime Reversal resource pages to new players for faster onboarding."
+        "step1Title": "เข้าถึงช่องทางอย่างเป็นทางการ",
+        "step1Description": "เปิดลิงก์ Anime Reversal สำหรับ Discord, Roblox และแพลตฟอร์มหลักอื่นๆ อย่างรวดเร็ว",
+        "step2Title": "ติดตามเนื้อหาใหม่",
+        "step2Description": "ใช้การอัปเดตทรัพยากร Anime Reversal เพื่อให้แผนการฟาร์มและทีมของคุณเป็นปัจจุบัน",
+        "step3Title": "แบ่งปันข้อมูลอ้างอิงที่เป็นประโยชน์",
+        "step3Description": "ส่งผ่านหน้าทรัพยากร Anime Reversal ไปยังผู้เล่นใหม่เพื่อการเริ่มใช้งานที่รวดเร็วยิ่งขึ้น"
       },
-      "featured": "Featured & Essential",
-      "all": "All Resources"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "ทรัพยากรทั้งหมด"
     },
     "script": {
-      "title": "Anime Reversal Script",
-      "description": "Anime Reversal script and macro topics covering setup context, usage notes, and workflow comparisons.",
-      "metaTitle": "Anime Reversal Script - Setup Notes and Workflow Guides",
-      "metaDescription": "Explore Anime Reversal script-related articles with setup walkthroughs, macro tips, and practical automation context.",
-      "categoryLabel": "SCRIPT TOPICS",
-      "whatIs": "What is in the Anime Reversal script section?",
-      "whatIsDescription": "The Anime Reversal script section groups articles about script tools, macro flows, and setup decisions players commonly compare.",
-      "why": "Why review Anime Reversal script articles?",
+      "title": "Anime Reversal สคริปต์",
+      "description": "Anime Reversal สคริปต์และหัวข้อมาโครครอบคลุมบริบทการตั้งค่า บันทึกการใช้งาน และการเปรียบเทียบขั้นตอนการทำงาน",
+      "metaTitle": "Anime Reversal สคริปต์ - บันทึกการตั้งค่าและคำแนะนำขั้นตอนการทำงาน",
+      "metaDescription": "สำรวจบทความเกี่ยวกับสคริปต์ Anime Reversal พร้อมคำแนะนำในการตั้งค่า เคล็ดลับมาโคร และบริบทการทำงานอัตโนมัติที่ใช้งานได้จริง",
+      "categoryLabel": "หัวข้อสคริปต์",
+      "whatIs": "อะไรอยู่ในส่วนสคริปต์ Anime Reversal?",
+      "whatIsDescription": "ส่วนสคริปต์ Anime Reversal จัดกลุ่มบทความเกี่ยวกับเครื่องมือสคริปต์ โฟลว์มาโคร และการตัดสินใจในการตั้งค่าที่ผู้เล่นมักเปรียบเทียบกัน",
+      "why": "ทำไมต้องทบทวนบทความสคริปต์ Anime Reversal",
       "whySteps": {
-        "step1Title": "Understand Setup Options",
-        "step1Description": "Compare Anime Reversal script workflows before choosing one for daily runs.",
-        "step2Title": "Reduce Trial-and-Error",
-        "step2Description": "Use Anime Reversal script notes to avoid common setup mistakes and downtime.",
-        "step3Title": "Fit Your Farming Routine",
-        "step3Description": "Select Anime Reversal script approaches that match your session length and goals."
+        "step1Title": "ทำความเข้าใจกับตัวเลือกการตั้งค่า",
+        "step1Description": "เปรียบเทียบเวิร์กโฟลว์สคริปต์ Anime Reversal ก่อนที่จะเลือกเวิร์กโฟลว์สคริปต์สำหรับการรันรายวัน",
+        "step2Title": "ลดการลองผิดลองถูก",
+        "step2Description": "ใช้บันทึกสคริปต์ Anime Reversal เพื่อหลีกเลี่ยงข้อผิดพลาดในการตั้งค่าทั่วไปและการหยุดทำงาน",
+        "step3Title": "เหมาะกับกิจวัตรการทำฟาร์มของคุณ",
+        "step3Description": "เลือกแนวทางสคริปต์ Anime Reversal ที่ตรงกับความยาวเซสชั่นและเป้าหมายของคุณ"
       },
-      "featured": "Featured & Essential",
-      "all": "All Script Articles"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "บทความสคริปต์ทั้งหมด"
     },
     "tier": {
-      "title": "Anime Reversal Tier",
-      "description": "Anime Reversal tier analysis for current meta strength, role efficiency, and practical ranking logic.",
-      "metaTitle": "Anime Reversal Tier - Meta Strength and Role Value",
-      "metaDescription": "Review Anime Reversal tier discussions to compare units by output, utility, scaling, and team impact.",
-      "categoryLabel": "TIER ANALYSIS",
-      "whatIs": "What is Anime Reversal tier analysis?",
-      "whatIsDescription": "Anime Reversal tier analysis explains how units compare by role, consistency, and performance across key game modes.",
-      "why": "Why track Anime Reversal tier shifts?",
+      "title": "Anime Reversal ระดับ",
+      "description": "Anime Reversal การวิเคราะห์ระดับสำหรับความแข็งแกร่งของเมตาปัจจุบัน ประสิทธิภาพของบทบาท และตรรกะการจัดอันดับเชิงปฏิบัติ",
+      "metaTitle": "Anime Reversal ระดับ - ความแข็งแกร่งของ Meta และมูลค่าบทบาท",
+      "metaDescription": "ทบทวนการอภิปรายระดับ Anime Reversal เพื่อเปรียบเทียบหน่วยตามผลผลิต ประโยชน์ใช้สอย การปรับขนาด และผลกระทบของทีม",
+      "categoryLabel": "การวิเคราะห์ระดับ",
+      "whatIs": "การวิเคราะห์ระดับ Anime Reversal คืออะไร?",
+      "whatIsDescription": "Anime Reversal การวิเคราะห์ระดับจะอธิบายว่าหน่วยต่างๆ เปรียบเทียบตามบทบาท ความสม่ำเสมอ และประสิทธิภาพในโหมดเกมหลักอย่างไร",
+      "why": "เหตุใดจึงต้องติดตามการเปลี่ยนแปลงระดับ Anime Reversal",
       "whySteps": {
-        "step1Title": "Spot Meta Priorities",
-        "step1Description": "Identify which Anime Reversal roles are strongest in the current patch cycle.",
-        "step2Title": "Improve Team Decisions",
-        "step2Description": "Use Anime Reversal tier context to choose stronger carries and support pairs.",
-        "step3Title": "React to Balance Changes",
-        "step3Description": "Update Anime Reversal investment plans when patches move unit value."
+        "step1Title": "ค้นหาลำดับความสำคัญของ Meta",
+        "step1Description": "ระบุว่าบทบาท Anime Reversal ใดแข็งแกร่งที่สุดในวงจรแพตช์ปัจจุบัน",
+        "step2Title": "ปรับปรุงการตัดสินใจของทีม",
+        "step2Description": "ใช้บริบทระดับ Anime Reversal เพื่อเลือกคู่การบรรทุกและการสนับสนุนที่แข็งแกร่งกว่า",
+        "step3Title": "ตอบสนองต่อการเปลี่ยนแปลงสมดุล",
+        "step3Description": "อัปเดตแผนการลงทุน Anime Reversal เมื่อแพทช์ย้ายมูลค่าหน่วย"
       },
-      "featured": "Featured & Essential",
-      "all": "All Tier Articles"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "บทความระดับทั้งหมด"
     },
     "tier-list": {
-      "title": "Anime Reversal Tier List",
-      "description": "Anime Reversal tier list rankings for top units, role tiers, and patch-aware team planning.",
-      "metaTitle": "Anime Reversal Tier List - Best Units by Role and Patch",
-      "metaDescription": "Use the Anime Reversal tier list to rank units by mode performance, synergy value, and upgrade priority.",
-      "categoryLabel": "UNIT RANKINGS",
-      "whatIs": "What is the Anime Reversal tier list?",
-      "whatIsDescription": "The Anime Reversal tier list ranks units by practical impact so players can decide summon targets, upgrades, and lineup slots faster.",
-      "why": "Why use the Anime Reversal tier list?",
+      "title": "Anime Reversal รายการระดับ",
+      "description": "Anime Reversal การจัดอันดับรายการระดับสำหรับหน่วยระดับสูง ระดับบทบาท และการวางแผนทีมที่รับรู้แพตช์",
+      "metaTitle": "Anime Reversal รายการระดับ - หน่วยที่ดีที่สุดตามบทบาทและแพทช์",
+      "metaDescription": "ใช้รายการระดับ Anime Reversal เพื่อจัดอันดับหน่วยตามประสิทธิภาพของโหมด มูลค่าการทำงานร่วมกัน และลำดับความสำคัญในการอัพเกรด",
+      "categoryLabel": "การจัดอันดับหน่วย",
+      "whatIs": "รายการระดับ Anime Reversal คืออะไร",
+      "whatIsDescription": "รายชื่อระดับ Anime Reversal จัดอันดับยูนิตตามผลกระทบที่เกิดขึ้นจริง เพื่อให้ผู้เล่นสามารถตัดสินใจเลือกเป้าหมายการอัญเชิญ การอัพเกรด และช่องจัดเรียงผู้เล่นได้เร็วขึ้น",
+      "why": "เหตุใดจึงต้องใช้รายการระดับ Anime Reversal",
       "whySteps": {
-        "step1Title": "Rank Units Quickly",
-        "step1Description": "Check Anime Reversal tier list placements to compare picks at a glance.",
-        "step2Title": "Plan Summons Better",
-        "step2Description": "Use Anime Reversal tier list priorities before spending gems or tickets.",
-        "step3Title": "Build Stronger Comps",
-        "step3Description": "Combine Anime Reversal tier list insights with role synergy for cleaner teams."
+        "step1Title": "จัดอันดับหน่วยอย่างรวดเร็ว",
+        "step1Description": "ตรวจสอบตำแหน่งรายการระดับ Anime Reversal เพื่อเปรียบเทียบตัวเลือกได้อย่างรวดเร็ว",
+        "step2Title": "วางแผนอัญเชิญได้ดีขึ้น",
+        "step2Description": "ใช้ลำดับความสำคัญของรายการระดับ Anime Reversal ก่อนที่จะใช้อัญมณีหรือตั๋ว",
+        "step3Title": "สร้าง Comps ที่แข็งแกร่งยิ่งขึ้น",
+        "step3Description": "รวมข้อมูลเชิงลึกของรายการระดับ Anime Reversal เข้ากับการทำงานร่วมกันของบทบาทสำหรับทีมที่สะอาดยิ่งขึ้น"
       },
-      "featured": "Featured & Essential",
-      "all": "All Tier Lists"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "รายการระดับทั้งหมด"
     },
     "updates": {
-      "title": "Anime Reversal Updates",
-      "description": "Anime Reversal updates covering patch highlights, feature changes, and meta impact summaries.",
-      "metaTitle": "Anime Reversal Updates - Patch Notes and Change Tracking",
-      "metaDescription": "Track Anime Reversal updates with concise summaries of balance changes, new content, and progression impact.",
-      "categoryLabel": "PATCH UPDATES",
-      "whatIs": "What are Anime Reversal updates?",
-      "whatIsDescription": "Anime Reversal updates record patch-level changes, events, and adjustments that affect farming priorities and team choices.",
-      "why": "Why follow Anime Reversal updates?",
+      "title": "Anime Reversal อัปเดต",
+      "description": "Anime Reversal การอัปเดตครอบคลุมถึงไฮไลท์ของแพตช์ การเปลี่ยนแปลงคุณสมบัติ และข้อมูลสรุปผลกระทบเมตา",
+      "metaTitle": "Anime Reversal การอัปเดต - บันทึกการแก้ไขและการติดตามการเปลี่ยนแปลง",
+      "metaDescription": "ติดตามการอัปเดต Anime Reversal ด้วยสรุปโดยย่อเกี่ยวกับการเปลี่ยนแปลงสมดุล เนื้อหาใหม่ และผลกระทบต่อความก้าวหน้า",
+      "categoryLabel": "การอัปเดตแพทช์",
+      "whatIs": "การอัปเดต Anime Reversal คืออะไร",
+      "whatIsDescription": "Anime Reversal อัปเดตบันทึกการเปลี่ยนแปลง เหตุการณ์ และการปรับเปลี่ยนระดับแพตช์ที่ส่งผลต่อลำดับความสำคัญในการทำฟาร์มและตัวเลือกของทีม",
+      "why": "เหตุใดจึงติดตามการอัปเดต Anime Reversal",
       "whySteps": {
-        "step1Title": "See Patch Highlights",
-        "step1Description": "Catch Anime Reversal balance and content changes as soon as they land.",
-        "step2Title": "Adjust Builds Early",
-        "step2Description": "Use Anime Reversal update notes to revise trait, unit, and team plans quickly.",
-        "step3Title": "Protect Progression Pace",
-        "step3Description": "Adapt Anime Reversal farming routes before outdated strategies slow you down."
+        "step1Title": "ดูไฮไลท์ของแพทช์",
+        "step1Description": "ติดตามความสมดุลของAnime Reversalและการเปลี่ยนแปลงเนื้อหาทันทีที่มาถึง",
+        "step2Title": "ปรับการสร้างตั้งแต่เนิ่นๆ",
+        "step2Description": "ใช้บันทึกการอัปเดต Anime Reversal เพื่อแก้ไขคุณลักษณะ หน่วย และแผนทีมอย่างรวดเร็ว",
+        "step3Title": "ปกป้องก้าวก้าวหน้า",
+        "step3Description": "ปรับเส้นทางการทำฟาร์ม Anime Reversal ก่อนที่กลยุทธ์ที่ล้าสมัยจะทำให้คุณช้าลง"
       },
-      "featured": "Featured & Essential",
-      "all": "All Updates"
+      "featured": "โดดเด่นและจำเป็น",
+      "all": "อัพเดททั้งหมด"
     }
   }
 }
