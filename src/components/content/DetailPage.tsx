@@ -5,7 +5,6 @@ import { Calendar, User, ArrowLeft } from 'lucide-react'
 import { getTranslations } from 'next-intl/server'
 import { RelatedArticles } from './RelatedArticles'
 import { extractPlaceholderMetadata, getTailwindRgbString } from '@/lib/imageUtils'
-import { extractPrimaryKeyword } from '@/lib/utils'
 import { SidebarAd } from '@/components/ads/SidebarAd'
 import { AdBanner } from '@/components/ads'
 
@@ -84,7 +83,7 @@ export async function DetailPage({ frontmatter, content, contentType, language, 
 						</Link>
 					</nav>
 
-					<h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">{extractPrimaryKeyword(frontmatter.title)}</h1>
+						<h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">{frontmatter.title}</h1>
 
 					<p className="text-xl text-muted-foreground mb-6">{frontmatter.description}</p>
 

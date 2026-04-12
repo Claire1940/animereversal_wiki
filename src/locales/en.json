@@ -35,7 +35,10 @@
     "notFoundDescription": "The page you are looking for does not exist.",
     "backToHome": "Back to Home",
     "relatedArticles": "Related Articles",
-    "readMore": "Read More"
+    "readMore": "Read More",
+    "noArticlesYet": "No articles yet",
+    "moreWikis": "More Wikis",
+    "selectLanguage": "Select language"
   },
   "hero": {
     "badge": "Roblox Anime Tower Defense",

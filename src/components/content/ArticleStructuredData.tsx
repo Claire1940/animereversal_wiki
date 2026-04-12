@@ -14,27 +14,27 @@ export function ArticleStructuredData({
 	slug,
 }: ArticleStructuredDataProps) {
 	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.animereversal.wiki'
-	const articleUrl =
-		locale === 'en'
-			? `${siteUrl}/${contentType}/${slug}`
-			: `${siteUrl}/${locale}/${contentType}/${slug}`
+	const localeBasePath = locale === 'en' ? '' : `/${locale}`
+	const homeUrl = locale === 'en' ? siteUrl : `${siteUrl}${localeBasePath}`
+	const listUrl = `${siteUrl}${localeBasePath}/${contentType}`
+	const articleUrl = `${listUrl}/${slug}`
 
 	const breadcrumbData = {
 		'@context': 'https://schema.org',
 		'@type': 'BreadcrumbList',
 		itemListElement: [
-			{
-				'@type': 'ListItem',
-				position: 1,
-				name: 'Home',
-				item: siteUrl,
-			},
-			{
-				'@type': 'ListItem',
-				position: 2,
-				name: contentType.charAt(0).toUpperCase() + contentType.slice(1),
-				item: `${siteUrl}/${contentType}`,
-			},
+				{
+					'@type': 'ListItem',
+					position: 1,
+					name: 'Home',
+					item: homeUrl,
+				},
+				{
+					'@type': 'ListItem',
+					position: 2,
+					name: contentType.charAt(0).toUpperCase() + contentType.slice(1),
+					item: listUrl,
+				},
 			{
 				'@type': 'ListItem',
 				position: 3,

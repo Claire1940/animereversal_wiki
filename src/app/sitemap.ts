@@ -12,28 +12,34 @@ const staticPagesConfig: Record<string, { priority: number; changeFrequency: 'mo
 	'copyright': { priority: 0.3, changeFrequency: 'yearly' },
 }
 
-// 内容类型优先级配置
+// 内容类型优先级配置（与当前导航/路由保持一致）
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
-	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
+	'codes': 0.95,
+	'guide': 0.9,
+	'units': 0.85,
+	'items': 0.85,
+	'traits': 0.85,
+	'evolution': 0.85,
+	'resources': 0.75,
+	'script': 0.7,
+	'tier': 0.85,
+	'tier-list': 0.9,
+	'updates': 0.95,
 }
 
-// 内容更新频率配置
+// 内容更新频率配置（与内容更新节奏对齐）
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
+	'codes': 'daily',
+	'guide': 'weekly',
+	'units': 'weekly',
 	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
+	'traits': 'weekly',
+	'evolution': 'weekly',
+	'resources': 'weekly',
+	'script': 'monthly',
+	'tier': 'weekly',
+	'tier-list': 'weekly',
+	'updates': 'daily',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
