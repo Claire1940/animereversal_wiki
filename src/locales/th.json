@@ -1,1 +1,15 @@
-{}
+{
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "units": "Units",
+    "items": "Items",
+    "traits": "Traits",
+    "evolution": "Evolution",
+    "resources": "Resources",
+    "script": "Script",
+    "tier": "Tier",
+    "tierList": "Tier List",
+    "updates": "Updates"
+  }
+}

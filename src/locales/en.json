@@ -10,7 +10,19 @@
       "twitterDescription": "Anime Reversal Wiki tracks active codes, best units, trait rerolls, raids, and update notes for Roblox players."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "units": "Units",
+    "items": "Items",
+    "traits": "Traits",
+    "evolution": "Evolution",
+    "resources": "Resources",
+    "script": "Script",
+    "tier": "Tier",
+    "tierList": "Tier List",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -675,7 +687,7 @@
             },
             {
               "title": "Anime Reversal fallback trait: Range",
-              "description": "Range is a good placeholder when you need immediate consistency before a premium roll."
+              "description": "Range is a good stopgap trait when you need immediate consistency before a premium roll."
             }
           ]
         },
@@ -1075,125 +1087,225 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Anime Reversal Guides",
-      "description": "Complete Anime Reversal guides from beginner setup to advanced raid and progression strategy.",
-      "metaTitle": "Anime Reversal Guides - Beginner to Advanced Strategy",
-      "metaDescription": "Master Anime Reversal with curated guides for codes, units, raids, traits, evolutions, and progression loops.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Anime Reversal guides?",
-      "whatIsDescription": "Structured walkthroughs for progression planning, unit building, and mode-specific strategies in Anime Reversal.",
+    "codes": {
+      "title": "Anime Reversal Codes",
+      "description": "Latest Anime Reversal codes for gems, stat chips, rerolls, and limited event rewards.",
+      "metaTitle": "Anime Reversal Codes - Free Gems, Chips, and Rerolls",
+      "metaDescription": "Redeem active Anime Reversal codes for free gems, stat chips, and rerolls. Updated with the latest working code entries.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Anime Reversal codes?",
+      "whatIsDescription": "Anime Reversal codes are limited-time redemption strings that grant extra gems, chips, and reroll resources to speed up account progression.",
+      "why": "Why check Anime Reversal codes regularly?",
+      "whySteps": {
+        "step1Title": "Claim Free Currency",
+        "step1Description": "Get Anime Reversal gems and chips without spending your farming sessions.",
+        "step2Title": "Boost Team Growth",
+        "step2Description": "Use Anime Reversal reroll rewards to improve traits and raise core unit value.",
+        "step3Title": "Catch Time-Limited Drops",
+        "step3Description": "Redeem Anime Reversal codes before they expire during patch and event cycles."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Anime Reversal Guide",
+      "description": "Complete Anime Reversal guide coverage for beginner setup, progression routes, and mode strategy.",
+      "metaTitle": "Anime Reversal Guide - Beginner to Advanced Strategy",
+      "metaDescription": "Learn Anime Reversal systems with practical guide content for leveling, summoning, farming loops, and combat planning.",
+      "categoryLabel": "GAME GUIDE",
+      "whatIs": "What is the Anime Reversal guide section?",
+      "whatIsDescription": "The Anime Reversal guide section collects walkthroughs that explain progression order, map pacing, and efficient team building for each stage of play.",
       "why": "Why read Anime Reversal guides?",
       "whySteps": {
-        "step1Title": "Learn Core Systems",
-        "step1Description": "Understand how Anime Reversal codes, units, traits, and evolutions connect",
-        "step2Title": "Progress Faster",
-        "step2Description": "Use practical routes to avoid weak pulls and wasted resources",
-        "step3Title": "Optimize Teams",
-        "step3Description": "Build stronger lineups for story, raids, and infinite mode"
+        "step1Title": "Start With Clear Priorities",
+        "step1Description": "Follow Anime Reversal beginner checklists to avoid early resource waste.",
+        "step2Title": "Improve Match Consistency",
+        "step2Description": "Use Anime Reversal guide routes to stabilize clears in story and challenge content.",
+        "step3Title": "Scale Into Endgame",
+        "step3Description": "Apply Anime Reversal advanced patterns for better farming uptime and stronger comps."
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Anime Reversal Progression",
-      "description": "Plan Anime Reversal evolution costs, trait rerolls, and upgrade checkpoints with structured progression guides.",
-      "metaTitle": "Anime Reversal Progression - Evolutions, Traits & Upgrade Routes",
-      "metaDescription": "Build efficient Anime Reversal progression paths with evolution planning, reroll strategy, and resource checkpoints.",
-      "categoryLabel": "PROGRESSION SYSTEM",
-      "whatIs": "What is progression planning?",
-      "whatIsDescription": "Progression guides map out the order for summoning, rerolling, evolving, and mode advancement in Anime Reversal.",
-      "why": "Why optimize progression?",
-      "whySteps": {
-        "step1Title": "Reduce Resource Waste",
-        "step1Description": "Spend Anime Reversal gems and rerolls only where long-term value is highest",
-        "step2Title": "Hit Key Evolutions",
-        "step2Description": "Reach major Anime Reversal evolution milestones with clear material plans",
-        "step3Title": "Adapt to Updates",
-        "step3Description": "Refresh your Anime Reversal upgrade order after each patch cycle"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Progression Guides"
-    },
-    "items": {
+    "units": {
       "title": "Anime Reversal Units",
-      "description": "Detailed Anime Reversal unit pages covering role, placement, trait fit, and long-term investment value.",
-      "metaTitle": "Anime Reversal Units - Roles, Traits & Investment Guide",
-      "metaDescription": "Browse Anime Reversal unit data with practical build guidance for carries, supports, and economy slots.",
-      "categoryLabel": "UNITS & BUILDS",
-      "whatIs": "What are unit guides?",
-      "whatIsDescription": "Unit guides explain placement role, synergy, and upgrade value so Anime Reversal players can build efficient teams.",
-      "why": "Why check Anime Reversal unit guides?",
+      "description": "Anime Reversal unit breakdowns with role analysis, placement notes, trait synergy, and investment value.",
+      "metaTitle": "Anime Reversal Units - Roles, Builds, and Priorities",
+      "metaDescription": "Browse Anime Reversal units by role and performance to plan summon targets, upgrades, and long-term team slots.",
+      "categoryLabel": "UNIT INDEX",
+      "whatIs": "What are Anime Reversal unit pages?",
+      "whatIsDescription": "Anime Reversal unit pages explain what each character does, where it fits in a lineup, and when it is worth your upgrade materials.",
+      "why": "Why compare Anime Reversal units?",
       "whySteps": {
-        "step1Title": "Compare Unit Roles",
-        "step1Description": "Identify which Anime Reversal units fit carry, support, and farm slots",
-        "step2Title": "Plan Trait Pairing",
-        "step2Description": "Match Anime Reversal traits to units with the highest scaling value",
-        "step3Title": "Prioritize Investment",
-        "step3Description": "Focus resources on Anime Reversal units with strong long-term impact"
+        "step1Title": "Pick Better Summon Targets",
+        "step1Description": "Use Anime Reversal unit evaluations to focus pulls on high-impact picks.",
+        "step2Title": "Build Cleaner Team Roles",
+        "step2Description": "Match Anime Reversal units to carry, support, and economy slots with fewer overlaps.",
+        "step3Title": "Spend Materials Smarter",
+        "step3Description": "Prioritize Anime Reversal units with better scaling across multiple modes."
       },
       "featured": "Featured & Essential",
       "all": "All Units"
     },
-    "biomes": {
-      "title": "Anime Reversal Raids",
-      "description": "Raid-mode guides with boss mechanics, lineup plans, reward tables, and clear strategies.",
-      "metaTitle": "Anime Reversal Raids - Bosses, Lineups & Reward Routes",
-      "metaDescription": "Clear Anime Reversal raids consistently with boss notes, team templates, and reward optimization tips.",
-      "categoryLabel": "RAID CONTENT",
-      "whatIs": "What are raid guides?",
-      "whatIsDescription": "Raid guides break down Anime Reversal boss patterns, wave pacing, and recommended team setups.",
-      "why": "Why use Anime Reversal raid guides?",
+    "items": {
+      "title": "Anime Reversal Items",
+      "description": "Anime Reversal item references for currencies, upgrade materials, drops, and usage priorities.",
+      "metaTitle": "Anime Reversal Items - Materials, Drops, and Usage Guide",
+      "metaDescription": "Track Anime Reversal item sources and usage plans, including reroll resources, event drops, and upgrade materials.",
+      "categoryLabel": "ITEM DATABASE",
+      "whatIs": "What are Anime Reversal item guides?",
+      "whatIsDescription": "Anime Reversal item guides map where each material comes from and when to spend it for the highest long-term account value.",
+      "why": "Why use Anime Reversal item references?",
       "whySteps": {
-        "step1Title": "Read Boss Mechanics",
-        "step1Description": "Prepare your Anime Reversal lineup before entering difficult raid phases",
-        "step2Title": "Stabilize Wave Control",
-        "step2Description": "Use support timing and economy pacing to keep Anime Reversal clears consistent",
-        "step3Title": "Maximize Rewards",
-        "step3Description": "Target Anime Reversal raids with the best return for your current progression goal"
+        "step1Title": "Find Sources Faster",
+        "step1Description": "Locate Anime Reversal item drop routes and event sources without trial-and-error.",
+        "step2Title": "Avoid Wasteful Spending",
+        "step2Description": "Use Anime Reversal usage priorities to save rare materials for top upgrades.",
+        "step3Title": "Support Progression Plans",
+        "step3Description": "Align Anime Reversal item farming with your current team and evolution goals."
       },
       "featured": "Featured & Essential",
-      "all": "All Raid Guides"
+      "all": "All Items"
     },
-    "building": {
-      "title": "Anime Reversal Team Building",
-      "description": "Compose stronger Anime Reversal teams with carry-support-economy balance and mode-specific loadouts.",
-      "metaTitle": "Anime Reversal Team Building - Lineups, Synergy & Mode Loadouts",
-      "metaDescription": "Build optimized Anime Reversal teams for story, raids, and infinite mode with practical synergy rules.",
-      "categoryLabel": "TEAM BUILDING",
-      "whatIs": "What is team building?",
-      "whatIsDescription": "Team-building guides define how Anime Reversal carries, supports, and economy units should be combined by mode.",
-      "why": "Why optimize Anime Reversal teams?",
+    "traits": {
+      "title": "Anime Reversal Traits",
+      "description": "Anime Reversal trait guides covering reroll strategy, best trait combinations, and role-based priorities.",
+      "metaTitle": "Anime Reversal Traits - Best Rolls and Reroll Strategy",
+      "metaDescription": "Optimize Anime Reversal trait outcomes with reroll plans, unit pairing advice, and trait value comparisons.",
+      "categoryLabel": "TRAIT SYSTEM",
+      "whatIs": "What are Anime Reversal traits?",
+      "whatIsDescription": "Anime Reversal traits are stat and effect modifiers that change how units perform in damage, utility, and scaling scenarios.",
+      "why": "Why optimize Anime Reversal traits?",
       "whySteps": {
-        "step1Title": "Balance Core Roles",
-        "step1Description": "Anchor Anime Reversal teams around one carry, one support, and one economy unit",
-        "step2Title": "Improve Mode Matchups",
-        "step2Description": "Swap Anime Reversal flex slots based on story, raid, or infinite priorities",
-        "step3Title": "Scale More Reliably",
-        "step3Description": "Use Anime Reversal upgrade timing to keep your team ahead of wave pressure"
+        "step1Title": "Increase Unit Output",
+        "step1Description": "Use Anime Reversal trait pairing to raise damage and utility on your core lineup.",
+        "step2Title": "Spend Rerolls Intelligently",
+        "step2Description": "Follow Anime Reversal reroll thresholds so rare resources are used on the right units.",
+        "step3Title": "Adapt to Team Needs",
+        "step3Description": "Adjust Anime Reversal trait priorities by mode, enemy type, and comp role."
       },
       "featured": "Featured & Essential",
-      "all": "All Team-Building Guides"
+      "all": "All Traits"
     },
-    "support": {
-      "title": "Anime Reversal Support",
-      "description": "Helpful Anime Reversal references for community links, update tracking, and onboarding resources.",
-      "metaTitle": "Anime Reversal Support - Community, Updates & Help",
-      "metaDescription": "Find Anime Reversal community channels, update references, and support-style resources for players.",
-      "categoryLabel": "SUPPORT RESOURCES",
-      "whatIs": "What is support?",
-      "whatIsDescription": "Support pages collect Anime Reversal community links, update references, and practical help resources.",
-      "why": "Why check Anime Reversal support?",
+    "evolution": {
+      "title": "Anime Reversal Evolution",
+      "description": "Anime Reversal evolution routes with material checklists, breakpoints, and upgrade sequencing.",
+      "metaTitle": "Anime Reversal Evolution - Materials and Upgrade Paths",
+      "metaDescription": "Plan Anime Reversal evolutions efficiently with clear requirements, milestone priorities, and progression checkpoints.",
+      "categoryLabel": "EVOLUTION PATHS",
+      "whatIs": "What is Anime Reversal evolution?",
+      "whatIsDescription": "Anime Reversal evolution upgrades key units into stronger forms, adding better scaling and improved performance in high-pressure content.",
+      "why": "Why plan Anime Reversal evolutions carefully?",
       "whySteps": {
-        "step1Title": "Find Official Channels",
-        "step1Description": "Jump to Anime Reversal Discord, Roblox group, and Watchpixel YouTube quickly",
-        "step2Title": "Track Patch Changes",
-        "step2Description": "Use Anime Reversal update references to keep your builds current",
-        "step3Title": "Onboard Faster",
-        "step3Description": "Share Anime Reversal support resources with new players for quicker setup"
+        "step1Title": "Track Material Costs",
+        "step1Description": "Prepare Anime Reversal evolution materials before each major upgrade milestone.",
+        "step2Title": "Prioritize Core Units",
+        "step2Description": "Focus Anime Reversal evolution resources on units that carry multiple game modes.",
+        "step3Title": "Improve Progression Speed",
+        "step3Description": "Sequence Anime Reversal evolutions to avoid stalls between farming and challenge content."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Evolution Guides"
+    },
+    "resources": {
+      "title": "Anime Reversal Resources",
+      "description": "Anime Reversal resource links for official channels, patch references, and community hubs.",
+      "metaTitle": "Anime Reversal Resources - Links, Channels, and References",
+      "metaDescription": "Access Anime Reversal resources including official community links, update references, and useful player hubs.",
+      "categoryLabel": "RESOURCE HUB",
+      "whatIs": "What are Anime Reversal resources?",
+      "whatIsDescription": "Anime Reversal resources collect trusted links and references that help players track announcements, patch notes, and community events.",
+      "why": "Why use Anime Reversal resources?",
+      "whySteps": {
+        "step1Title": "Reach Official Channels",
+        "step1Description": "Open Anime Reversal links for Discord, Roblox, and other core platforms quickly.",
+        "step2Title": "Track New Content",
+        "step2Description": "Use Anime Reversal resource updates to keep your farming and team plans current.",
+        "step3Title": "Share Useful References",
+        "step3Description": "Pass Anime Reversal resource pages to new players for faster onboarding."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Resources"
+    },
+    "script": {
+      "title": "Anime Reversal Script",
+      "description": "Anime Reversal script and macro topics covering setup context, usage notes, and workflow comparisons.",
+      "metaTitle": "Anime Reversal Script - Setup Notes and Workflow Guides",
+      "metaDescription": "Explore Anime Reversal script-related articles with setup walkthroughs, macro tips, and practical automation context.",
+      "categoryLabel": "SCRIPT TOPICS",
+      "whatIs": "What is in the Anime Reversal script section?",
+      "whatIsDescription": "The Anime Reversal script section groups articles about script tools, macro flows, and setup decisions players commonly compare.",
+      "why": "Why review Anime Reversal script articles?",
+      "whySteps": {
+        "step1Title": "Understand Setup Options",
+        "step1Description": "Compare Anime Reversal script workflows before choosing one for daily runs.",
+        "step2Title": "Reduce Trial-and-Error",
+        "step2Description": "Use Anime Reversal script notes to avoid common setup mistakes and downtime.",
+        "step3Title": "Fit Your Farming Routine",
+        "step3Description": "Select Anime Reversal script approaches that match your session length and goals."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Script Articles"
+    },
+    "tier": {
+      "title": "Anime Reversal Tier",
+      "description": "Anime Reversal tier analysis for current meta strength, role efficiency, and practical ranking logic.",
+      "metaTitle": "Anime Reversal Tier - Meta Strength and Role Value",
+      "metaDescription": "Review Anime Reversal tier discussions to compare units by output, utility, scaling, and team impact.",
+      "categoryLabel": "TIER ANALYSIS",
+      "whatIs": "What is Anime Reversal tier analysis?",
+      "whatIsDescription": "Anime Reversal tier analysis explains how units compare by role, consistency, and performance across key game modes.",
+      "why": "Why track Anime Reversal tier shifts?",
+      "whySteps": {
+        "step1Title": "Spot Meta Priorities",
+        "step1Description": "Identify which Anime Reversal roles are strongest in the current patch cycle.",
+        "step2Title": "Improve Team Decisions",
+        "step2Description": "Use Anime Reversal tier context to choose stronger carries and support pairs.",
+        "step3Title": "React to Balance Changes",
+        "step3Description": "Update Anime Reversal investment plans when patches move unit value."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Tier Articles"
+    },
+    "tier-list": {
+      "title": "Anime Reversal Tier List",
+      "description": "Anime Reversal tier list rankings for top units, role tiers, and patch-aware team planning.",
+      "metaTitle": "Anime Reversal Tier List - Best Units by Role and Patch",
+      "metaDescription": "Use the Anime Reversal tier list to rank units by mode performance, synergy value, and upgrade priority.",
+      "categoryLabel": "UNIT RANKINGS",
+      "whatIs": "What is the Anime Reversal tier list?",
+      "whatIsDescription": "The Anime Reversal tier list ranks units by practical impact so players can decide summon targets, upgrades, and lineup slots faster.",
+      "why": "Why use the Anime Reversal tier list?",
+      "whySteps": {
+        "step1Title": "Rank Units Quickly",
+        "step1Description": "Check Anime Reversal tier list placements to compare picks at a glance.",
+        "step2Title": "Plan Summons Better",
+        "step2Description": "Use Anime Reversal tier list priorities before spending gems or tickets.",
+        "step3Title": "Build Stronger Comps",
+        "step3Description": "Combine Anime Reversal tier list insights with role synergy for cleaner teams."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Tier Lists"
+    },
+    "updates": {
+      "title": "Anime Reversal Updates",
+      "description": "Anime Reversal updates covering patch highlights, feature changes, and meta impact summaries.",
+      "metaTitle": "Anime Reversal Updates - Patch Notes and Change Tracking",
+      "metaDescription": "Track Anime Reversal updates with concise summaries of balance changes, new content, and progression impact.",
+      "categoryLabel": "PATCH UPDATES",
+      "whatIs": "What are Anime Reversal updates?",
+      "whatIsDescription": "Anime Reversal updates record patch-level changes, events, and adjustments that affect farming priorities and team choices.",
+      "why": "Why follow Anime Reversal updates?",
+      "whySteps": {
+        "step1Title": "See Patch Highlights",
+        "step1Description": "Catch Anime Reversal balance and content changes as soon as they land.",
+        "step2Title": "Adjust Builds Early",
+        "step2Description": "Use Anime Reversal update notes to revise trait, unit, and team plans quickly.",
+        "step3Title": "Protect Progression Pace",
+        "step3Description": "Adapt Anime Reversal farming routes before outdated strategies slow you down."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Updates"
     }
   }
 }

@@ -11,12 +11,17 @@
     }
   },
   "nav": {
-    "guides": "Guías",
-    "crafting": "Fabricación",
-    "items": "Objetos",
-    "biomes": "Biomas",
-    "building": "Construcción",
-    "support": "Soporte"
+    "codes": "Codes",
+    "guide": "Guide",
+    "units": "Units",
+    "items": "Items",
+    "traits": "Traits",
+    "evolution": "Evolution",
+    "resources": "Resources",
+    "script": "Script",
+    "tier": "Tier",
+    "tierList": "Tier List",
+    "updates": "Updates"
   },
   "common": {
     "home": "Inicio",
