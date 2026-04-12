@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Roblox Anime Tower Defense",
+    "title": "Anime Reversal Wiki",
+    "description": "Track active codes, unit tier lists, traits, evolutions, raids, and update notes for Roblox's fast-growing anime tower defense game.",
+    "getFreeCodesCTA": "Get Anime Reversal Codes (Discord)",
+    "playOnSteamCTA": "Play Anime Reversal on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "4.5M+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "1.9K+",
+        "label": "Players Online"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "22.5K+",
+        "label": "Favorites"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "97.9%",
+        "label": "Rating"
       }
     }
   },
@@ -784,26 +784,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Dominate Anime Reversal?",
+    "description": "Join the official Anime Reversal Discord for code drops, patch alerts, and community raid tips, then jump in on Roblox.",
+    "joinCommunity": "Join Anime Reversal Discord",
+    "joinGame": "Play Anime Reversal on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Anime Reversal Wiki",
+    "description": "Your complete resource hub for Anime Reversal codes, unit tier lists, traits, raids, evolutions, and update tracking.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "discord": "Anime Reversal Discord",
+    "twitter": "Watchpixel YouTube",
+    "steamCommunity": "XTS Production Roblox Group",
+    "steamStore": "Anime Reversal on Roblox",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Anime Reversal Wiki. Not affiliated with Roblox, XTS Production, or Watchpixel.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

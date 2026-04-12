@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { NextIntlClientProvider } from 'next-intl'
-import { getMessages, getTranslations } from 'next-intl/server'
+import { getMessages } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 import { routing, type Locale } from '@/i18n/routing'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
@@ -28,6 +28,22 @@ type Props = {
 	params: Promise<{ locale: string }>
 }
 
+const HOME_TITLE = 'Anime Reversal Wiki - Codes, Units & Tier List'
+const HOME_DESCRIPTION =
+	'Anime Reversal Wiki covers working codes, unit tier lists, traits, raids, evolutions, and progression guides for the Roblox anime tower defense game.'
+const HOME_KEYWORDS = [
+	'Anime Reversal',
+	'Roblox',
+	'anime tower defense',
+	'codes',
+	'tier list',
+	'units',
+	'traits',
+	'raids',
+	'evolutions',
+	'wiki',
+]
+
 // 生成静态参数
 export function generateStaticParams() {
 	return routing.locales.map((locale) => ({ locale }))
@@ -36,19 +52,13 @@ export function generateStaticParams() {
 // 生成元数据
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
 	const { locale } = await params
-	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.lucidblocks.wiki'
-
-	// 获取 SEO 翻译
-	const t = await getTranslations('seo.home')
-
-	// 将 keywords 字符串分割为数组
-	const keywordsString = t('keywords')
-	const keywords = keywordsString.split(',').map(k => k.trim())
+	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.animereversal.wiki'
+	const heroImage = new URL('/images/hero.webp', siteUrl).toString()
 
 	return {
-		title: t('title'),
-		description: t('description'),
-		keywords: keywords,
+		title: HOME_TITLE,
+		description: HOME_DESCRIPTION,
+		keywords: HOME_KEYWORDS,
 		robots: {
 			index: true,
 			follow: true,
@@ -64,24 +74,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 			type: 'website',
 			locale: locale,
 			url: locale === 'en' ? siteUrl : `${siteUrl}/${locale}`,
-			siteName: 'Lucid Blocks Wiki',
-			title: t('ogTitle'),
-			description: t('ogDescription'),
+			siteName: 'Anime Reversal Wiki',
+			title: HOME_TITLE,
+			description: HOME_DESCRIPTION,
 			images: [
 				{
-					url: `${siteUrl}/images/hero.webp`,
+					url: heroImage,
 					width: 1920,
 					height: 1080,
-					alt: 'Lucid Blocks - Surreal Voxel Sandbox',
+					alt: 'Anime Reversal Wiki Hero Image',
 				},
 			],
 		},
 		twitter: {
 			card: 'summary_large_image',
-			title: t('twitterTitle'),
-			description: t('twitterDescription'),
-			images: [`${siteUrl}/images/hero.webp`],
-			creator: '@lucidblocks',
+			title: HOME_TITLE,
+			description: HOME_DESCRIPTION,
+			images: [heroImage],
+			creator: '@starlesswatchpixel',
 		},
 		icons: {
 			icon: [
