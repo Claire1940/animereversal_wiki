@@ -1,20 +1,20 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Anime Reversal Wiki - Codes, Units & Tier List",
+      "description": "Anime Reversal Wiki covers working codes, unit tier lists, traits, raids, evolutions, and progression guides for the Roblox anime tower defense game.",
+      "keywords": "Anime Reversal, Roblox, codes, units, tier list, traits, raids, evolutions, wiki",
+      "ogTitle": "Anime Reversal Wiki - Codes, Units & Tier List",
+      "ogDescription": "Anime Reversal Wiki covers working codes, unit tier lists, traits, raids, evolutions, and progression guides for the Roblox anime tower defense game.",
+      "twitterTitle": "Anime Reversal Wiki - Codes, Units & Tier List",
+      "twitterDescription": "Anime Reversal Wiki tracks active codes, best units, trait rerolls, raids, and update notes for Roblox players."
     }
   },
   "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Play on Roblox",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -29,7 +29,7 @@
     "badge": "Roblox Anime Tower Defense",
     "title": "Anime Reversal Wiki",
     "description": "Track active codes, unit tier lists, traits, evolutions, raids, and update notes for Roblox's fast-growing anime tower defense game.",
-    "getFreeCodesCTA": "Get Anime Reversal Codes (Discord)",
+    "getFreeCodesCTA": "Get Anime Reversal Codes",
     "playOnSteamCTA": "Play Anime Reversal on Roblox",
     "stats": {
       "stat1": {
@@ -51,740 +51,741 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Anime Reversal Gameplay",
+    "description": "Watch the official trailer and follow the latest Anime Reversal codes, unit upgrades, raids, and patch shifts."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Anime Reversal",
+    "titleHighlight": "Module Navigation",
+    "subtitle": "Jump to every Anime Reversal homepage module",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
-      },
-      {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
+        "icon": "Download",
+        "title": "Anime Reversal Codes",
+        "description": "Active codes, expired codes, rewards, and redeem steps"
       },
       {
         "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
+        "title": "Anime Reversal Tier List",
+        "description": "Meta tiers for S, A, B, and farm priorities"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Anime Reversal Beginner Guide",
+        "description": "First-session progression and resource priorities"
+      },
+      {
+        "icon": "Users",
+        "title": "Anime Reversal Units",
+        "description": "Unit roles, placements, and investment value"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Anime Reversal Traits Guide",
+        "description": "Best traits, reroll priorities, and pairings"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Anime Reversal Evolutions",
+        "description": "Evolution routes, materials, and upgrade value"
       },
       {
         "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
+        "title": "Anime Reversal Secret Units",
+        "description": "Secret and elite unit routes with investment notes"
       },
       {
         "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "title": "Anime Reversal Raids",
+        "description": "Raid bosses, lineups, and reward planning"
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Anime Reversal Best Units",
+        "description": "Quick shortlist of top picks by role"
+      },
+      {
+        "icon": "Clock",
+        "title": "Anime Reversal Update Notes",
+        "description": "Major update highlights and patch impact"
+      },
+      {
+        "icon": "Settings",
+        "title": "Anime Reversal Trait Rerolls",
+        "description": "Reroll currency loops and trait targeting"
+      },
+      {
+        "icon": "Package",
+        "title": "Anime Reversal Gems Guide",
+        "description": "Best gem income loops and spending order"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Anime Reversal Summon Banners",
+        "description": "Banner value, pity planning, and pull timing"
+      },
+      {
+        "icon": "Eye",
+        "title": "Anime Reversal Story Mode Guide",
+        "description": "Stage route, placements, and chapter progression"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "Anime Reversal Infinite Mode",
+        "description": "Wave scaling, economy pacing, and endurance comps"
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Anime Reversal Community Links",
+        "description": "Official Discord, Roblox group, YouTube, and trailer"
       }
     ]
   },
   "modules": {
     "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
+      "title": "Anime Reversal Codes",
       "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
+      "intro": "Codes are the fastest way to scale early summons, rerolls, and upgrades in Anime Reversal. This module keeps active rewards first and separates expired promos clearly.",
       "steps": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Redeem UPDATE3 for Anime Reversal resources",
+          "description": "Use UPDATE3 to claim 10,000 Gems and 300 Rerolls after you reach Level 2 and join the XTS Production group."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Redeem TOKYO for Anime Reversal summons",
+          "description": "TOKYO gives 6,000 Gems and 100 Rerolls, making it a strong boost before your first serious banner cycle."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Redeem 3POIT5MVISITS for Anime Reversal materials",
+          "description": "3POIT5MVISITS grants 2,000 Gems, 150 Rerolls, and 2,000 Black Fire for early progression routes."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Redeem SryForBug3 in Anime Reversal",
+          "description": "SryForBug3 gives 100 Rerolls and 700 Black Fire and is worth claiming before trait reroll sessions."
+        },
+        {
+          "title": "Redeem ATOMIC and RAID for Anime Reversal value",
+          "description": "ATOMIC and RAID are still useful reward codes for extra Gems and Rerolls while building your first raid roster."
+        },
+        {
+          "title": "Track active versus expired Anime Reversal codes",
+          "description": "Keep 30KLIKES, 2MVISITS, 20KMembers, and RAGNAROK in the expired list so players avoid wasted redemption attempts."
         }
       ],
       "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
+        "Anime Reversal code redemption requires joining XTS Production and reaching Level 2.",
+        "Redeem active Anime Reversal codes before pulling on banners or rerolling traits.",
+        "Pin expired Anime Reversal codes in a separate block to keep the active list clean.",
+        "Check Anime Reversal updates first because new milestone codes often launch with patches."
       ]
     },
     "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
+      "title": "Anime Reversal Tier List",
       "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
+      "intro": "This Anime Reversal ranking focuses on progression value, not rarity alone. Ground DPS and control support remain the strongest core in the current patch.",
       "cards": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "name": "Anime Reversal S Tier Core Units",
+          "description": "RedHair (Awaken), Ruda (Fist), Kirita (Dual), IceQueen (Empress), Igres (Elite), Song Woo (Assassin), and Rio (Dancer) anchor the strongest lineups."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "name": "Anime Reversal A Tier Flexible Picks",
+          "description": "Kirita (Order), FireFist (Captain), Bacchi (Rockstar), Enjo (Golden), and Ame (Curse) remain strong when your S tier slots are incomplete."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "name": "Anime Reversal B Tier Early Fillers",
+          "description": "Cha-In (Sword Dancer) and Jang-In (Flame Master) can carry early progression but are best replaced in late content."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "name": "Anime Reversal Farm Slot Priority",
+          "description": "SpeedCEO keeps your economy scaling and should hold the dedicated farm slot in most long runs."
         }
       ],
       "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
+        "Prioritize Anime Reversal ground DPS first",
+        "Add Anime Reversal freeze or stun support second",
+        "Keep one Anime Reversal economy unit active",
+        "Review Anime Reversal tiers after every major update"
       ]
     },
     "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
+      "title": "Anime Reversal Beginner Guide",
       "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+      "intro": "A focused opening route saves Gems, rerolls, and materials. This Anime Reversal checklist keeps your first sessions efficient and avoids weak early investments.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "name": "Anime Reversal Beginner Step 1: Claim free resources",
+          "type": "Step 1",
+          "description": "Join XTS Production, hit Level 2, and redeem active codes before spending on summons or rerolls."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "name": "Anime Reversal Beginner Step 2: Build around ground DPS",
+          "type": "Step 2",
+          "description": "Ground damage remains the safest opening investment because it fits the strongest current wave clear patterns."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "name": "Anime Reversal Beginner Step 3: Keep strong early pulls",
+          "type": "Step 3",
+          "description": "Prioritize Ruda (Fist), RedHair (Emperor), and Song Woo (Assassin) when they appear early."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "name": "Anime Reversal Beginner Step 4: Add control support",
+          "type": "Step 4",
+          "description": "After your first DPS core, add freeze or stun support to stabilize harder wave sets and bosses."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "name": "Anime Reversal Beginner Step 5: Reserve one farm slot",
+          "type": "Step 5",
+          "description": "SpeedCEO remains a long-term economy engine and helps your upgrades hit earlier breakpoints."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "name": "Anime Reversal Beginner Step 6: Plan first evolution",
+          "type": "Step 6",
+          "description": "RedHair (Emperor) into RedHair (Awaken) is a high-value early project with strong stun control impact."
         }
       ]
     },
     "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
+      "title": "Anime Reversal Units",
       "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
+      "intro": "The Anime Reversal unit module should answer one question quickly: which unit deserves your next resources for story, raids, and long runs.",
       "solutions": [
         {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
+          "name": "RedHair (Awaken)",
+          "role": "Support DPS / Stun",
+          "description": "Top-tier control plus AOE damage, ideal for raids and long-wave pressure in Anime Reversal."
         },
         {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
+          "name": "Ruda (Fist)",
+          "role": "Main DPS",
+          "description": "Reliable full-AOE scaling DPS and one of the best early-to-late investments in Anime Reversal."
         },
         {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
+          "name": "Kirita (Dual)",
+          "role": "Burst DPS",
+          "description": "Strong sustained burst profile for bosses and dense waves in Anime Reversal."
         },
         {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
+          "name": "IceQueen (Empress)",
+          "role": "Freeze Support",
+          "description": "Wave control specialist that improves total team uptime against high-pressure rounds."
+        },
+        {
+          "name": "Song Woo (Assassin)",
+          "role": "Scaling DPS",
+          "description": "Excellent long-run scaling and strong synergy with Igres in Anime Reversal boss content."
+        },
+        {
+          "name": "Igres (Elite)",
+          "role": "Boss DPS",
+          "description": "High burst damage profile for raid bosses and hard story checkpoints."
+        },
+        {
+          "name": "RedHair (Emperor)",
+          "role": "Evolution Base",
+          "description": "Great interim AOE unit and the core base for the RedHair (Awaken) evolution route."
+        },
+        {
+          "name": "SpeedCEO",
+          "role": "Economy",
+          "description": "Dedicated farming slot that keeps Anime Reversal teams scaling through long stages."
         }
       ],
       "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
+        "Build one Anime Reversal carry and one control unit before chasing niche picks.",
+        "Treat SpeedCEO as a permanent Anime Reversal economy slot in long runs.",
+        "Invest in evolvable Anime Reversal units to protect long-term resources.",
+        "Update Anime Reversal unit priorities after every patch and banner shift."
       ]
     },
     "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
+      "title": "Anime Reversal Traits Guide",
       "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
+      "intro": "Traits are one of the fastest multipliers in Anime Reversal. A strong reroll plan gives better returns than random reroll spending.",
       "cards": [
         {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
+          "name": "Anime Reversal Trait Tier Priorities",
+          "description": "Treat your trait plan like a tier list: best-in-slot traits for carries first, then efficient utility traits for supports."
         },
         {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
+          "name": "Anime Reversal Reroll Efficiency",
+          "description": "Set reroll budgets by unit value so premium rerolls are reserved for long-term anchors such as Ruda or RedHair routes."
         },
         {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
+          "name": "Anime Reversal Unit-Trait Pairing",
+          "description": "Match high-scaling damage traits to core carries and control-focused traits to freeze or stun supports."
         },
         {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
+          "name": "Anime Reversal Mandra NPC Workflow",
+          "description": "Use a fixed reroll workflow at Mandra to avoid overspending and keep progression pacing stable."
         }
       ],
       "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
+        "Anime Reversal trait rerolls should target core carries first",
+        "Anime Reversal support traits come after carry optimization",
+        "Anime Reversal reroll budgets prevent resource collapse",
+        "Anime Reversal trait pairing should be reviewed after patches"
       ]
     },
     "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
+      "title": "Anime Reversal Evolutions",
       "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
+      "intro": "Evolution pages should show exact costs, NPC flow, and upgrade impact so players can decide if each Anime Reversal evolution is worth the investment.",
       "regions": [
         {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
+          "name": "Anime Reversal RedHair (Awaken) Route",
+          "type": "Priority Evolution",
+          "description": "Requires the Haki Hat from the RedHair NPC plus 10,000 Gems, 10 Rerolls, and 15,000 Gold to unlock premium stun control."
         },
         {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
+          "name": "Anime Reversal Evolution Cost Planning",
+          "type": "Resource Planning",
+          "description": "Track Gems, Gold, and rerolls together so evolution goals do not delay your core banner or trait routes."
         },
         {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
+          "name": "Anime Reversal NPC Prerequisite Checks",
+          "type": "Requirement Gate",
+          "description": "List required NPCs and trigger conditions before material farming to prevent wasted grinding loops."
         },
         {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
+          "name": "Anime Reversal Before-and-After Value",
+          "type": "Performance Delta",
+          "description": "Show the practical power jump after evolution so players can compare it against other upgrade priorities."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
+      "title": "Anime Reversal Secret Units",
       "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
+      "intro": "Secret unit pages are high-intent traffic in Anime Reversal. Each entry should clearly show obtain route, trigger logic, and practical roster value.",
       "creatures": [
         {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
+          "name": "Hu Tao (Funeral Parlor Elite)",
+          "role": "Elite Unit",
+          "description": "A high-value elite route with strong demand due to rarity and burst utility in Anime Reversal."
         },
         {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
+          "name": "Yoji (Modula Secret)",
+          "role": "Secret Unit",
+          "description": "Secret-tier unit with high search intent; ideal for dedicated obtain-route documentation."
         },
         {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
+          "name": "Kirita (Dual)",
+          "role": "Secret Unit",
+          "description": "Popular secret evolution route with broad viability in boss and wave pressure scenarios."
         },
         {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
+          "name": "IceQueen (Empress)",
+          "role": "Secret Unit",
+          "description": "High-impact control secret that improves consistency in hard-content lineups."
         },
         {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
+          "name": "Igres (Elite)",
+          "role": "Elite Unit",
+          "description": "Elite-grade boss damage option that pairs well with scaling DPS anchors."
         },
         {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
+          "name": "RedHair (Awaken)",
+          "role": "Secret EVO",
+          "description": "Top-end evolution secret that combines AOE output with reliable stun control."
         },
         {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
+          "name": "Secret Unit Route Planner",
+          "role": "Progress Tool",
+          "description": "Track quest gates, required materials, and drop opportunities to optimize secret chasing."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
+      "title": "Anime Reversal Raids",
       "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+      "intro": "Raid entries should cover boss behavior, minimum team setup, wave pacing, and reward value so Anime Reversal players can plan consistent clears.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "name": "Anime Reversal Raid Boss Profiles",
+          "type": "Raid Intel",
+          "description": "Document each raid boss pattern, threat windows, and control breakpoints before entering."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "name": "Anime Reversal Raid Team Core",
+          "type": "Lineup Plan",
+          "description": "Open with one carry DPS, one control support, and one economy slot for safer progression pacing."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "name": "Anime Reversal Solo Feasibility",
+          "type": "Difficulty Check",
+          "description": "Mark which raids are practical solo and where co-op support dramatically improves consistency."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
+          "name": "Anime Reversal Wave Priorities",
+          "type": "Wave Control",
+          "description": "Prioritize dangerous elites and stagger control cooldowns to stabilize mid-wave spikes."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
+          "name": "Anime Reversal Reward Tables",
+          "type": "Reward Planning",
+          "description": "Show expected drops and milestone rewards so players can choose the best raid farming route."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
+          "name": "Anime Reversal Unit Counter Picks",
+          "type": "Counter Strategy",
+          "description": "Highlight the specific units that simplify boss phases and improve clear speed."
         }
       ],
       "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
+        "Build an Anime Reversal raid-ready core",
+        "Clear an Anime Reversal raid with stable economy timing",
+        "Optimize Anime Reversal raid rewards per run",
+        "Adjust Anime Reversal raid comps after patch changes"
       ]
     },
     "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
+      "title": "Anime Reversal Best Units",
       "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
+      "intro": "This Anime Reversal shortlist is for players who want immediate unit decisions without reading the full tier matrix.",
       "sections": [
         {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "name": "Anime Reversal Best Carry Units",
+          "description": "RedHair (Awaken), Ruda (Fist), and Kirita (Dual) remain top carry candidates across modes."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "name": "Anime Reversal Best Support Units",
+          "description": "IceQueen (Empress) and RedHair (Awaken) provide high control value for hard-content stability."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
+          "name": "Anime Reversal Best Economy Unit",
+          "description": "SpeedCEO remains the highest-value economy pick for long-wave and raid scaling."
         },
         {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
+          "name": "Anime Reversal Best Boss Units",
+          "description": "Igres (Elite) and Song Woo (Assassin) are standout boss pressure picks in current meta."
         }
       ],
       "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
+        "Lock one Anime Reversal carry unit first",
+        "Add one Anime Reversal control support second",
+        "Reserve one Anime Reversal economy slot",
+        "Rotate Anime Reversal best-unit picks after each update"
       ]
     },
     "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
+      "title": "Anime Reversal Update Notes",
       "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
+      "intro": "Anime Reversal update notes should connect patch changes to codes, unit rankings, and trait priorities so players can adapt quickly.",
       "priorities": [
         {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
+          "name": "Anime Reversal Update 3",
+          "priority": "Major",
+          "description": "Large reward-code refresh and tier shifts that increased demand for control-heavy raid lineups."
         },
         {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
+          "name": "Anime Reversal Update 2.5",
+          "priority": "Major",
+          "description": "Introduced unit and balance changes that affected carry selection and reroll priorities."
         },
         {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
+          "name": "Anime Reversal Milestone Codes",
+          "priority": "Important",
+          "description": "Visit and like-goal patches frequently add new codes that should be reflected in the code module immediately."
         },
         {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
+          "name": "Anime Reversal Banner Rotation",
+          "priority": "Important",
+          "description": "Banner updates alter pull value and should be cross-linked with tier and best-unit modules."
         },
         {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
+          "name": "Anime Reversal Raid Balance",
+          "priority": "Watch",
+          "description": "Raid tuning changes can elevate support units and shift recommended comps overnight."
         },
         {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
+          "name": "Anime Reversal Trait Meta Changes",
+          "priority": "Watch",
+          "description": "Trait coefficient updates can reorder reroll priorities for top carries and supports."
         }
       ]
     },
     "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
+      "title": "Anime Reversal Trait Rerolls",
       "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
+      "intro": "Trait reroll guides should prioritize currency flow, target units, and stop-loss rules so Anime Reversal players avoid inefficient reroll spending.",
       "groups": [
         {
-          "name": "Exploration",
+          "name": "Anime Reversal Reroll Currency Sources",
           "achievements": [
             {
-              "title": "Angel α",
-              "description": "Enter a qualia."
+              "title": "Daily and event claim loops",
+              "description": "Track daily tasks and event milestones first because they provide the most predictable reroll flow."
             },
             {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
+              "title": "Code-based reroll boosts",
+              "description": "Redeem active Anime Reversal codes before reroll sessions to improve pull efficiency."
             },
             {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
+              "title": "Raid reward conversion",
+              "description": "Prioritize raids that feed reroll resources without sacrificing core progression timing."
             },
             {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
+              "title": "Patch-cycle stockpiling",
+              "description": "Save reroll currency before major updates when trait value shifts are most likely."
             }
           ]
         },
         {
-          "name": "Crafting and Summoning",
+          "name": "Anime Reversal Unit Target Order",
           "achievements": [
             {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
+              "title": "Carry units first",
+              "description": "Reroll top carries before supports because primary DPS gains scale across every mode."
             },
             {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
+              "title": "Support units second",
+              "description": "After carries are stable, optimize freeze or stun supports to smooth hard waves."
             },
             {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
+              "title": "Economy unit last",
+              "description": "Trait rerolls on economy slots should only happen after your combat core is stable."
             },
             {
-              "title": "Archangel β",
-              "description": "Summon your faith."
+              "title": "Evolvable units prioritized",
+              "description": "Focus rerolls on units with long-term evolution value to preserve resources."
             }
           ]
         },
         {
-          "name": "Mobility and Utility",
+          "name": "Anime Reversal Reroll Stop Rules",
           "achievements": [
             {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
+              "title": "Budget cap per session",
+              "description": "Set a hard reroll cap before starting to prevent resource drain during bad streaks."
             },
             {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
+              "title": "Accept strong interim traits",
+              "description": "Do not chase perfect rolls immediately if current traits already clear your target content."
             },
             {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
+              "title": "Re-evaluate after updates",
+              "description": "Pause rerolls when a major patch is near and reassess trait priorities afterward."
             },
             {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
+              "title": "Log reroll outcomes",
+              "description": "Track outcomes by unit to refine future reroll strategy instead of repeating low-value loops."
             }
           ]
         },
         {
-          "name": "Combat and Creatures",
+          "name": "Anime Reversal Trait Pairing Checklist",
           "achievements": [
             {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
+              "title": "Damage trait on core carry",
+              "description": "Anchor your roster around one high-output carry with the best available damage trait."
             },
             {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
+              "title": "Control trait on support",
+              "description": "Pair control traits with freeze or stun supports for consistent wave management."
             },
             {
-              "title": "Angel β",
-              "description": "Die."
+              "title": "Boss specialist trait",
+              "description": "Assign boss-focused traits to units dedicated to raid or elite pressure."
             },
             {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
+              "title": "Meta alignment review",
+              "description": "Check trait pairing against current Anime Reversal tier shifts each patch cycle."
             }
           ]
         }
       ]
     },
     "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
+      "title": "Anime Reversal Gems Guide",
       "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
+      "intro": "This Anime Reversal gems guide focuses on practical income loops, spending order, and mistakes that slow account growth.",
       "faqs": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "What is the fastest Anime Reversal gems route for new players?",
+          "answer": "Start with active code redemption, then run high-value story clears and repeatable raid objectives for stable gem flow."
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "question": "Should Anime Reversal gems go to summons or rerolls first?",
+          "answer": "Use gems for core summon milestones first, then allocate rerolls once your main carry lineup is stable."
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "How many Anime Reversal gems should I keep in reserve?",
+          "answer": "Keep a reserve for banner rotations and update drops so you can react when high-value units enter rotation."
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "question": "Are Anime Reversal event gems worth prioritizing?",
+          "answer": "Yes. Event milestones often provide concentrated gem rewards and should be part of your weekly planning."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "question": "What is the most common Anime Reversal gem mistake?",
+          "answer": "Overspending on low-value pulls before securing one carry, one support, and one economy slot."
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "question": "How often should Anime Reversal gem plans be updated?",
+          "answer": "Review your gem plan after every major update or banner change because pull value can shift quickly."
         }
       ]
     },
     "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
+      "title": "Anime Reversal Summon Banners",
       "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
+      "intro": "Banner guides should explain current value clearly: rate-up targets, pity planning, and who should skip or pull in Anime Reversal.",
       "faqs": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "question": "How should I evaluate an Anime Reversal banner?",
+          "answer": "Compare rate-up units against your current roster gaps, then decide whether the banner solves carry, support, or raid needs."
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "question": "When should I save in Anime Reversal instead of pulling?",
+          "answer": "Save when the current banner does not improve your core progression lineup or when a major update banner is close."
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "question": "How does Anime Reversal pity planning affect decisions?",
+          "answer": "Track pity progress before spending so each pull contributes toward a guaranteed high-value outcome."
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "question": "Which Anime Reversal players benefit most from selective pulls?",
+          "answer": "New accounts and returning players gain the most by targeting banners that complete carry plus support synergy."
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "question": "How should Anime Reversal banner guides connect to tier lists?",
+          "answer": "Every banner recommendation should reference updated tier impact so pulls match the live meta."
         }
       ]
     },
     "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
+      "title": "Anime Reversal Story Mode Guide",
       "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
+      "intro": "Story mode guides should break each chapter into lineup targets, placement flow, and reward outcomes for steady Anime Reversal progression.",
       "settings": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "name": "Anime Reversal Chapter Entry Check",
+          "type": "Preparation",
+          "description": "Confirm your carry, support, and economy slots before starting a new chapter push."
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "name": "Anime Reversal Opening Placements",
+          "type": "Wave Start",
+          "description": "Open with efficient ground DPS placements and delay utility spending until economy stabilizes."
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "name": "Anime Reversal Mid-Wave Control",
+          "type": "Wave Control",
+          "description": "Add freeze or stun supports during pressure spikes to protect core carry uptime."
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
+          "name": "Anime Reversal Boss-Wave Setup",
+          "type": "Boss Route",
+          "description": "Shift upgrades into boss-focused units before final waves and preserve cooldown timing."
+        },
+        {
+          "name": "Anime Reversal Reward Routing",
+          "type": "Progression",
+          "description": "Use chapter rewards to feed your next summon, trait reroll, or evolution milestone."
+        },
+        {
+          "name": "Anime Reversal Story Re-clear Plan",
+          "type": "Optimization",
+          "description": "Re-clear chapters that deliver the best mix of gems, materials, and leveling speed."
         }
       ]
     },
     "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+      "title": "Anime Reversal Infinite Mode",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
+      "intro": "Infinite mode planning is about scaling economy early, rotating cooldowns correctly, and keeping boss answers ready deep into wave progression.",
       "entries": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "title": "Anime Reversal Infinite Mode Opening",
+          "type": "Early Waves",
+          "description": "Secure one carry plus one economy slot immediately so your upgrade curve stays ahead of wave scaling."
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "title": "Anime Reversal Infinite Mode Mid-Game",
+          "type": "Stability",
+          "description": "Layer freeze or stun support once wave density increases to preserve damage uptime."
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "title": "Anime Reversal Infinite Mode Late Waves",
+          "type": "Endurance",
+          "description": "Shift gold into boss counters and full-AOE upgrades to avoid collapse in late-wave spikes."
+        },
+        {
+          "title": "Anime Reversal Infinite Mode Reward Planning",
+          "type": "Efficiency",
+          "description": "Track wave breakpoints and stop when reward-per-minute drops below your raid or story alternatives."
         }
       ]
     },
     "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
+      "title": "Anime Reversal Community Links",
       "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
+      "intro": "Keep these Anime Reversal official links visible so players can get updates, codes, and event announcements without delay.",
       "steps": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "title": "Join Anime Reversal Discord",
+          "description": "Use the official Discord for code drops, event alerts, and raid coordination with active players."
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "title": "Follow Anime Reversal on Roblox",
+          "description": "Track game updates directly on the official Roblox game page and watch for patch rollouts."
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "title": "Join the XTS Production Roblox Group",
+          "description": "Group membership supports code eligibility requirements and community coordination."
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "title": "Watch Anime Reversal on Watchpixel YouTube",
+          "description": "Follow official trailers and update videos from the Watchpixel channel."
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "title": "Bookmark Anime Reversal release trailer",
+          "description": "Keep the trailer link available for quick reference in update and onboarding sections."
         }
       ]
     }
   },
   "faq": {
-    "title": "Frequently Asked",
-    "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "title": "Anime Reversal FAQ",
+    "titleHighlight": "Answers",
+    "subtitle": "Everything you need to know about Anime Reversal",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Anime Reversal and why is it popular?",
+        "answer": "Anime Reversal is a Roblox anime tower defense game focused on unit progression, trait optimization, evolutions, and raid clears."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "Where can I get active Anime Reversal codes?",
+        "answer": "Use the Anime Reversal codes module for active and expired code tracking, then redeem codes after meeting level and group requirements."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Which Anime Reversal units should I build first?",
+        "answer": "Start with one carry DPS, then add one control support and one economy unit for consistent progression."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "How should I spend Anime Reversal rerolls and gems?",
+        "answer": "Prioritize stable summon milestones first, then reroll high-value traits on your long-term core units."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "What does the Anime Reversal tier list prioritize?",
+        "answer": "The tier list prioritizes practical performance in story, raids, and long-wave modes instead of rarity alone."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Where are official Anime Reversal community links?",
+        "answer": "Use the Anime Reversal Community Links module for Discord, Roblox group, YouTube channel, and trailer access."
       }
     ]
   },
   "cta": {
-    "title": "Ready to Dominate Anime Reversal?",
-    "description": "Join the official Anime Reversal Discord for code drops, patch alerts, and community raid tips, then jump in on Roblox.",
+    "title": "Ready to Improve Your Anime Reversal Team?",
+    "description": "Join the official Anime Reversal Discord for code drops, patch alerts, and raid strategy updates.",
     "joinCommunity": "Join Anime Reversal Discord",
     "joinGame": "Play Anime Reversal on Roblox"
   },
   "footer": {
     "title": "Anime Reversal Wiki",
-    "description": "Your complete resource hub for Anime Reversal codes, unit tier lists, traits, raids, evolutions, and update tracking.",
+    "description": "Your complete resource hub for Anime Reversal codes, units, traits, raids, evolutions, and update tracking.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
@@ -801,121 +802,121 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
+      "title": "Anime Reversal Guides",
+      "description": "Complete Anime Reversal guides from beginner setup to advanced raid and progression strategy.",
+      "metaTitle": "Anime Reversal Guides - Beginner to Advanced Strategy",
+      "metaDescription": "Master Anime Reversal with curated guides for codes, units, raids, traits, evolutions, and progression loops.",
       "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+      "whatIs": "What are Anime Reversal guides?",
+      "whatIsDescription": "Structured walkthroughs for progression planning, unit building, and mode-specific strategies in Anime Reversal.",
+      "why": "Why read Anime Reversal guides?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Learn Core Systems",
+        "step1Description": "Understand how Anime Reversal codes, units, traits, and evolutions connect",
+        "step2Title": "Progress Faster",
+        "step2Description": "Use practical routes to avoid weak pulls and wasted resources",
+        "step3Title": "Optimize Teams",
+        "step3Description": "Build stronger lineups for story, raids, and infinite mode"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+      "title": "Anime Reversal Progression",
+      "description": "Plan Anime Reversal evolution costs, trait rerolls, and upgrade checkpoints with structured progression guides.",
+      "metaTitle": "Anime Reversal Progression - Evolutions, Traits & Upgrade Routes",
+      "metaDescription": "Build efficient Anime Reversal progression paths with evolution planning, reroll strategy, and resource checkpoints.",
+      "categoryLabel": "PROGRESSION SYSTEM",
+      "whatIs": "What is progression planning?",
+      "whatIsDescription": "Progression guides map out the order for summoning, rerolling, evolving, and mode advancement in Anime Reversal.",
+      "why": "Why optimize progression?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Reduce Resource Waste",
+        "step1Description": "Spend Anime Reversal gems and rerolls only where long-term value is highest",
+        "step2Title": "Hit Key Evolutions",
+        "step2Description": "Reach major Anime Reversal evolution milestones with clear material plans",
+        "step3Title": "Adapt to Updates",
+        "step3Description": "Refresh your Anime Reversal upgrade order after each patch cycle"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Progression Guides"
     },
     "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+      "title": "Anime Reversal Units",
+      "description": "Detailed Anime Reversal unit pages covering role, placement, trait fit, and long-term investment value.",
+      "metaTitle": "Anime Reversal Units - Roles, Traits & Investment Guide",
+      "metaDescription": "Browse Anime Reversal unit data with practical build guidance for carries, supports, and economy slots.",
+      "categoryLabel": "UNITS & BUILDS",
+      "whatIs": "What are unit guides?",
+      "whatIsDescription": "Unit guides explain placement role, synergy, and upgrade value so Anime Reversal players can build efficient teams.",
+      "why": "Why check Anime Reversal unit guides?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Compare Unit Roles",
+        "step1Description": "Identify which Anime Reversal units fit carry, support, and farm slots",
+        "step2Title": "Plan Trait Pairing",
+        "step2Description": "Match Anime Reversal traits to units with the highest scaling value",
+        "step3Title": "Prioritize Investment",
+        "step3Description": "Focus resources on Anime Reversal units with strong long-term impact"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Units"
     },
     "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+      "title": "Anime Reversal Raids",
+      "description": "Raid-mode guides with boss mechanics, lineup plans, reward tables, and clear strategies.",
+      "metaTitle": "Anime Reversal Raids - Bosses, Lineups & Reward Routes",
+      "metaDescription": "Clear Anime Reversal raids consistently with boss notes, team templates, and reward optimization tips.",
+      "categoryLabel": "RAID CONTENT",
+      "whatIs": "What are raid guides?",
+      "whatIsDescription": "Raid guides break down Anime Reversal boss patterns, wave pacing, and recommended team setups.",
+      "why": "Why use Anime Reversal raid guides?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Read Boss Mechanics",
+        "step1Description": "Prepare your Anime Reversal lineup before entering difficult raid phases",
+        "step2Title": "Stabilize Wave Control",
+        "step2Description": "Use support timing and economy pacing to keep Anime Reversal clears consistent",
+        "step3Title": "Maximize Rewards",
+        "step3Description": "Target Anime Reversal raids with the best return for your current progression goal"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Raid Guides"
     },
     "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+      "title": "Anime Reversal Team Building",
+      "description": "Compose stronger Anime Reversal teams with carry-support-economy balance and mode-specific loadouts.",
+      "metaTitle": "Anime Reversal Team Building - Lineups, Synergy & Mode Loadouts",
+      "metaDescription": "Build optimized Anime Reversal teams for story, raids, and infinite mode with practical synergy rules.",
+      "categoryLabel": "TEAM BUILDING",
+      "whatIs": "What is team building?",
+      "whatIsDescription": "Team-building guides define how Anime Reversal carries, supports, and economy units should be combined by mode.",
+      "why": "Why optimize Anime Reversal teams?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Balance Core Roles",
+        "step1Description": "Anchor Anime Reversal teams around one carry, one support, and one economy unit",
+        "step2Title": "Improve Mode Matchups",
+        "step2Description": "Swap Anime Reversal flex slots based on story, raid, or infinite priorities",
+        "step3Title": "Scale More Reliably",
+        "step3Description": "Use Anime Reversal upgrade timing to keep your team ahead of wave pressure"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Team-Building Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+      "title": "Anime Reversal Support",
+      "description": "Helpful Anime Reversal references for community links, update tracking, and onboarding resources.",
+      "metaTitle": "Anime Reversal Support - Community, Updates & Help",
+      "metaDescription": "Find Anime Reversal community channels, update references, and support-style resources for players.",
+      "categoryLabel": "SUPPORT RESOURCES",
+      "whatIs": "What is support?",
+      "whatIsDescription": "Support pages collect Anime Reversal community links, update references, and practical help resources.",
+      "why": "Why check Anime Reversal support?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Find Official Channels",
+        "step1Description": "Jump to Anime Reversal Discord, Roblox group, and Watchpixel YouTube quickly",
+        "step2Title": "Track Patch Changes",
+        "step2Description": "Use Anime Reversal update references to keep your builds current",
+        "step3Title": "Onboard Faster",
+        "step3Description": "Share Anime Reversal support resources with new players for quicker setup"
       },
       "featured": "Featured & Essential",
       "all": "All Support Articles"
