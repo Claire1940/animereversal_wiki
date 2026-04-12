@@ -82,22 +82,22 @@
       {
         "icon": "Sparkles",
         "title": "Anime Reversal Traits Guide",
-        "description": "Best traits, reroll priorities, and pairings"
+        "description": "Mandra rerolls, carry pairings, and support trait priority"
       },
       {
         "icon": "Hammer",
         "title": "Anime Reversal Evolutions",
-        "description": "Evolution routes, materials, and upgrade value"
+        "description": "RedHair, Hu Tao, and Ragnarok evolution route checklists"
       },
       {
         "icon": "Star",
         "title": "Anime Reversal Secret Units",
-        "description": "Secret and elite unit routes with investment notes"
+        "description": "Secret unlock routes, prerequisites, and build priority"
       },
       {
         "icon": "Shield",
         "title": "Anime Reversal Raids",
-        "description": "Raid bosses, lineups, and reward planning"
+        "description": "CID, JJK, and Ragnarok raid loops with wave priorities"
       },
       {
         "icon": "ClipboardCheck",
@@ -300,143 +300,225 @@
     },
     "lucidBlocksQualiaAndBaseBuilding": {
       "title": "Anime Reversal Traits Guide",
-      "displayType": "cards",
-      "intro": "Traits are one of the fastest multipliers in Anime Reversal. A strong reroll plan gives better returns than random reroll spending.",
+      "displayType": "tableCards",
+      "intro": "In Anime Reversal, traits are changed through the Mandra (Traits) NPC in the Upgrades area, and Trait Rerolls are one of the highest-value code rewards. Current pairings should match each unit's scaling style instead of chasing random rerolls.",
       "cards": [
         {
-          "name": "Anime Reversal Trait Tier Priorities",
-          "description": "Treat your trait plan like a tier list: best-in-slot traits for carries first, then efficient utility traits for supports."
+          "name": "Anime Reversal Trait Setup: Ruda (Fist)",
+          "role": "Ground DPS",
+          "bestTrait": "Elite",
+          "rerollPriority": "Very High",
+          "rerollStation": "Mandra (Traits) NPC",
+          "description": "Ruda (Fist) is one of the strongest Ground carries with Full AOE scaling, so Elite is the cleanest high-impact trait target."
         },
         {
-          "name": "Anime Reversal Reroll Efficiency",
-          "description": "Set reroll budgets by unit value so premium rerolls are reserved for long-term anchors such as Ruda or RedHair routes."
+          "name": "Anime Reversal Trait Setup: RedHair (Emperor/Awaken)",
+          "role": "AOE Carry",
+          "bestTrait": "Elite",
+          "rerollPriority": "Very High",
+          "rerollStation": "Mandra (Traits) NPC",
+          "description": "The RedHair line stays relevant from progression into late-game clears, and Awaken adds reliable stun, so damage-first rolling has top value."
         },
         {
-          "name": "Anime Reversal Unit-Trait Pairing",
-          "description": "Match high-scaling damage traits to core carries and control-focused traits to freeze or stun supports."
+          "name": "Anime Reversal Trait Setup: Kirita (Order)",
+          "role": "Boss DPS",
+          "bestTrait": "Zodiac",
+          "rerollPriority": "High",
+          "rerollStation": "Mandra (Traits) NPC",
+          "description": "Kirita (Order) prefers a crit-and-sustain pairing, and Zodiac is the most practical route for keeping the Order branch competitive."
         },
         {
-          "name": "Anime Reversal Mandra NPC Workflow",
-          "description": "Use a fixed reroll workflow at Mandra to avoid overspending and keep progression pacing stable."
+          "name": "Anime Reversal Trait Setup: IceQueen (Empress)",
+          "role": "Freeze Support",
+          "bestTrait": "SPA Booster",
+          "rerollPriority": "High",
+          "rerollStation": "Mandra (Traits) NPC",
+          "description": "IceQueen provides control uptime, so lower SPA creates more value than raw damage traits on support-focused runs."
+        },
+        {
+          "name": "Anime Reversal Trait Setup: FireFist (Captain)",
+          "role": "Burn DPS",
+          "bestTrait": "Doom",
+          "rerollPriority": "Medium",
+          "rerollStation": "Mandra (Traits) NPC",
+          "description": "FireFist scales best in packed wave pressure where Burn keeps ticking, and Doom is the trait that pushes that lane-clearing profile."
+        },
+        {
+          "name": "Anime Reversal Trait Setup: Bacchi (Rockstar)",
+          "role": "AOE DPS",
+          "bestTrait": "Luna or Silence",
+          "rerollPriority": "Medium",
+          "rerollStation": "Mandra (Traits) NPC",
+          "description": "Bacchi is guaranteed through the battle pass, and lower SPA helps passive cycling, making Luna or Silence better than random stat rolls."
         }
       ],
       "highlights": [
-        "Anime Reversal trait rerolls should target core carries first",
-        "Anime Reversal support traits come after carry optimization",
-        "Anime Reversal reroll budgets prevent resource collapse",
-        "Anime Reversal trait pairing should be reviewed after patches"
+        "Anime Reversal trait rerolls come from code rewards and should be saved for long-term carries.",
+        "Anime Reversal damage traits should be prioritized on Ground DPS anchors first.",
+        "Anime Reversal freeze and stun supports gain more from SPA-focused trait rolling.",
+        "Anime Reversal Mandra reroll sessions should use a fixed budget by unit priority."
       ]
     },
     "lucidBlocksWorldRegions": {
       "title": "Anime Reversal Evolutions",
-      "displayType": "regionCards",
-      "intro": "Evolution pages should show exact costs, NPC flow, and upgrade impact so players can decide if each Anime Reversal evolution is worth the investment.",
+      "displayType": "timelineCards",
+      "intro": "Anime Reversal evolutions use a mix of materials, timed NPC windows, quest chains, and portal farming. The best routes are the ones that unlock real gameplay spikes such as stun control, boss pressure, or elite secret progression.",
       "regions": [
         {
-          "name": "Anime Reversal RedHair (Awaken) Route",
-          "type": "Priority Evolution",
-          "description": "Requires the Haki Hat from the RedHair NPC plus 10,000 Gems, 10 Rerolls, and 15,000 Gold to unlock premium stun control."
+          "name": "Anime Reversal Evolution Route: RedHair to RedHair (Awaken)",
+          "type": "Timed NPC Evolution",
+          "targetForm": "RedHair (Awaken)",
+          "materials": "Haki Hat EVO item, 10,000 Gems, 10 Rerolls, and 15,000 Gold",
+          "trigger": "The RedHair NPC appears in the lobby once every hour for 5 minutes, and Traveller NPC provides spawn hints.",
+          "steps": [
+            "Build RedHair into RedHair (Emperor) first.",
+            "Check Traveller NPC for the active RedHair spawn hint.",
+            "Find the RedHair NPC during the hourly lobby window.",
+            "Buy the Haki Hat EVO item and complete the evolution."
+          ],
+          "description": "RedHair (Awaken) adds reliable stun on top of strong full-AOE damage, making it one of the highest-value upgrades."
         },
         {
-          "name": "Anime Reversal Evolution Cost Planning",
-          "type": "Resource Planning",
-          "description": "Track Gems, Gold, and rerolls together so evolution goals do not delay your core banner or trait routes."
+          "name": "Anime Reversal Evolution Route: Hu Tao Secret Path",
+          "type": "Quest Chain Evolution",
+          "targetForm": "Hu Tao Funeral Parlor Elite into Doom Evolved Hu Tao",
+          "materials": "Secret quest line completion",
+          "trigger": "Finish the full Hu Tao secret quest route before advancing to the evolved Doom branch.",
+          "steps": [
+            "Start the Anime Reversal Hu Tao secret unlock route.",
+            "Complete the full quest chain tied to the secret line.",
+            "Claim Hu Tao Funeral Parlor Elite.",
+            "Advance the route into Doom Evolved Hu Tao for late-game scaling."
+          ],
+          "description": "This evolution line is a high-interest quest grind because it moves from secret unlock into a separate evolved showcase form."
         },
         {
-          "name": "Anime Reversal NPC Prerequisite Checks",
-          "type": "Requirement Gate",
-          "description": "List required NPCs and trigger conditions before material farming to prevent wasted grinding loops."
-        },
-        {
-          "name": "Anime Reversal Before-and-After Value",
-          "type": "Performance Delta",
-          "description": "Show the practical power jump after evolution so players can compare it against other upgrade priorities."
+          "name": "Anime Reversal Evolution Route: QinSha, Saka, and Hadas",
+          "type": "Portal Farm Evolution",
+          "targetForm": "0.1% Elite Secret variants",
+          "materials": "Ragnarok portals, premium tickets, and Qin Sha NPC trade route",
+          "trigger": "Push higher Ragnarok portal tiers, then convert progression through the Qin Sha NPC trade path.",
+          "steps": [
+            "Farm Ragnarok portals consistently in loops.",
+            "Push into higher-tier portal runs for premium ticket flow.",
+            "Locate the Qin Sha NPC trade route tied to portal progression.",
+            "Convert the farm route into elite secret evolution value."
+          ],
+          "description": "These units become significantly stronger endgame targets once their elite secret evolution routes are online."
         }
       ]
     },
     "lucidBlocksCreaturesAndEnemies": {
       "title": "Anime Reversal Secret Units",
-      "displayType": "creatureCards",
-      "intro": "Secret unit pages are high-intent traffic in Anime Reversal. Each entry should clearly show obtain route, trigger logic, and practical roster value.",
+      "displayType": "secretCards",
+      "intro": "Anime Reversal secret units combine RNG, quests, portals, and evolution routes. The highest-interest targets are the units that become core meta carries or unlock long quest-to-evolution chains.",
       "creatures": [
-        {
-          "name": "Hu Tao (Funeral Parlor Elite)",
-          "role": "Elite Unit",
-          "description": "A high-value elite route with strong demand due to rarity and burst utility in Anime Reversal."
-        },
-        {
-          "name": "Yoji (Modula Secret)",
-          "role": "Secret Unit",
-          "description": "Secret-tier unit with high search intent; ideal for dedicated obtain-route documentation."
-        },
-        {
-          "name": "Kirita (Dual)",
-          "role": "Secret Unit",
-          "description": "Popular secret evolution route with broad viability in boss and wave pressure scenarios."
-        },
-        {
-          "name": "IceQueen (Empress)",
-          "role": "Secret Unit",
-          "description": "High-impact control secret that improves consistency in hard-content lineups."
-        },
-        {
-          "name": "Igres (Elite)",
-          "role": "Elite Unit",
-          "description": "Elite-grade boss damage option that pairs well with scaling DPS anchors."
-        },
         {
           "name": "RedHair (Awaken)",
           "role": "Secret EVO",
-          "description": "Top-end evolution secret that combines AOE output with reliable stun control."
+          "obtainMethod": "Start from RedHair, evolve into Emperor, then use the Haki Hat route from the timed lobby NPC.",
+          "prerequisites": "RedHair (Emperor), RedHair NPC spawn, and Haki Hat EVO item",
+          "currentRole": "Best overall unit",
+          "worthBuilding": "Top priority",
+          "description": "RedHair (Awaken) is the most important Anime Reversal secret target because it combines full-AOE pressure with reliable stun."
         },
         {
-          "name": "Secret Unit Route Planner",
-          "role": "Progress Tool",
-          "description": "Track quest gates, required materials, and drop opportunities to optimize secret chasing."
+          "name": "Hu Tao Funeral Parlor Elite",
+          "role": "Secret / Elite Route",
+          "obtainMethod": "Complete the full Hu Tao quest path, then push toward the evolved Doom showcase branch.",
+          "prerequisites": "Hu Tao secret quest completion",
+          "currentRole": "Late-game secret DPS chase",
+          "worthBuilding": "High priority",
+          "description": "Hu Tao is one of the most searched Anime Reversal secrets because the unlock is quest-based and extends into an evolved endgame route."
+        },
+        {
+          "name": "Yoji (Modula)",
+          "role": "Secret Update Target",
+          "obtainMethod": "Chase current JJK-era update routes and secret progression content.",
+          "prerequisites": "Endgame update progression",
+          "currentRole": "Current update chase unit",
+          "worthBuilding": "High priority",
+          "description": "Yoji (Modula) remains a headline Anime Reversal update target with strong showcase value for current-cycle players."
+        },
+        {
+          "name": "QinSha (Emperor)",
+          "role": "Secret",
+          "obtainMethod": "Farm Ragnarok portals, then use the Qin Sha NPC route linked to premium-ticket progression.",
+          "prerequisites": "Portal farming plus secret NPC trade path",
+          "currentRole": "A-tier secret option",
+          "worthBuilding": "Strong side chase",
+          "description": "QinSha is a portal-linked Anime Reversal secret with a clear endgame farm target instead of a basic summon-only unlock."
         }
       ]
     },
     "lucidBlocksMobilityGear": {
       "title": "Anime Reversal Raids",
-      "displayType": "itemCards",
-      "intro": "Raid entries should cover boss behavior, minimum team setup, wave pacing, and reward value so Anime Reversal players can plan consistent clears.",
+      "displayType": "raidCards",
+      "intro": "Anime Reversal raid and portal content is a roster check centered on CID Raid, JJK Portal, and Ragnarok portal farming. The most consistent clears still use economy opening, Ground DPS pressure, and one stall-control slot.",
       "items": [
         {
-          "name": "Anime Reversal Raid Boss Profiles",
-          "type": "Raid Intel",
-          "description": "Document each raid boss pattern, threat windows, and control breakpoints before entering."
+          "name": "Anime Reversal CID Raid Strategy",
+          "type": "CID Raid",
+          "soloPossible": "Yes",
+          "chaseTarget": "CID raid progression and consistent clear route",
+          "minimumCore": "1 farm unit, 2 meta Ground DPS units, and 1 freeze or stun support",
+          "bestUnits": [
+            "RedHair (Awaken)",
+            "Ruda (Fist)",
+            "IceQueen (Empress)",
+            "SpeedCEO"
+          ],
+          "wavePriorities": [
+            "Open with economy first so your damage curve is stable before heavy boss waves.",
+            "Get one full-AOE Ground carry online early.",
+            "Add stall support before the boss reaches the main lane."
+          ],
+          "description": "RedHair stun plus IceQueen freeze is the easiest control loop for stable Anime Reversal CID clears."
         },
         {
-          "name": "Anime Reversal Raid Team Core",
-          "type": "Lineup Plan",
-          "description": "Open with one carry DPS, one control support, and one economy slot for safer progression pacing."
+          "name": "Anime Reversal JJK Portal Strategy",
+          "type": "JJK Portal",
+          "soloPossible": "Yes",
+          "chaseTarget": "Update 3 JJK roster routes including Gaju, Sokuna, and Yoji (Modula)",
+          "minimumCore": "Economy plus one wave-clear carry and one boss-delete pairing",
+          "bestUnits": [
+            "Igres (Elite)",
+            "Song Woo (Assassin)",
+            "RedHair (Awaken)",
+            "SpeedCEO"
+          ],
+          "wavePriorities": [
+            "Stabilize lanes first, then pivot upgrades into boss damage.",
+            "Use Song Woo and Igres together for high boss pressure.",
+            "Keep one control slot active to prevent portal overruns."
+          ],
+          "description": "JJK Portal is the clearest current Anime Reversal route for players chasing the newest update-cycle secrets."
         },
         {
-          "name": "Anime Reversal Solo Feasibility",
-          "type": "Difficulty Check",
-          "description": "Mark which raids are practical solo and where co-op support dramatically improves consistency."
-        },
-        {
-          "name": "Anime Reversal Wave Priorities",
-          "type": "Wave Control",
-          "description": "Prioritize dangerous elites and stagger control cooldowns to stabilize mid-wave spikes."
-        },
-        {
-          "name": "Anime Reversal Reward Tables",
-          "type": "Reward Planning",
-          "description": "Show expected drops and milestone rewards so players can choose the best raid farming route."
-        },
-        {
-          "name": "Anime Reversal Unit Counter Picks",
-          "type": "Counter Strategy",
-          "description": "Highlight the specific units that simplify boss phases and improve clear speed."
+          "name": "Anime Reversal Ragnarok Tier 8 Strategy",
+          "type": "Ragnarok Tier 8 Portals",
+          "soloPossible": "Yes",
+          "chaseTarget": "QinSha route, premium tickets, and secret NPC trade progression",
+          "minimumCore": "High-end Ground DPS lineup with one support control slot",
+          "bestUnits": [
+            "Ruda (Fist)",
+            "RedHair (Awaken)",
+            "Igres (Elite)",
+            "Song Woo (Assassin)"
+          ],
+          "wavePriorities": [
+            "Build stable wave clear before late-portal spikes begin.",
+            "Preserve boss damage for the harder end sections.",
+            "Farm this mode in loops when targeting QinSha and elite secret routes."
+          ],
+          "description": "Ragnarok Tier 5+ routes are important because they feed the Anime Reversal secret NPC progression tied to QinSha."
         }
       ],
       "unlockMilestones": [
-        "Build an Anime Reversal raid-ready core",
-        "Clear an Anime Reversal raid with stable economy timing",
-        "Optimize Anime Reversal raid rewards per run",
-        "Adjust Anime Reversal raid comps after patch changes"
+        "Build an Anime Reversal raid core with economy, Ground DPS, and one control slot.",
+        "Clear Anime Reversal CID Raid with stable economy pacing.",
+        "Farm Anime Reversal JJK Portal for current update chase units.",
+        "Loop Anime Reversal Ragnarok portals for QinSha and elite secret progression."
       ]
     },
     "lucidBlocksFarmingAndGrowth": {

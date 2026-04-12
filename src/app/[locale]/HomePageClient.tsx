@@ -425,25 +425,51 @@ export default function HomePageClient({
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksQualiaAndBaseBuilding']} locale={locale}>{t.modules.lucidBlocksQualiaAndBaseBuilding.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksQualiaAndBaseBuilding.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+          <div className="scroll-reveal grid grid-cols-1 lg:grid-cols-2 gap-4 mb-8">
             {t.modules.lucidBlocksQualiaAndBaseBuilding.cards.map((card: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <h3 className="font-bold text-lg mb-2 text-[hsl(var(--nav-theme-light))]">
-                  <LinkedTitle linkData={moduleLinkMap[`lucidBlocksQualiaAndBaseBuilding::cards::${index}`]} locale={locale}>
-                    {card.name}
-                  </LinkedTitle>
-                </h3>
+                <div className="flex flex-wrap items-center gap-2 mb-3">
+                  <h3 className="font-bold text-lg text-[hsl(var(--nav-theme-light))]">
+                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksQualiaAndBaseBuilding::cards::${index}`]} locale={locale}>
+                      {card.name}
+                    </LinkedTitle>
+                  </h3>
+                  {card.role ? (
+                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+                      {card.role}
+                    </span>
+                  ) : null}
+                </div>
                 <p className="text-muted-foreground text-sm">{card.description}</p>
+                {(card.bestTrait || card.rerollPriority || card.rerollStation) ? (
+                  <div className="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-2">
+                    <div className="p-3 rounded-lg border border-border bg-[hsl(var(--nav-theme)/0.06)]">
+                      <p className="text-[10px] uppercase tracking-wide text-muted-foreground">Best Trait</p>
+                      <p className="text-sm font-medium">{card.bestTrait || 'N/A'}</p>
+                    </div>
+                    <div className="p-3 rounded-lg border border-border bg-[hsl(var(--nav-theme)/0.06)]">
+                      <p className="text-[10px] uppercase tracking-wide text-muted-foreground">Reroll Priority</p>
+                      <p className="text-sm font-medium">{card.rerollPriority || 'N/A'}</p>
+                    </div>
+                    <div className="p-3 rounded-lg border border-border bg-[hsl(var(--nav-theme)/0.06)]">
+                      <p className="text-[10px] uppercase tracking-wide text-muted-foreground">Reroll Station</p>
+                      <p className="text-sm font-medium">{card.rerollStation || 'N/A'}</p>
+                    </div>
+                  </div>
+                ) : null}
               </div>
             ))}
           </div>
           <div className="scroll-reveal grid grid-cols-2 md:grid-cols-4 gap-4">
-            {t.modules.lucidBlocksQualiaAndBaseBuilding.highlights.map((h: string, i: number) => (
-              <div key={i} className="p-4 bg-white/5 border border-border rounded-xl text-center hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <Home className="w-6 h-6 text-[hsl(var(--nav-theme-light))] mx-auto mb-2" />
-                <p className="text-sm">{h}</p>
-              </div>
-            ))}
+            {t.modules.lucidBlocksQualiaAndBaseBuilding.highlights.map((h: string, i: number) => {
+              const HighlightIcon = [Sparkles, TrendingUp, Settings, Home][i % 4]
+              return (
+                <div key={i} className="p-4 bg-white/5 border border-border rounded-xl text-center hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                  <HighlightIcon className="w-6 h-6 text-[hsl(var(--nav-theme-light))] mx-auto mb-2" />
+                  <p className="text-sm">{h}</p>
+                </div>
+              )
+            })}
           </div>
         </div>
       </section>
@@ -455,19 +481,41 @@ export default function HomePageClient({
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksWorldRegions']} locale={locale}>{t.modules.lucidBlocksWorldRegions.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksWorldRegions.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="scroll-reveal relative pl-6 border-l-2 border-[hsl(var(--nav-theme)/0.3)] space-y-6">
             {t.modules.lucidBlocksWorldRegions.regions.map((region: any, index: number) => (
-              <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-3 mb-3">
-                  <Eye className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                  <h3 className="font-bold">
-                    <LinkedTitle linkData={moduleLinkMap[`lucidBlocksWorldRegions::regions::${index}`]} locale={locale}>
-                      {region.name}
-                    </LinkedTitle>
-                  </h3>
-                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{region.type}</span>
+              <div key={index} className="relative">
+                <div className="absolute -left-[1.65rem] w-5 h-5 rounded-full bg-[hsl(var(--nav-theme))] border-2 border-background" />
+                <div className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                  <div className="flex flex-wrap items-center gap-3 mb-3">
+                    <Eye className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                    <h3 className="font-bold">
+                      <LinkedTitle linkData={moduleLinkMap[`lucidBlocksWorldRegions::regions::${index}`]} locale={locale}>
+                        {region.name}
+                      </LinkedTitle>
+                    </h3>
+                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{region.type}</span>
+                  </div>
+                  {region.targetForm ? (
+                    <p className="text-sm mb-2"><span className="text-[hsl(var(--nav-theme-light))] font-semibold">Target Form:</span> {region.targetForm}</p>
+                  ) : null}
+                  {region.materials ? (
+                    <p className="text-sm mb-2"><span className="text-[hsl(var(--nav-theme-light))] font-semibold">Materials:</span> {region.materials}</p>
+                  ) : null}
+                  {region.trigger ? (
+                    <p className="text-sm mb-3"><span className="text-[hsl(var(--nav-theme-light))] font-semibold">Trigger:</span> {region.trigger}</p>
+                  ) : null}
+                  {region.steps?.length ? (
+                    <ul className="space-y-2 mb-3">
+                      {region.steps.map((step: string, stepIndex: number) => (
+                        <li key={stepIndex} className="flex items-start gap-2">
+                          <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-1 flex-shrink-0" />
+                          <span className="text-sm text-muted-foreground">{step}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  ) : null}
+                  <p className="text-muted-foreground text-sm">{region.description}</p>
                 </div>
-                <p className="text-muted-foreground text-sm">{region.description}</p>
               </div>
             ))}
           </div>
@@ -481,17 +529,35 @@ export default function HomePageClient({
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksCreaturesAndEnemies']} locale={locale}>{t.modules.lucidBlocksCreaturesAndEnemies.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksCreaturesAndEnemies.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
             {t.modules.lucidBlocksCreaturesAndEnemies.creatures.map((c: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="mb-3">
-                  <span className={`text-xs px-2 py-1 rounded-full border ${["Hostile Enemy","Major Threat","Elite Threat"].includes(c.role) ? "bg-[hsl(var(--nav-theme)/0.18)] border-[hsl(var(--nav-theme)/0.45)] text-[hsl(var(--nav-theme-light))]" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}>{c.role}</span>
+                <div className="flex flex-wrap items-center gap-2 mb-3">
+                  <span className="text-xs px-2 py-1 rounded-full border bg-[hsl(var(--nav-theme)/0.12)] border-[hsl(var(--nav-theme)/0.35)] text-[hsl(var(--nav-theme-light))]">
+                    {c.role}
+                  </span>
+                  {c.worthBuilding ? (
+                    <span className="text-xs px-2 py-1 rounded-full border bg-[hsl(var(--nav-theme)/0.08)] border-[hsl(var(--nav-theme)/0.25)]">
+                      {c.worthBuilding}
+                    </span>
+                  ) : null}
                 </div>
                 <h3 className="font-bold mb-2">
                   <LinkedTitle linkData={moduleLinkMap[`lucidBlocksCreaturesAndEnemies::creatures::${index}`]} locale={locale}>
                     {c.name}
                   </LinkedTitle>
                 </h3>
+                <div className="space-y-2 text-sm mb-3">
+                  {c.currentRole ? (
+                    <p><span className="text-[hsl(var(--nav-theme-light))] font-semibold">Current Role:</span> {c.currentRole}</p>
+                  ) : null}
+                  {c.prerequisites ? (
+                    <p><span className="text-[hsl(var(--nav-theme-light))] font-semibold">Prerequisites:</span> {c.prerequisites}</p>
+                  ) : null}
+                  {c.obtainMethod ? (
+                    <p><span className="text-[hsl(var(--nav-theme-light))] font-semibold">Obtain Method:</span> {c.obtainMethod}</p>
+                  ) : null}
+                </div>
                 <p className="text-muted-foreground text-sm">{c.description}</p>
               </div>
             ))}
@@ -506,18 +572,51 @@ export default function HomePageClient({
             <h2 className="text-4xl md:text-5xl font-bold mb-4"><LinkedTitle linkData={moduleLinkMap['lucidBlocksMobilityGear']} locale={locale}>{t.modules.lucidBlocksMobilityGear.title}</LinkedTitle></h2>
             <p className="text-muted-foreground text-lg max-w-3xl mx-auto">{t.modules.lucidBlocksMobilityGear.intro}</p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-8">
+          <div className="scroll-reveal grid grid-cols-1 lg:grid-cols-3 gap-4 mb-8">
             {t.modules.lucidBlocksMobilityGear.items.map((item: any, index: number) => (
               <div key={index} className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
-                <div className="flex items-center gap-2 mb-3">
+                <div className="flex flex-wrap items-center gap-2 mb-3">
                   <ArrowRight className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                   <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">{item.type}</span>
+                  {item.soloPossible ? (
+                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.08)] border border-[hsl(var(--nav-theme)/0.25)]">
+                      Solo: {item.soloPossible}
+                    </span>
+                  ) : null}
                 </div>
                 <h3 className="font-bold mb-2">
                   <LinkedTitle linkData={moduleLinkMap[`lucidBlocksMobilityGear::items::${index}`]} locale={locale}>
                     {item.name}
                   </LinkedTitle>
                 </h3>
+                {item.chaseTarget ? (
+                  <p className="text-sm mb-2"><span className="text-[hsl(var(--nav-theme-light))] font-semibold">Chase Target:</span> {item.chaseTarget}</p>
+                ) : null}
+                {item.minimumCore ? (
+                  <p className="text-sm mb-3"><span className="text-[hsl(var(--nav-theme-light))] font-semibold">Minimum Core:</span> {item.minimumCore}</p>
+                ) : null}
+                {item.bestUnits?.length ? (
+                  <div className="mb-3">
+                    <p className="text-[11px] uppercase tracking-wide text-muted-foreground mb-2">Best Units</p>
+                    <div className="flex flex-wrap gap-2">
+                      {item.bestUnits.map((unit: string, unitIndex: number) => (
+                        <span key={unitIndex} className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.08)] border border-[hsl(var(--nav-theme)/0.25)]">
+                          {unit}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                ) : null}
+                {item.wavePriorities?.length ? (
+                  <ul className="space-y-2 mb-3">
+                    {item.wavePriorities.map((priority: string, priorityIndex: number) => (
+                      <li key={priorityIndex} className="flex items-start gap-2">
+                        <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-1 flex-shrink-0" />
+                        <span className="text-sm text-muted-foreground">{priority}</span>
+                      </li>
+                    ))}
+                  </ul>
+                ) : null}
                 <p className="text-muted-foreground text-sm">{item.description}</p>
               </div>
             ))}
