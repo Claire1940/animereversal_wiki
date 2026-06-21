@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { NextIntlClientProvider } from 'next-intl'
-import { getMessages } from 'next-intl/server'
+import { getMessages, setRequestLocale } from 'next-intl/server'
 import { notFound } from 'next/navigation'
 import { routing, type Locale } from '@/i18n/routing'
 import { buildLanguageAlternates } from '@/lib/i18n-utils'
@@ -52,6 +52,7 @@ export function generateStaticParams() {
 // 生成元数据
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
 	const { locale } = await params
+	setRequestLocale(locale)
 	const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.animereversal.wiki'
 	const heroImage = new URL('/images/hero.webp', siteUrl).toString()
 
@@ -110,6 +111,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function LocaleLayout({ children, params }: Props) {
 	const { locale } = await params
+	setRequestLocale(locale)
 
 	// 验证 locale
 	if (!routing.locales.includes(locale as Locale)) {

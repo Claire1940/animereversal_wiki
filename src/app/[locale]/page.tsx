@@ -1,3 +1,4 @@
+import { setRequestLocale } from 'next-intl/server'
 import type { Metadata } from 'next'
 import { getLatestArticles } from '@/lib/getLatestArticles'
 import { buildModuleLinkMap } from '@/lib/buildModuleLinkMap'
@@ -42,6 +43,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { locale } = await params
+  setRequestLocale(locale)
   const siteUrl = getSiteUrl()
   const canonicalPath = locale === 'en' ? '/' : `/${locale}`
   const heroImage = new URL('/images/hero.webp', siteUrl).toString()
@@ -78,6 +80,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
 export default async function HomePage({ params }: PageProps) {
   const { locale } = await params
+  setRequestLocale(locale)
   const siteUrl = getSiteUrl()
   const heroImage = new URL('/images/hero.webp', siteUrl).toString()
 
